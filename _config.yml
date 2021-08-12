@@ -13,7 +13,7 @@ name                     : &name "B. Zhang"
 description              : &description "personal description"
 url                      : https://ijmhd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "ijmhd/ijmhd.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -84,19 +84,19 @@ author:
   avatar           : "profile.png"
   bio              : "Teacher, Scientist, Geek"
   location         : "327 HOC Science Building"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  employer         : "The University of Hong Kong"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=AC8jpboAAAAJ"
+  email            : "BINZH@HKU.HK"
+  researchgate     : "https://www.researchgate.net/profile/Binzheng_Zhang"
   uri              :
-  bitbucket        :
+  bitbucket        : "bzhang82"
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "tiegcm"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,11 +109,11 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "EASC2410"
   wikipedia        :
 
 
