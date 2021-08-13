@@ -118,4 +118,5 @@ Honors and Awards
 ======
 - McQueen Fellow, High Altitude Observatory, NCAR
 - Excellent Young Scientst Award, NSFC
-- Science and Technique Achievement Award, UCAR NASA-Space Grant Award
+- Science and Technique Achievement Award， UCAR 
+- NASA-Space Grant Award
