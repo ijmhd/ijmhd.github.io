@@ -32,6 +32,7 @@ Work experience
 Funded Research
 ======
 
+
 1. Ionosphere-Magnetosphere coupling in planetary space environment systems (2020-2022), NSFC Excellent Young Scientist Award (total grant amount $ 1,455,000 HKD)
 2. Impact of Terrestrial-Sourced Plasma on the Dayside Solar Wind- Magnetosphere-Ionosphere interaction (2019-2021), RGC General Research Fund (total grant amount $ 502,444 HKD)
 3. HKU Overseas Fellowship Awards (2019-2020), HKU Overseas Fellowship Awards (total grant amount $50,000 HKD)
@@ -43,6 +44,7 @@ Funded Research
 
 Journal Publications
 ======
+
 1. **Zhang, B**., et al. (2019), GAMERA: A three-dimensional finite-volume MHD solver in non-orthogonal curvilinear geometries, the Astrophysical Journal Supplement Series., 244(1), 20, [doi:10.3847/1538-4365/ab3a4c](http://doi.org/10.3847/1538-4365/ab3a4c)
 2. Lin, D., Wang, W., Scales, W. A., Pham, K., Liu, J., Zhang, B., et al. (2019). SAPS in the 17 March 2013 storm event: Initial results from the coupled magnetosphere-ionosphere-thermosphere model. Journal of Geophysical Research: Space Physics, 124, 6212– 6225. [doi:10.1029/2019JA026698](https://doi.org/10.1029/2019JA026698)
 3. W. Wang, Dang, T., Lei, J., Zhang, B., and Zhang, S.-R. (2019).,Physical Processes Driving the Response of the F2-region Ionosphere to the 21 August 2017 Solar Eclipse at Millstone Hill, Journal of Geophysical Research: Space Physics, 124, 2978– 2991. [doi:10.1029/2018JA025479](https://doi.org/10.1029/2018JA025479)
