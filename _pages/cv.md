@@ -44,7 +44,7 @@ Funded Research
 
 Journal Publications
 ======
-
+1. Wang, L., Luan, X., Lei, J., Lynch, K. A., and **Zhang, B**. (2021). The universal time variations of the intensity of afternoon aurora in equinoctial seasons. Journal of Geophysical Research: Space Physics, 126, e2020JA028504, [doi:10.1029/2020JA028504](https://doi.org/10.1029/2020JA028504)
 1. McGranaghan, R. M., Ziegler, J., Bloch, T., Hatch, S., Camporeale, E., Lynch, K., Ma. Owens, J. Gjerloev, **B. Zhang** and S. Skone et al. (2021). Toward a next generation particle precipitation model: Mesoscale prediction through machine learning (a case study and framework for progress). Space Weather, 19, [doi:10.1029/2020SW002684](https://doi.org/10.1029/2020SW002684)
 2. **B. Zhang**, P. A. Delamere, Z. Yao, B. Bonfond, D. Lin, K. A. Sorathia, O. J. Brambles, W. Lotko, J. S. Garretson, V. G. Merkin （2021）, How Jupiter’s unusual magnetospheric topology structures its aurora. Science Advances 7, eabd1204, [doi:10.1126/sciadv.abd1204](http://doi.org/sciadv.abd1204)
 3. 	K. H. Pham, W. Lotko, R. Varney, **B. Zhang**, J. Liu, Thermospheric Impact on the Magnetosphere through Ionospheric Outflow. Journal of Geophysical Research: Space Physics 126, e2020JA028656 (2021), [doi:10.1029/2020JA028656](https://doi.org/10.1029/2020JA028656)
