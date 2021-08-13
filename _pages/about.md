@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my page on the web!
-====
+<!--Welcome to my page on the web!-->
 
 <img src="IMG_3591.JPG" alt="drawing" width="200" style="float: right"/>
 
