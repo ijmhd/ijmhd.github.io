@@ -29,11 +29,11 @@ Work experience
 Externally Funded Research
 ======
 
-1. Ionospheric Control and Low-Altitude Signatures of Magnetopause Activity (2021-2023), RGC General Research Fund
-1. Effects of non-thermal plasma populations in the global configuration of the Jovian magnetosphere (2020-2022), RGC General Research Fund
+1. Ionospheric Control and Low-Altitude Signatures of Magnetopause Activity (2021-2023), RGC-GRF
+1. Effects of non-thermal plasma populations in the global configuration of the Jovian magnetosphere (2020-2022), RGC-GRF
 1. Ionosphere-Magnetosphere coupling in planetary space environment systems (2020-2022), NSFC Excellent Young Scientist Award
-2. Impact of Terrestrial-Sourced Plasma on the Dayside Solar Wind- Magnetosphere-Ionosphere interaction (2019-2021), RGC General Research Fund
-4. Effects of Meso-Scale Ionosphere-Thermosphere Dynamics on Topside O+ Ion Upflow and Outflow (2018-2020), RGC Early Career Scheme 
+2. Impact of Terrestrial-Sourced Plasma on the Dayside Solar Wind- Magnetosphere-Ionosphere interaction (2019-2021), RGC-GRF
+4. Effects of Meso-Scale Ionosphere-Thermosphere Dynamics on Topside O+ Ion Upflow and Outflow (2018-2020), RGC-ECS
 6. Ion-neutral coupling in the cusp region, Principle Investigator (2016-2019), NSF-AGS, Award # 1521892
 7. Global Simulations of Non-Ideal Transport in the Magnetotail, Co-Investigator (2014- 2017), NSF-GEM, Grant # 1404599
 8. Drivers of thermal upwelling of neutral particles at high latitudes, Co-Principle Investigator (2014-2016), AFOSR, Award # 14RT2099
