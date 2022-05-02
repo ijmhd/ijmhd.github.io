@@ -11,17 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electric Engineering, Zhejiang University, 2005
-* M.S. in Electric Engineering, Zhejiang University, 2007
-* Ph.D in Engineering Sciences, Dartmouth College, 2012
+* B.S. in Electric Engineering, Zhejiang University, 2005, Hangzhou, China
+* M.S. in Electric Engineering, Zhejiang University, 2007, Hangzhou, China
+* Ph.D in Engineering Sciences, Dartmouth College, 2012, Hanover, NH, USA
 
 Work experience
 ======
 * 2018-present: Assistant Professor
   * Department of Earth Sciences, the University of Hong Kong
-
-* 2019-present: McQueen Fellow
-  * High Altitude Observatory, National Center for Atmospheric Research
 
 * 2016-2017: Postdoc Fellow
   * High Altitude Observatory, National Center for Atmospheric Research
@@ -29,18 +26,17 @@ Work experience
 * 2012-2015: Research Scientist
   * Thayer School of Engineering, Dartmouth College
 
-Funded Research
+Externally Funded Research
 ======
 
-
-1. Ionosphere-Magnetosphere coupling in planetary space environment systems (2020-2022), NSFC Excellent Young Scientist Award (total grant amount $ 1,455,000 HKD)
-2. Impact of Terrestrial-Sourced Plasma on the Dayside Solar Wind- Magnetosphere-Ionosphere interaction (2019-2021), RGC General Research Fund (total grant amount $ 502,444 HKD)
-3. HKU Overseas Fellowship Awards (2019-2020), HKU Overseas Fellowship Awards (total grant amount $50,000 HKD)
-4. Effects of Meso-Scale Ionosphere-Thermosphere Dynamics on Topside O+ Ion Upflow and Outflow, RGC Early Career Scheme (2019-2021), Grant #27302018 (total grant amount $198,523 HKD)
-5. Development of Coupled, High-Resolution Solar Wind - Magnetosphere - Ionosphere - Thermosphere Models for Geospace Environment and Space Weather Applications, Principle Investigator (2018-2020), Seed Fund for Basic Research, Grant # 201807159001 (total grant amount $150,000 HKD)
-6. Ion-neutral coupling in the cusp region, Principle Investigator (2016-2019), NSF-AGS, Award # 1521892 (total grant amount: $362,137 USD)
-7. Global Simulations of Non-Ideal Transport in the Magnetotail, Co-Investigator (2014- 2017), NSF-GEM, Grant # 1404599 (total grant amount: $334,158 USD)
-8. Drivers of thermal upwelling of neutral particles at high latitudes, Co-Principle Investigator (2014-2016), Air Force Office of Sponsored Research, Award # 14RT2099 (total grant amount: $379,846 USD)
+1. Ionospheric Control and Low-Altitude Signatures of Magnetopause Activity (2021-2023), RGC General Research Fund
+1. Effects of non-thermal plasma populations in the global configuration of the Jovian magnetosphere (2020-2022), RGC General Research Fund
+1. Ionosphere-Magnetosphere coupling in planetary space environment systems (2020-2022), NSFC Excellent Young Scientist Award
+2. Impact of Terrestrial-Sourced Plasma on the Dayside Solar Wind- Magnetosphere-Ionosphere interaction (2019-2021), RGC General Research Fund
+4. Effects of Meso-Scale Ionosphere-Thermosphere Dynamics on Topside O+ Ion Upflow and Outflow (2018-2020), RGC Early Career Scheme 
+6. Ion-neutral coupling in the cusp region, Principle Investigator (2016-2019), NSF-AGS, Award # 1521892
+7. Global Simulations of Non-Ideal Transport in the Magnetotail, Co-Investigator (2014- 2017), NSF-GEM, Grant # 1404599
+8. Drivers of thermal upwelling of neutral particles at high latitudes, Co-Principle Investigator (2014-2016), AFOSR, Award # 14RT2099
 
 Journal Publications
 ======
