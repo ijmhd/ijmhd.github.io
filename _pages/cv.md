@@ -40,6 +40,7 @@ Funded Research
 
 Journal Publications
 ======
+1. Dang, T., Li, X., Luo, B., Li, R., **Zhang, B**., Pham, K., et al. (2022). Unveiling the space weather during the Starlink satellites destruction event on 4 February 2022. Space Weather, 20, e2022SW003152. https://doi.org/10.1029/2022SW003152
 1. Dang, T., Lei, J., Zhang, **B., Zhang**, T., Yao, Z., Lyon, J., et al. (2022). Oxygen ion escape at Venus associated with three-dimensional Kelvin-Helmholtz instability. Geophysical Research Letters, 49, e2021GL096961. https://doi.org/10.1029/2021GL096961
 1. Gong, F., Yu, Y., Cao, J., Wei, Y., Gao, J., Li, H., et al. (2022). Simulating the solar wind-magnetosphere interaction during the Matuyama-Brunhes paleomagnetic reversal. Geophysical Research Letters, 49, e2021GL097340. https://doi.org/10.1029/2021GL097340
 1. Pham, K. H., **Zhang, B**., Sorathia, K., Dang, T., Wang, W., Merkin, V., et al. (2022). Thermospheric density perturbations produced by traveling atmospheric disturbances during August 2005 storm. Journal of Geophysical Research: Space Physics, 127, e2021JA030071. https://doi.org/10.1029/2021JA030071
