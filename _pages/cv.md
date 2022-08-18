@@ -28,7 +28,7 @@ Work experience
 
 Funded Research
 ======
-
+1. Magnetospheric Origin of Jovian Dawnstorm and Polar Auroral Emission (2022-2025), RGC General Research Fund
 1. Ionospheric Control and Low-Altitude Signatures of Magnetopause Activity (2021-2023), RGC General Research Fund
 1. Effects of non-thermal plasma populations in the global configuration of the Jovian magnetosphere (2020-2022), RGC General Research Fund
 1. Ionosphere-Magnetosphere coupling in planetary space environment systems (2020-2022), NSFC Excellent Young Scientist Award
