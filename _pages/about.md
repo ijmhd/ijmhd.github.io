@@ -18,8 +18,6 @@ I'm a space plasma physicist and planetary scientist:beer::beer::beer: working o
 
 What I'm working on
 =====
-<img src="gamera_sq.png" alt="drawing" width="200" style="float: right"/>
-
 Started from a pioneer MHD code called the Lyon-Fedder-Mobarry (LFM), my colleagues and I have developed a general-purposed code GAMERA (the LFM re-invented, name after a prominent Japanese Kaiju) solving the equations of magnetohydrodynamics (MHD). Currently GAMERA stays mostly inside the solar system, occupying the Solar corona, Inner Heliosphere, Venus, Earth, Jupiter, Saturn. Maybe Mars, Uranus, Neptune, Krypton etc. in the future.
 
 <!---![Alt Image Text](./gamera.png)--->
