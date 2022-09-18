@@ -12,7 +12,7 @@ redirect_from:
 
 <!--img src="IMG_3591.png" alt="drawing" width="200" style="float: right"/-->
 
-I'm a space plasma physicist and planetary scientist:beer::beer::beer: working on the development of first-principles, high-performance computing based numerical tools for understanding the dynamic evolution of our space environment, a.k.a., the geospace, The changing geospace environment affects activities such as communication an d operation of space systems, which is known as space weather. The computational tools developed through my research projects are potentially promising for the prediction of space weather that impacts our daily life. 
+I'm a space physicist and planetary scientist:beer::beer::beer: working on the development of first-principles, high-performance computing based numerical tools for understanding the dynamic evolution of our space environment, a.k.a., the geospace, The changing geospace environment affects activities such as communication an d operation of space systems, which is known as space weather. The computational tools developed through my research projects are potentially promising for the prediction of space weather that impacts our daily life. 
 
 <!---img src="hex.png" alt="drawing" width="160" style="float: right"/--->
 
