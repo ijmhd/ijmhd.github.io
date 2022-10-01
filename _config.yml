@@ -88,7 +88,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=AC8jpboAAAAJ"
   email            : "BINZH@HKU.HK"
-  researchgate     : "https://www.researchgate.net/profile/Binzheng_Zhang"
+  researchgate     : #"https://www.researchgate.net/profile/Binzheng_Zhang"
   uri              : "https://www.earthsciences.hku.hk/people/academic-staff/dr-zhang-binzheng"
   bitbucket        :  
   codepen          :
