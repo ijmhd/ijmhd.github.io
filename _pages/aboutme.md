@@ -11,4 +11,4 @@ I am quite fortunate to make a living by working on the things I like, that is, 
 ## PROSPECTIVE STUDENTS
 If you are a student with a broad interest in modeling space plasma environments and with a general love for applied math and science, feel free to contact me. There are plenty opportunities within my current projects/collaborations given the set of state-of-art tools I'm working on with my colleagues, and I'm always keen to get started on something new, difficult and exciting. 
 
-Please contact me before applying to the HKU grad school - I may not be recruiting studnets every year.
+Please contact me before applying to the HKU grad school - I may not be recruiting students every year..
