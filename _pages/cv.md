@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 
-* 2014-present: Associate Professor
+* 2024-present: Associate Professor
   * Department of Earth and Planetary Sciences, the University of Hong Kong
 
 * 2018-2023: Assistant Professor
