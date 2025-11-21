@@ -17,8 +17,12 @@ Education
 
 Work experience
 ======
-* 2018-present: Assistant Professor
-  * Department of Earth Sciences, the University of Hong Kong
+
+* 2014-present: Associate Professor
+  * Department of Earth and Planetary Sciences, the University of Hong Kong
+
+* 2018-2023: Assistant Professor
+  * Department of Earth and Planetary Sciences, the University of Hong Kong
 
 * 2016-2017: Postdoc Fellow
   * High Altitude Observatory, National Center for Atmospheric Research
