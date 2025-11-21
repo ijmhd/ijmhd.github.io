@@ -24,10 +24,10 @@ Work experience
 * 2018-2023: Assistant Professor
   * Department of Earth and Planetary Sciences, the University of Hong Kong
 
-* 2016-2017: Postdoc Fellow
+* 2015-2017: Postdoc Fellow
   * High Altitude Observatory, National Center for Atmospheric Research
 
-* 2012-2015: Research Scientist
+* 2012-2014: Research Scientist
   * Thayer School of Engineering, Dartmouth College
 
 Funded Research
