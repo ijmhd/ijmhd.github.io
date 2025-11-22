@@ -281,63 +281,21 @@ Pokfulam Rd., Hong Kong S.A.R. China, 999077
 
 ### Current Grants
 
-1. **General Research Fund, Hong Kong Research Grants Council (RGC)**  
-   - **Project title:** Factors control global morphology of planetary auroral emissions  
-   - **Project number:** 109000727  
-   - **Role:** Principle Investigator  
-   - **Amount:** HK$ 877,079.00  
-   - **Project Period:** 01-JAN-2024 to 31-DEC-2026
-
-2. **General Program, National Science Foundation of China (NSFC)**  
-   - **Project title:** 木星磁层顶磁重联研究  
-   - **Project number:** 42374216  
-   - **Role:** Principle Investigator  
-   - **Amount:** RMB¥ 530,000.00  
-   - **Project Period:** 01-JAN-2024 to 31-DEC-2027
+| Project Title | Funding Agency | Project Number | Amount | Project Period |
+|--------------|---------------|----------------|--------|----------------|
+| Factors control global morphology of planetary auroral emissions | General Research Fund, Hong Kong Research Grants Council (RGC) | 109000727 | HK$ 877,079.00 | 01-JAN-2024 to 31-DEC-2026 |
+| 木星磁层顶磁重联研究 | General Program, National Science Foundation of China (NSFC) | 42374216 | RMB¥ 530,000.00 | 01-JAN-2024 to 31-DEC-2027 |
 
 ### Previous Grants
 
-3. **General Research Fund, Hong Kong Research Grants Council (RGC)**  
-   - **Project title:** Magnetospheric Origin of Jovian Auroral Dawnstorms and Polar Emission  
-   - **Project number:** 106220156  
-   - **Role:** Principle Investigator  
-   - **Amount:** HK$ 793,000.00  
-   - **Project Period:** 01-JAN-2023 to 31-DEC-2025
-
-4. **General Research Fund, Hong Kong Research Grants Council (RGC)**  
-   - **Project title:** Ionospheric Control and Low-Altitude Signatures of Magnetopause Activity  
-   - **Project number:** 106210140  
-   - **Role:** Principle Investigator  
-   - **Amount:** HK$ 608,015.00  
-   - **Project Period:** 01-JAN-2022 to 31-DEC-2024
-
-5. **General Research Fund, Hong Kong Research Grants Council (RGC)**  
-   - **Project title:** Effects of non-thermal plasma populations in the global configuration of the Jovian magnetosphere  
-   - **Project number:** 106200217  
-   - **Role:** Principle Investigator  
-   - **Amount:** HK$ 898,524.00  
-   - **Project Period:** 01-JAN-2021 to 31-DEC-2023
-
-6. **Excellent Young Scientist Scheme, National Science Foundation of China (NSFC)**  
-   - **Project title:** Space Physics  
-   - **Project number:** 260840010  
-   - **Role:** Principle Investigator  
-   - **Amount:** HK$ 1,730,285.00  
-   - **Project Period:** 01-JAN-2020 to 31-DEC-2022
-
-7. **General Research Fund, Hong Kong Research Grants Council (RGC)**  
-   - **Project title:** Impact of Terrestrial-Sourced Plasma on the Dayside Solar Wind-Magnetosphere-Ionosphere interaction  
-   - **Project number:** 106190144  
-   - **Role:** Principle Investigator  
-   - **Amount:** HK$ 502,444.00  
-   - **Project Period:** 01-JAN-2020 to 31-DEC-2022
-
-8. **General Research Fund, Hong Kong Research Grants Council (RGC)**  
-   - **Project title:** Effects of Meso-Scale Ionosphere-Thermosphere Dynamics on Topside O+ Ion Upflow and Outflow  
-   - **Project number:** 106180024  
-   - **Role:** Principle Investigator  
-   - **Amount:** HK$ 198,523.00  
-   - **Project Period:** 01-SEP-2018 to 28-FEB-2021
+| Project Title | Funding Agency | Project Number | Amount | Project Period |
+|--------------|---------------|----------------|--------|----------------|
+| Magnetospheric Origin of Jovian Auroral Dawnstorms and Polar Emission | General Research Fund, Hong Kong Research Grants Council (RGC) | 106220156 | HK$ 793,000.00 | 01-JAN-2023 to 31-DEC-2025 |
+| Ionospheric Control and Low-Altitude Signatures of Magnetopause Activity | General Research Fund, Hong Kong Research Grants Council (RGC) | 106210140 | HK$ 608,015.00 | 01-JAN-2022 to 31-DEC-2024 |
+| Effects of non-thermal plasma populations in the global configuration of the Jovian magnetosphere | General Research Fund, Hong Kong Research Grants Council (RGC) | 106200217 | HK$ 898,524.00 | 01-JAN-2021 to 31-DEC-2023 |
+| Space Physics | Excellent Young Scientist Scheme, National Science Foundation of China (NSFC) | 260840010 | HK$ 1,730,285.00 | 01-JAN-2020 to 31-DEC-2022 |
+| Impact of Terrestrial-Sourced Plasma on the Dayside Solar Wind-Magnetosphere-Ionosphere interaction | General Research Fund, Hong Kong Research Grants Council (RGC) | 106190144 | HK$ 502,444.00 | 01-JAN-2020 to 31-DEC-2022 |
+| Effects of Meso-Scale Ionosphere-Thermosphere Dynamics on Topside O+ Ion Upflow and Outflow | General Research Fund, Hong Kong Research Grants Council (RGC) | 106180024 | HK$ 198,523.00 | 01-SEP-2018 to 28-FEB-2021 |
 
 ## Teaching and Learning
 
