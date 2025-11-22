@@ -257,25 +257,97 @@ Pokfulam Rd., Hong Kong S.A.R. China, 999077
 
 *[Additional publications available on Google Scholar: https://scholar.google.com/citations?hl=en&user=AC8jpboAAAAJ]*
 
+### Conference Presentations
+
+1. **Zhang, B.**, & Yao, Z. (2025). Unveiling Giant Magnetospheres: Research Advances in China and Prospectives for Future Missions. EGU General Assembly Conference Abstracts, EGU25-14477.
+
+2. **Yang, Z.**, **Zhang, B.**, Lei, J., Yao, Z., Chen, J., Zheng, Z., & Feng, E. (2024). Comparison of the Wave Poynting Flux Associated with Earth's Auroral Streamer and Saturn's Nightside Polar Arc. AGU Fall Meeting Abstracts, SM01-05.
+
+3. **Lotko, W.**, Pham, K. H., Lin, D., Varney, R. H., **Zhang, B.**, & Billett, D. (2024). Measures of Alfvénicity on dayside open field lines in global simulations and observations. AGU Fall Meeting Abstracts, SM33A-2597.
+
+4. **Pham, K.**, Lotko, W., Zou, Y., **Zhang, B.**, Varney, R., & Dredger, P. (2024). Examining Interhemispheric Properties of the Cusp. EGU General Assembly Conference Abstracts, 15192.
+
+5. **Smith, A.**, Delamere, P. A., Spitler, C., Mino, B., Wilson, R. J., **Zhang, B.**, Wing, S., Caggiano, J., Clark, G. B., Sorathia, K., & others. (2023). Meridional Magnetic Flux and Plasma Flow in Jupiter's Midnight-Dawn Magnetosphere: A Juno Data-GAMERA Model Comparison. AGU Fall Meeting Abstracts, SM23D-2844.
+
+6. **Chen, J.**, Chen, Y., **Zhang, B.**, & Yao, Z. (2023). Exploring MHD Turbulence in the Jovian Magnetosphere: Insights from Juno/Galileo Data and Global MHD Code. AGU Fall Meeting Abstracts, SM23D-2849.
+
+7. **Lei, J.**, **Zhang, B.**, & Li, Z. (2023). Simulation of equatorial ionospheric bubble from a Three-dimensional EquatoriaL spread F (TELF). AGU Fall Meeting Abstracts, SA52A-01.
+
+8. **Ye, S.**, Wu, S., Chen, Y., Yao, Z., Fischer, G., Taubenschuss, U., Zarka, P. M., **Zhang, B.**, Cecconi, B., Jackman, C. M., & others. (2023). Wave Phenomena Revealing The Impact Of Solar Wind On Planetary Magnetospheres. AGU Fall Meeting Abstracts, SM52A-05.
+
+9. **Zhang, B.** (2021). The Open Polar Cap of Rotating Magnetospheres. European Planetary Science Congress, EPSC2021-829.
+
+10. **Zhang, B.**, Sorathia, K., Merkin, V., & Lyon, J. (2021). Global Alfvenic power during geomagnetic substorms. AGU Fall Meeting Abstracts, SM12B-02.
+
+11. **Dang, T.**, Xuetao, C., **Zhang, B.**, Lotko, W., Pham, K., Wang, W., Lin, D., Luan, X., Dou, X., Luo, B., & others. (2021). Geospace response to 10 June 2021 polar solar eclipse. AGU Fall Meeting Abstracts, SA31A-01.
+
+12. **Pham, K.**, Dang, T., Wilder, F., Liu, H., **Zhang, B.**, Lotko, W., Wiltberger, M., Lei, J., Sorathia, K., Merkin, V., & others. (2021). Influence of Total Solar Eclipse on the Magnetosphere. AGU Fall Meeting Abstracts, SA31A-09.
+
+13. **Lyon, J.**, Sorathia, K., **Zhang, B.**, Merkin, V., & Wiltberger, M. (2021). Hall Physics at the Magnetosphere Mesoscale. AGU Fall Meeting Abstracts, SM35C-1981.
+
+14. **Pham, K. H.**, Varney, R. H., **Zhang, B.**, Dang, T., Wang, W., Sorathia, K., Bao, S., Lin, D., & Merkin, V. G. (2020). Characteristics of Global Traveling Ionospheric Disturbance. AGU Fall Meeting Abstracts, SA013-02.
+
+15. **Sorathia, K.**, Merkin, V. G., Panov, E. V., **Zhang, B.**, Lyon, J., Ukhorskiy, A., Garretson, J., Michael, A., Ohtani, S., Sitnov, M. I., & others. (2020). Global modeling of magnetosphere-ionosphere coupling at the limit of the fluid approximation: Auroral beads and ballooning-interchange instability in the magnetosphere. AGU Fall Meeting Abstracts, SA033-02.
+
+16. **Sorathia, K.**, Merkin, V. G., Toffoletto, F., Ukhorskiy, A., Garretson, J., Ohtani, S., Panov, E. V., **Zhang, B.**, Lyon, J., Michael, A., & others. (2020). Global multi-scale modeling of magnetosphere-ionosphere coupling during an isolated substorm. AGU Fall Meeting Abstracts, SM058-05.
+
+17. **Neupane, B. R.**, Delamere, P. A., Wing, S., **Zhang, B.**, & Johnson, J. (2020). Electron Density Fluctuations in Saturn's Magnetosphere. AGU Fall Meeting Abstracts, SM054-0012.
+
+18. **Zhang, B.**, Yao, Z., Delamere, P. A., Lotko, W., Sorathia, K., Brambles, O., Bonfond, B., Grodent, D. C., & Lyon, J. (2022). Magnetospheric origin of Jovian auroral dawn storms. AGU Fall Meeting Abstracts, SM41D-04.
+
+19. **Delamere, P. A.**, Damiano, P. A., Mino, B., Schok, A., Ma, X., Johnson, J., **Zhang, B.**, Sorathia, K., Sciola, A., Wing, S., & others. (2022). Structure and dynamics of Jupiter's dawnside magnetosphere: model/data comparisons. AGU Fall Meeting Abstracts, SM46B-04.
+
+20. **Mino, B.**, Neupane, B. R., Schok, A., Delamere, P. A., Sorathia, K., Sciola, A., Wing, S., Johnson, J., **Zhang, B.**, & Damiano, P. A. (2022). Applying Information Theory to GAMERA Simulations of Jupiter and Saturn-like Magnetospheres. AGU Fall Meeting Abstracts, SM45E-2279.
+
+21. **Lotko, W.**, **Zhang, B.**, Varney, R. H., Yang, Z., Pham, K. H., Lin, D., & Billett, D. (2022). Poleward Moving Auroral Forms Induced by Transient Alfvénic Poynting Fluxes. AGU Fall Meeting Abstracts, SM33A-05.
+
+22. **Feng, E.**, **Zhang, B.**, Yao, Z., Delamere, P. A., Zheng, Z., Brambles, O., Ye, S., & Sorathia, K. (2022). Dynamic Jovian Magnetosphere Responses to Enhanced Solar Wind Ram Pressure. AGU Fall Meeting Abstracts, SM42F-2237.
+
+23. **Zheng, Z.**, **Zhang, B.**, Yao, Z., & Yang, J. (2022). Fast flow and Kelvin-Helmholtz Instability at Saturn's magnetopause during southward IMF: results from a three-dimensional global MHD simulation. AGU Fall Meeting Abstracts, SM45E-2283.
+
+24. **Yin, Q.**, **Zhang, B.**, Lotko, W., Merkin, V. G., Chen, J., Pham, K. H., Sorathia, K., Yang, J., Lin, D., & Zheng, Z. (2022). A Statistical Study of Magnetosphere-Ionosphere Coupling During a Carrington Rotation Using the MAGE Global Model. AGU Fall Meeting Abstracts, SM35B-1754.
+
+25. **Chen, J.**, **Zhang, B.**, Lin, D., Delamere, P. A., Yao, Z., Brambles, O., Sorathia, K., & Merkin, V. G. (2022). Axial Asymmetry in Jovian Magnetopause Reconnection. AGU Fall Meeting Abstracts, SM46B-10.
+
+26. **Lyon, J.**, Merkin, V. G., Sorathia, K., **Zhang, B.**, Wiltberger, M. J., & Garretson, J. (2022). Multi-fluid Hall/drift Simulations of the Magnetosphere. AGU Fall Meeting Abstracts, SM12A-06.
+
+27. **Zhang, B.**, Yao, Z., Delamere, P. A., & Brambles, O. (2023). Explosive magnetotail activities in rotating magnetosphere-implication for dawnstorms? Advances in Understanding Alfven Waves in the Sun and the Heliosphere, AGU.
+
+28. **Yan, T.**, **Zhang, B.**, & Cui, J. (2023). Alfvénic Poynting Flux generated within Ganymede Magnetosphere: Implications for Aurora Emission. Advances in Understanding Alfven Waves in the Sun and the Heliosphere, AGU.
+
+29. **Lotko, W.**, **Zhang, B.**, Varney, R. H., Yang, Z., Pham, K. H., & Chen, J. (2023). Earth's Poleward Moving Alfvénic Forms. Advances in Understanding Alfven Waves in the Sun and the Heliosphere, AGU.
+
+30. **Pham, K. H.**, **Zhang, B.**, Lotko, W., Wiltberger, M. J., Wilder, F. D., Dang, T., Lin, D., Wang, W., & Sorathia, K. (2022). Influence of Total Solar Eclipse on the Magnetosphere. AGU Fall Meeting Abstracts, SA36A-03.
+
+31. **Caggiano, J.**, Clark, G., Damiano, P., Delamere, P., Johnson, J., Merkin, S., Sciola, A., Sorathia, K., Wing, S., & **Zhang, B.** (2024). A global magnetohydrodynamic analysis of radial interchange instability from Enceladus mass-loading and entropy bubbles in Saturn's magnetosphere. Outer Planet Moon-Magnetosphere Interaction Workshop, Dublin Institute for Advanced Studies.
+
+32. **Lei, J.**, Li, Z., & **Zhang, B.** (2024). Simulation of equatorial ionospheric bubble from a Three-dimensional Eequatorial Spread F (TELF) model. 45th COSPAR Scientific Assembly, 665.
+
+33. **Yang, Z.**, **Zhang, B.**, Lei, J., & Yao, Z. (2024). Recent advances in the magnetic reconnection, dipolarization, and auroral processes at giant planets from the perspective of comparative planetology. Earth and Planetary Physics, 8(5).
+
+34. **Pan, D.-X.**, Yao, Z., Manners, H., Dunn, W., Bonfond, B., Grodent, D., & **Zhang, B.-Z.** (2021). Recent Advances in Magnetospheric Drivers of Auroral Variations at Jupiter. Magnetospheres of the Outer Planets meeting.
+
+35. **De Becker, A.**, Bonfond, B., **Zhang, B.**, & Yao, Z. (2022). Analysis of the sodium jets detected on Io with TRAPPIST. Magnetospheres of the Outer Planets meeting.
+
+36. **Zhang, B.**, Sorathia, K., Delamere, P. A., Merkin, V. G., & Lyon, J. (2019). Comparative Studies on Magnetotail Dynamics Between the Earth, Saturn and Jupiter. AGU Fall Meeting Abstracts, SM12A-06.
+
+37. **Zhang, B.**, Delamere, P. A., Sorathia, K., Ma, X., Merkin, V. G., Lyon, J., & Yao, Z. (2019). The closed polar cap of the Jovian magnetosphere: implications for auroral precipitation from global MHD and test particle simulations. AGU Fall Meeting Abstracts, SM43B-02.
+
+38. **Zhang, B.**, Ma, X., Delamere, P. A., & Lyon, J. (2018). A Numerical Experiment of the global Jupiter Magnetosphere: Initial Results from Multifluid MHD. AGU Fall Meeting Abstracts, SM23E-3233.
+
+39. **Zhang, B.**, Wiltberger, M. J., & Merkin, V. G. (2017). Global Geospace Modeling of Upper Thermospheric Dynamics during Storm Time. AGU Fall Meeting Abstracts, SM32B-02.
+
+*[Additional invited lectures available upon request]*
+*[Full publication list can be found on Google: https://scholar.google.com/citations?hl=en&user=AC8jpboAAAAJ]*
+
 ### Scholarly Books, Monographs and Chapters
 
 1. **Zhang, B.** and Brambles, O.J. (2021). Polar Cap O+ Ion Outflow and Its Impact on Magnetospheric Dynamics. In *Ionosphere Dynamics and Applications* (eds C. Huang, G. Lu, Y. Zhang and L.J. Paxton). https://doi.org/10.1002/9781119815617.ch5
-
 
 ### Editorship and Editorial Board Membership
 
 **Editor**, *AGU Advances*, 2022-present
 
-### Keynote/Plenary/Other Invited Lectures
-
-1. **Zhang, B.** et al. (2022), Modelling of polar regions: a comparison between the Earth, Jupiter and Saturn (Invited), Magnetospheres of Outer Planets, Liege, Belgium, 11-15 July 2022.
-
-2. **Zhang, B.** et al. (2021), Is nightside outflow required for generating magnetospheric sawtooth oscillations (Invited), AOGS Annual meeting, ST12, Virtual conference.
-
-3. **Zhang, B.** et al. (2021), How Jupiter's Unusual magnetospheric topology structures its aurora (Invited), AGU Fall meeting abstract SM12B-02, New Orleans LA., 13-17 Dec.
-
-*[Additional invited lectures available upon request]*
-*[Full publication list can be found on Google: https://scholar.google.com/citations?hl=en&user=AC8jpboAAAAJ]*
 
 ## External Peer-Reviewed Competitive Research Grants
 
