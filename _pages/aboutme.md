@@ -16,10 +16,10 @@ The best way to get in touch is via email: **[your.email@hku.hk](mailto:your.ema
 
 *   **Office Location:**  
 
-    Room 303, James Lee Science Building, Main Campus, 
+    Room 303, James Lee Science Building, Main Campus,  
     Department of Earth and Planetary Sciences,  
-    The University of Hong Kong, Pokfulam Road,
-    Pokfulam, Hong Kong S.A.R. (China)
+    The University of Hong Kong, Pokfulam Road,  
+    Pokfulam, Hong Kong S.A.R. (China)  
 
 *   **For prospective students:** Please read the section below first!
 
@@ -43,11 +43,6 @@ To give you a quick, at-a-glance summary of my work:
 - If you are a student with a broad interest in modeling space plasma environments and with a general love for applied math and science, feel free to contact me. There are plenty opportunities within my current projects/collaborations given the set of state-of-art tools I'm working on with my colleagues, and I'm always keen to get started on something new, difficult and exciting.
 
 - **A quick note**: Please contact me **before** you apply to the HKU graduate school. My ability to recruit new students can vary from year to year, so let's chat first.
-
-- **When you email me, please include (at least one of these):**
-	- 1.  Your CV.
-	- 2.  A brief description of your research interests and how they might connect to mine.
-	- 3.  Why you are interested in pursuing a graduate degree at HKU.
 
 #### Prospective Undergraduate Students
 I often have projects suitable for motivated undergraduate students looking for research experience. If you're a current HKU student, get in touch to discuss potential opportunities.
