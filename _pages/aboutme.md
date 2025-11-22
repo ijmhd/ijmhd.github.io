@@ -4,9 +4,7 @@ title: "About me"
 permalink: /aboutme/
 ---
 
-I'm a space physicist (fun fact: I don't actually have a physics degree!) and currently a faculty member in the Department of Earth and Planetary Sciences at the University of Hong Kong. In simpler terms, I build sophisticated digital labs to simulate the space around Earth, with the ultimate goal of getting better at predicting space weather. I love working with my colleagues to apply these computational methods to all sorts of cosmic puzzles, from planetary magnetospheres to solar physics and fundamental plasma behavior.
-
-I feel incredibly lucky to make a living by exploring what I'm genuinely curious about. I study Magnetohydrodynamics (MHD) because I'm drawn to its elegant way of describing the universe. It just feels like a fundamental language of how things work. Having grown up in Hangzhou and spent many years in New Hampshire and Colorado, I've come to see life as an epic adventure. Science and Research are just fantastic "chapters" of that adventure, but they're not the whole story.
+I'm a space physicist (fun fact: I don't actually have a physics degree!) and currently a faculty member in the Department of Earth and Planetary Sciences at the University of Hong Kong. I feel incredibly lucky to make a living by exploring what I'm genuinely curious about. I study Magnetohydrodynamics (MHD) because I'm drawn to its elegant way of describing the universe. It just feels like a fundamental language of how things work. Having grown up in Hangzhou and spent many years in New Hampshire and Colorado, I've come to see life as an epic adventure. Science and Research are just fantastic "chapters" of that adventure, but they're not the whole story.
 
 So, when I'm not tangled in code, wrestling with manuscripts, or debating with reviewers, you can find me recharging through a ton of other things. I spend a lot of time with my family, play both Western and traditional music instruments, practice Chinese calligraphy and painting, and enjoy all kinds of indoor and outdoor sports. And of course, I have a deep appreciation for a good beer or whiskey 🥃. 
 
