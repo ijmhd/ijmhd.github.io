@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Binzheng ZHANG"
+title                    : "B. ZHANG"
 title_separator          : "-"
 name                     : &name "Dr. B ZHANG"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Zhang"
+  name             : "Dr. Binzheng Zhang"
   avatar           : "profile9.jpg"
   bio              : "Teacher, Scientist, Geek"
   location         : "James Lee 303"
