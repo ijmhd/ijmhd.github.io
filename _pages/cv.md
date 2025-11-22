@@ -388,16 +388,16 @@ Pokfulam Rd., Hong Kong S.A.R. China, 999077
 
 | Name | Bachelor's | Program | Field of Study | Status | Start Year |
 |------|---------------|---------|----------------|--------|------------|
-| Cai Jinshu | [To be filled] | Ph.D. | Space and Planetary Physics | Continuing | 2024 |
-| Tian Jiaxing | [To be filled] | Ph.D. | Planetary Science | Continuing | 2024 |
-| Luo Hongyang | [To be filled] | Ph.D. | Space and Planetary Physics | Continuing | 2022 |
-| Wang Zhengyang | [To be filled] | Ph.D. | Magnetohydrodynamics | Continuing | 2022 |
-| Mohammadia Hohammadhossein* | [To be filled] | Ph.D. | Geology | Continuing | 2021 |
-| Yip Man Wai* | [To be filled] | Ph.D. | Geology | Graduated | 2020 |
-| Zheng Zhiqi | [To be filled] | Ph.D. | Space Physics | Graduated | 2020 |
-| Feng Enhao | [To be filled] | Ph.D. | Astronomy and Astrophysics | Graduated | 2019 |
-| Yin Qianfeng | [To be filled] | Ph.D. | Computational MHD | Graduated | 2019 |
-| Xing Zexi* | [To be filled] | Ph.D. | Astronomy | Graduated | 2018 |
+| Cai Jinshu | USTC | Ph.D. | Space and Planetary Physics | Continuing | 2024 |
+| Tian Jiaxing | USTC | Ph.D. | Planetary Science | Continuing | 2024 |
+| Luo Hongyang | UCSB | Ph.D. | Space and Planetary Physics | Continuing | 2022 |
+| Wang Zhengyang | New Brunswick | Ph.D. | Magnetohydrodynamics | Continuing | 2022 |
+| Mohammadia Hohammadhossein* | - | Ph.D. | Geology | Continuing | 2021 |
+| Yip Man Wai* | HKU | Ph.D. | Geology | Graduated | 2020 |
+| Zheng Zhiqi | ZJU | Ph.D. | Space Physics | Graduated | 2020 |
+| Feng Enhao | SYSU | Ph.D. | Astronomy and Astrophysics | Graduated | 2019 |
+| Yin Qianfeng | UCAS | Ph.D. | Computational MHD | Graduated | 2019 |
+| Xing Zexi* | NJU | Ph.D. | Astronomy | Graduated | 2018 |
 
 *Ph.D. students of a former Physics faculty members who left HKU in 2021
 
