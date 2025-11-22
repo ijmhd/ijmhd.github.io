@@ -399,7 +399,7 @@ Pokfulam Rd., Hong Kong S.A.R. China, 999077
 | Yin Qianfeng | UCAS | Ph.D. | Computational MHD | Graduated | 2019 |
 | Xing Zexi* | NJU | Ph.D. | Astronomy | Graduated | 2018 |
 
-*Ph.D. students of a former Physics faculty members who left HKU in 2021
+*Ph.D. students of a former Science faculty members who left HKU before their graduation
 
 
 ## Knowledge Exchange
