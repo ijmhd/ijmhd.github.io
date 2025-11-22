@@ -15,9 +15,13 @@ So, when I'm not tangled in code, wrestling with manuscripts, or debating with r
 The best way to get in touch is via email: **[your.email@hku.hk](mailto:your.email@hku.hk)**.
 
 *   **Office Location:**  
-    Room 303, James Lee Science Building, Main Campus 
+
+    Room 303, James Lee Science Building, Main Campus, 
+
     Department of Earth and Planetary Sciences,  
-    The University of Hong Kong, Pokfulam Road
+
+    The University of Hong Kong, Pokfulam Road,
+
     Pokfulam, Hong Kong S.A.R. (China)
 
 *   **For prospective students:** Please read the section below first!
