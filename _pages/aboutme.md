@@ -17,11 +17,8 @@ The best way to get in touch is via email: **[your.email@hku.hk](mailto:your.ema
 *   **Office Location:**  
 
     Room 303, James Lee Science Building, Main Campus, 
-
     Department of Earth and Planetary Sciences,  
-
     The University of Hong Kong, Pokfulam Road,
-
     Pokfulam, Hong Kong S.A.R. (China)
 
 *   **For prospective students:** Please read the section below first!

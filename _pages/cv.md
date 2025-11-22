@@ -14,8 +14,8 @@ redirect_from:
 **Office Address:**  
 303 James Lee Science Building  
 Department of Earth and Planetary Sciences  
-University of Hong Kong 
-Pokfulam Rd., Hong Kong S.A.R. China, 999077
+University of Hong Kong  
+Pokfulam Rd., Hong Kong S.A.R. China, 999077  
 
 **Work Phone:** +852 2857 8251  
 **Work Email:** binzh@hku.hk
