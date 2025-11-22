@@ -297,35 +297,35 @@ Pokfulam Rd., Hong Kong S.A.R. China, 999077
 | Impact of Terrestrial-Sourced Plasma on the Dayside Solar Wind-Magnetosphere-Ionosphere interaction | General Research Fund, Hong Kong Research Grants Council (RGC) | 106190144 | HK$ 502,444.00 | 01-JAN-2020 to 31-DEC-2022 |
 | Effects of Meso-Scale Ionosphere-Thermosphere Dynamics on Topside O+ Ion Upflow and Outflow | General Research Fund, Hong Kong Research Grants Council (RGC) | 106180024 | HK$ 198,523.00 | 01-SEP-2018 to 28-FEB-2021 |
 
-## Teaching and Learning
+## Teaching and Student Supervision
 
-### Course Responsibilities
+### Courses Taught
 
-| Course Code | Course Title | Course Offered | % Responsibility |
+| Course Code | Course Title | Course Offered | Semester |
 |-------------|--------------|----------------|------------------|
-| EASC2404* | Introduction to Atmosphere and Hydrosphere | 2019-2020 to present | 66% |
-| EASC2410* | Data Analysis and Modeling for Earth Sciences | 2019-2020 to present | 100% |
-| EASC3408* | Geophysics | 2018-2019 to present | 50% |
-| SPSC7002* | Introduction to Space Weather | 2022-2023 | 100% |
+| EASC3420* | Machine Learning for Earth and Planetary Sciences | 2025 to present | Sem 1 |
+| EASC2404* | Introduction to the Atmosphere and Hydrosphere | 2019 to present | Sem 1 |
+| EASC2410* | Data Analysis and Modeling for Earth Sciences | 2019 to present | Sem 2 |
+| EASC3408* | Geophysics | 2018 to 2023 | Sem 2 |
+| SPSC7002* | Introduction to Space Weather | 2022-2023 | Sem 1 |
 
 *Served as course coordinator
 
-### Teaching Innovation
-
-- Developed an interactive, computer programming-based course (EASC2410) for the Earth System Science major
-- Introduced course Slack channels for instant student help and feedback
-- Developed a new core course for the MSc program in Space Science (SPSC7002)
 
 ### Postgraduate Supervision
 
 | Name | Curriculum | Field of Study | Status | Start Year |
 |------|------------|----------------|--------|------------|
+| Cai Jinshu | Ph.D. | Space and Planetary Physics | Continuing | 2024 |
+| Tian Jiaxing | Ph.D. | Planetary Science | Continuing | 2024 |
 | Luo Hongyang | Ph.D. | Space and Planetary Physics | Continuing | 2022 |
 | Wang Zhengyang | Ph.D. | Magnetohydrodynamics | Continuing | 2022 |
-| Zheng Zhiqi | Ph.D. | Space Physics | Continuing | 2020 |
-| Feng Enhao* | Ph.D. | Astronomy and Astrophysics | Continuing | 2019 |
-| Yin Qianfeng | Ph.D. | Computational MHD | Continuing | 2019 |
-| Xing Zexi* | Ph.D. | Astronomy | Submitted | 2018 |
+| Mohammadia Hohammadhossein* | Ph.D. | Geology | Continuing | 2021 |
+| Yip Man Wai* | Ph.D. | Geology | Graduated | 2020 |
+| Zheng Zhiqi | Ph.D. | Space Physics | Graduated | 2020 |
+| Feng Enhao | Ph.D. | Astronomy and Astrophysics | Graduated | 2019 |
+| Yin Qianfeng | Ph.D. | Computational MHD | Graduated | 2019 |
+| Xing Zexi* | Ph.D. | Astronomy | Graduated | 2018 |
 
 *Ph.D. students of a former Physics faculty members who left HKU in 2021
 
