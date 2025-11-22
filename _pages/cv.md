@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-# Curriculum Vitae
-
 ## Binzheng Zhang
 
 **Office Address:**  
@@ -37,15 +35,10 @@ Hong Kong S.A.R. China, 999077
 
 | Period | Position | Institution |
 |--------|----------|-------------|
-| 2012-2013 | Research Associate | Dartmouth College (USA) |
-| 2013-2015 | Research Scientist | Dartmouth College (USA) |
+| 2023-Present | Associate Professor | University of Hong Kong (S.A.R. China) |
+| 2018-2023 | Assistant Professor | University of Hong Kong (S.A.R. China) |
 | 2016-2018 | Postdoctoral Fellow | National Center for Atmospheric Research (USA) |
-| 2018-Present | Assistant Professor | University of Hong Kong (S.A.R. China) |
-
-## Professional Qualification/Membership
-
-- **American Geophysical Union** - Member
-- **Chinese Geophysical Society** - Committee Member
+| 2012-2015 | Lecturer, Research Scientist | Dartmouth College (USA) |
 
 ## Honorary Academic Appointments
 
@@ -55,6 +48,7 @@ Hong Kong S.A.R. China, 999077
 
 ## Honours and Awards
 
+- Research Fellow, RGC, Hong Kong, 2025
 - Outstanding Young Researcher Award, HKU, 2023
 - Excellent Young Scientist Award, NSFC, 2019
 - Early Career Scheme Award, UGC Research Grants Council, 2018
@@ -109,7 +103,7 @@ Hong Kong S.A.R. China, 999077
 
 22. **Brambles, O. J.**, W. Lotko, **B. Zhang**, M. Wiltberger, J. Lyon, and R. J. Strangeway (2011), Magnetosphere sawtooth oscillations induced by ionospheric outflow, Science, 332(6034), 1183–6, doi:10.1126/science.1202869.
 
-*[Additional publications available upon request]*
+*[Additional publications available on Google Scholar: https://scholar.google.com/citations?hl=en&user=AC8jpboAAAAJ]*
 
 ### Scholarly Books, Monographs and Chapters
 
@@ -122,8 +116,6 @@ Hong Kong S.A.R. China, 999077
 ### Editorship and Editorial Board Membership
 
 **Editor**, *AGU Advances*, 2022-present
-- *Period*: 2022-present
-- *Number of people in equivalent role*: 12
 
 ### Keynote/Plenary/Other Invited Lectures
 
@@ -228,7 +220,7 @@ Hong Kong S.A.R. China, 999077
 | Yin Qianfeng | Ph.D. | Computational MHD | Continuing | 2019 |
 | Xing Zexi* | Ph.D. | Astronomy | Submitted | 2018 |
 
-*Ph.D. students of a former Physics faculty member Dr. SU Meng who left HKU in 2021
+*Ph.D. students of a former Physics faculty members who left HKU in 2021
 
 
 ## Knowledge Exchange
