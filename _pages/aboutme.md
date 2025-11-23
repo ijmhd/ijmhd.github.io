@@ -12,7 +12,7 @@ So, when I'm not tangled in code, wrestling with manuscripts, or debating with r
 
 ### 📬 How to Reach Me
 
-The best way to get in touch is via email: **[your.email@hku.hk](mailto:your.email@hku.hk)**.
+The best way to get in touch is via email: 
 
 *   **Office Location:**  
 
@@ -58,12 +58,3 @@ When I graduated with my PhD, my advisor Bill Lotko gave me three pieces of wisd
 *   Remember, academia is a place where the animals take over the zoo.
 
 ---
-
-### 📚 Latest from the Blog {#blog-posts}
-
-// This section automatically pulls your latest blog posts.
-// It gives visitors a reason to explore more of your site and see your active thoughts.
-
-{% for post in site.posts limit:3 %}
-  <li><a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %d, %Y" }}</li>
-{% endfor %}
