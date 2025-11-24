@@ -1,5 +1,5 @@
 ---
-title: "The GAMERA MHD code"
+title: "The GAMERA Code (Non-orthogonal)"
 excerpt: "High resolving power numerical methods for MHD<br/>"
 collection: portfolio
 ---
@@ -7,8 +7,6 @@ collection: portfolio
 ## The GAMERA MHD code
 
 Yes Gamera is a giant Japanese turtle, for us it's just a piece of elegant code that solves the equations of magnetohydrodynamics (MHD) in non-orthogonal, curvilinear grids. Gamera stands for "Grid Agnostic MHD for Extended Research Applications" Here's the "official" design of the Gamera logo by artist at the Johns Hopkins University (JHU/APL).
-
-<img src='../gamera.png'>
 
 Gamera is a new magnetohydrodynamic (MHD) code for simulation of diverse magnetized plasma environments. It is a full rewrite of the high-heritage Lyon-Fedder-Mobarry (LFM) model. Gamera is a flexible, portable, user-friendly and exascale-capable code designed to take advantage of supercomputer architectures of the future.
 
