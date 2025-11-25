@@ -392,8 +392,6 @@ Pokfulam Rd., Hong Kong S.A.R. China, 999077
 | Tian Jiaxing | USTC | Ph.D. | Planetary Science | Continuing | 2024 |
 | Luo Hongyang | UCSB | Ph.D. | Space and Planetary Physics | Continuing | 2022 |
 | Wang Zhengyang | New Brunswick | Ph.D. | Magnetohydrodynamics | Continuing | 2022 |
-| Mohammadia Hohammadhossein* | - | Ph.D. | Geology | Continuing | 2021 |
-| Yip Man Wai* | HKU | Ph.D. | Geology | Graduated | 2020 |
 | Zheng Zhiqi | ZJU | Ph.D. | Space Physics | Graduated | 2020 |
 | Feng Enhao | SYSU | Ph.D. | Astronomy and Astrophysics | Graduated | 2019 |
 | Yin Qianfeng | UCAS | Ph.D. | Computational MHD | Graduated | 2019 |
