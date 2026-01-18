@@ -1,0 +1,501 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EASC2410: Lecture 1 - Intro to Python</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js"></script>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/styles/atom-one-dark.min.css">
+    <style>
+        :root {
+            --primary: #0056b3; /* Academic Blue */
+            --secondary: #e9ecef;
+            --text: #333;
+            --bg: #ffffff;
+            --sidebar-width: 250px;
+        }
+
+        body {
+            font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            color: var(--text);
+            margin: 0;
+            padding: 0;
+            display: flex;
+        }
+
+        /* Sidebar Navigation */
+        nav {
+            width: var(--sidebar-width);
+            background: #f8f9fa;
+            height: 100vh;
+            position: fixed;
+            overflow-y: auto;
+            border-right: 1px solid #ddd;
+            padding: 20px;
+            box-sizing: border-box;
+        }
+
+        nav h3 {
+            margin-top: 0;
+            font-size: 1.2rem;
+            color: var(--primary);
+        }
+
+        nav ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        nav a {
+            display: block;
+            padding: 8px 0;
+            color: #555;
+            text-decoration: none;
+            font-size: 0.9rem;
+            transition: color 0.2s;
+        }
+
+        nav a:hover, nav a.active {
+            color: var(--primary);
+            font-weight: bold;
+        }
+
+        /* Main Content */
+        main {
+            margin-left: var(--sidebar-width);
+            padding: 40px 60px;
+            max-width: 900px;
+            width: 100%;
+        }
+
+        h1 { font-size: 2.5rem; color: var(--primary); margin-bottom: 0.5rem; }
+        h2 { border-bottom: 2px solid var(--secondary); padding-bottom: 10px; margin-top: 40px; color: #2c3e50; }
+        h3 { color: #444; margin-top: 25px; }
+
+        /* Image Placeholders */
+        .img-placeholder {
+            background-color: #f0f4f8;
+            border: 2px dashed #cbd5e0;
+            color: #4a5568;
+            padding: 40px;
+            text-align: center;
+            margin: 20px 0;
+            border-radius: 8px;
+            font-style: italic;
+        }
+        
+        .img-caption {
+            text-align: center;
+            font-size: 0.9em;
+            color: #666;
+            margin-top: -15px;
+            margin-bottom: 25px;
+        }
+
+        /* Code Blocks */
+        pre {
+            border-radius: 6px;
+            padding: 0;
+            overflow-x: auto;
+        }
+
+        /* Tables */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 12px;
+            text-align: left;
+        }
+        th {
+            background-color: var(--primary);
+            color: white;
+        }
+
+        /* Interactive Elements */
+        .interactive-box {
+            background: #fff;
+            border: 1px solid #ddd;
+            border-left: 5px solid var(--primary);
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 4px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+        }
+
+        .run-btn {
+            background-color: #28a745;
+            color: white;
+            border: none;
+            padding: 8px 16px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-weight: bold;
+            margin-top: 10px;
+        }
+        .run-btn:hover { background-color: #218838; }
+
+        .output-console {
+            background: #2d2d2d;
+            color: #f8f8f2;
+            padding: 10px;
+            font-family: monospace;
+            margin-top: 10px;
+            border-radius: 4px;
+            display: none;
+        }
+
+        .toggle-container {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 15px;
+        }
+        .toggle-btn {
+            padding: 10px 20px;
+            cursor: pointer;
+            background: #eee;
+            border: none;
+            border-radius: 20px;
+        }
+        .toggle-btn.active {
+            background: var(--primary);
+            color: white;
+        }
+
+        .code-compare { display: none; }
+        .code-compare.active { display: block; }
+
+        .note {
+            background-color: #fff3cd;
+            border: 1px solid #ffeeba;
+            color: #856404;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+
+        footer {
+            margin-top: 60px;
+            padding-top: 20px;
+            border-top: 1px solid #ddd;
+            text-align: center;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+
+<nav>
+    <h3>EASC2410: Lecture 1</h3>
+    <ul>
+        <li><a href="#intro">Introduction</a></li>
+        <li><a href="#data-science">What is Data Science?</a></li>
+        <li><a href="#bad-data">Misleading Data</a></li>
+        <li><a href="#syllabus">Course Syllabus</a></li>
+        <li><a href="#why-python">Why Python?</a></li>
+        <li><a href="#tools">Tools: Anaconda & Jupyter</a></li>
+        <li><a href="#comments">Good Coding Practices</a></li>
+        <li><a href="#exercises">Exercises</a></li>
+    </ul>
+</nav>
+
+<main>
+    <div id="intro">
+        <h1 style="margin-bottom: 0;">Data Analysis and Python</h1>
+        <h3 style="margin-top: 0; font-weight: normal;">EASC2410 Lecture 1 | Dr. Binzheng Zhang</h3>
+        <p><strong>Department of Earth Sciences | Sapientia et Virtus</strong></p>
+        <hr>
+        <p>Welcome to the world of data analysis. In this course, we will explore how to take raw data from the earth sciences and turn it into actionable insight using Python.</p>
+    </div>
+
+    <div id="data-science">
+        <h2>The Role of Data Analysis</h2>
+        <p>Data is the key—modeling helps interpret the data (to some extent). We see this in everything from air quality monitoring to pandemic tracking.</p>
+        
+        <div class="img-placeholder">
+            [Insert Slide 2 Figure: Air Quality Index NY vs NH]<br>
+            <small>Please upload image: <code>slide_2_aqi.png</code></small>
+        </div>
+        <div class="img-caption">Visualizing PM2.5 and PM10 AQI values allows us to instantly spot pollution trends.</div>
+
+        <div class="img-placeholder">
+             [Insert Slide 5 Figure: Global Temperature Change]<br>
+             <small>Please upload image: <code>slide_5_temp.png</code></small>
+        </div>
+        <p><strong>Steps in Data Science:</strong></p>
+        <ol>
+            <li><strong>Data Engineering:</strong> Acquire &rarr; Prepare</li>
+            <li><strong>Computational Data Science:</strong> Analyze &rarr; Report &rarr; Act/Decision</li>
+        </ol>
+    </div>
+
+    <div id="bad-data">
+        <h2>Warning: Bad Data Analysis</h2>
+        <p>Data visualization is powerful, but it can be used to mislead. Common pitfalls include faulty polling, flawed correlations, and misleading axes.</p>
+
+        <div class="interactive-box">
+            <h3>Interactive Example: Correlation vs. Causation</h3>
+            <p>Consider the graph below. It shows a 99% correlation between <strong>US Spending on Science</strong> and <strong>Suicides by Hanging</strong>.</p>
+            <div class="img-placeholder" style="height: 150px; padding-top: 60px;">
+                [Insert Slide 9 Figure: Spurious Correlation Graph]
+            </div>
+            <p><strong>Question:</strong> Does funding science cause suicides?</p>
+            <details>
+                <summary style="cursor: pointer; color: var(--primary); font-weight: bold;">Click for Answer</summary>
+                <p><strong>No!</strong> This is a classic "Spurious Correlation." Just because two curves move together doesn't mean one causes the other.</p>
+            </details>
+        </div>
+
+        <div class="note">
+            <strong>Key Lesson:</strong> Always check your Y-axis! Some graphs truncate the Y-axis (starting at 34% instead of 0%) to make small changes look massive.
+        </div>
+    </div>
+
+    <div id="syllabus">
+        <h2>Course Overview</h2>
+        <p>We will move from the basics of Python to advanced Machine Learning topics.</p>
+        <table>
+            <thead>
+                <tr>
+                    <th>Wk</th>
+                    <th>Topic</th>
+                    <th>Key Libraries</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr><td>1-4</td><td>Python Basics (Variables, Loops, Functions)</td><td>Standard Lib</td></tr>
+                <tr><td>5-6</td><td>Numpy Arrays & Visualization</td><td>Numpy, Matplotlib</td></tr>
+                <tr><td>7-8</td><td>Pandas & Data Wrangling</td><td>Pandas</td></tr>
+                <tr><td>9-10</td><td>Statistics & Modeling</td><td>Scipy</td></tr>
+                <tr><td>12-13</td><td>Geospatial Data & Machine Learning</td><td>Geopandas, Sklearn</td></tr>
+            </tbody>
+        </table>
+        
+        <h3>Assessment</h3>
+        <ul>
+            <li><strong>Homework (7/8 assignments):</strong> 50%</li>
+            <li><strong>In-class Practice:</strong> 10%</li>
+            <li><strong>Moodle Exam:</strong> 20%</li>
+            <li><strong>Coding Exam:</strong> 20%</li>
+        </ul>
+    </div>
+
+    <div id="why-python">
+        <h2>Why Python?</h2>
+        <p>Python is the dominant language in Data Science because it is high-level, friendly, and has a massive ecosystem of scientific libraries.</p>
+        
+        <h3>The "Hello World" Comparison</h3>
+        <p>Look how much simpler Python is compared to C or Java:</p>
+
+        <div class="toggle-container">
+            <button class="toggle-btn active" onclick="showCode('python')">Python</button>
+            <button class="toggle-btn" onclick="showCode('java')">Java</button>
+            <button class="toggle-btn" onclick="showCode('c')">C Language</button>
+        </div>
+
+        <div id="code-python" class="code-compare active">
+<pre><code class="language-python"># Python
+print("Hello world.")</code></pre>
+        </div>
+
+        <div id="code-java" class="code-compare">
+<pre><code class="language-java">// Java
+public class Hi {
+    public static void main (String[] args) {
+        System.out.println("Hello world.");
+    }
+}</code></pre>
+        </div>
+
+        <div id="code-c" class="code-compare">
+<pre><code class="language-c">/* C Language */
+#include "studio.h"
+int main() {
+    printf("Hello World.\n");
+}</code></pre>
+        </div>
+    </div>
+
+    <div id="tools">
+        <h2>Tools: Anaconda & Jupyter</h2>
+        <p>We will use <strong>Anaconda</strong>, which manages our environments, and <strong>Jupyter Notebook</strong>, which allows us to mix code, text, and plots.</p>
+        
+        <div class="img-placeholder">
+            [Insert Slide 22: Anaconda Navigator Interface]<br>
+            <small>Show instructions to click "Launch" on Jupyter Notebook</small>
+        </div>
+
+        <h3>Helpful Shortcuts</h3>
+        <ul>
+            <li><strong>Run Cell:</strong> <code>Shift + Enter</code> or <code>Ctrl + Enter</code></li>
+            <li><strong>Get Help:</strong> Type <code>help(print)</code> to see documentation.</li>
+        </ul>
+    </div>
+
+    <div id="comments">
+        <h2>Writing Good Code (Comments)</h2>
+        <p class="note">If your codes are not commented, you <strong>WILL</strong> lose marks on homework.</p>
+        
+        <p>Comments start with a <code>#</code>. They are ignored by Python but essential for humans.</p>
+
+        <div class="interactive-box">
+            <h3>Bad vs. Good Code Style</h3>
+            <p>Toggle below to see the difference between "messy" code and "maintainable" scientific code.</p>
+            
+            <div class="toggle-container">
+                <button class="toggle-btn active" onclick="showStyle('bad')">Bad Code</button>
+                <button class="toggle-btn" onclick="showStyle('good')">Good Code</button>
+            </div>
+
+            <div id="style-bad" class="code-compare active">
+<pre><code class="language-python"># BAD CODE
+# No comments, confusing variable names
+def A_dl(s,tilt,phi,r0,r1):
+    ct = cos(tilt)
+    st = sin(tilt)
+    dr = r1-r0
+    dx = dr[0]
+    # What is happening here? 
+    # It is impossible to debug.
+    return 0.1e1/r3 * sin(tilt)</code></pre>
+            </div>
+
+            <div id="style-good" class="code-compare">
+<pre><code class="language-python"># GOOD CODE
+# Solar wind calculation
+# Author: Dr. Kareem Sorathia, Johns Hopkins University
+
+import numpy as np
+
+pW = (1.0e-2)/50.0  # Default THERMAL pressure, nPa
+nW = 0.1            # Default density, #/cc
+VxW = 300.0         # Default wind, km/s
+
+# Calculate time bounds
+tMin = 0.0          # Start time
+tMax = 200.0        # Stop time</code></pre>
+            </div>
+        </div>
+    </div>
+
+    <div id="exercises">
+        <h2>Lecture 1 Exercises</h2>
+        
+        <h3>Exercise 1: Python as a Calculator</h3>
+        <p>Python supports standard mathematical operations. Try predicting the output below:</p>
+        
+        <table>
+            <tr><th>Symbol</th><th>Operation</th><th>Example</th></tr>
+            <tr><td>+</td><td>Addition</td><td>2 + 3</td></tr>
+            <tr><td>*</td><td>Multiplication</td><td>3 * 91.1</td></tr>
+            <tr><td>**</td><td>Power</td><td>2 ** 10</td></tr>
+            <tr><td>%</td><td>Modulo (Remainder)</td><td>4 % 3</td></tr>
+        </table>
+
+        <h3>Interactive Playground</h3>
+        <p>Type python code below (simulated) to test your knowledge.</p>
+        
+        <div class="interactive-box">
+            <label for="code-input"><strong>In [1]:</strong></label>
+            <textarea id="code-input" rows="4" style="width: 100%; font-family: monospace; padding: 10px; border: 1px solid #ccc;">print("I love Earth Sciences!")
+print(2**4)</textarea>
+            <button class="run-btn" onclick="runSimulatedPython()">Run Code ▶</button>
+            <div id="console-output" class="output-console"></div>
+        </div>
+    </div>
+
+    <footer>
+        <p>EASC2410 Data Analysis and Get Start with Python<br>
+        Based on Lecture 1 Notes by Dr. Binzheng Zhang</p>
+    </footer>
+</main>
+
+<script>
+    hljs.highlightAll();
+
+    // Navigation Active State
+    const navLinks = document.querySelectorAll('nav a');
+    window.addEventListener('scroll', () => {
+        let current = '';
+        document.querySelectorAll('div[id]').forEach(section => {
+            const sectionTop = section.offsetTop;
+            if (pageYOffset >= sectionTop - 60) {
+                current = section.getAttribute('id');
+            }
+        });
+        navLinks.forEach(li => {
+            li.classList.remove('active');
+            if (li.getAttribute('href').includes(current)) {
+                li.classList.add('active');
+            }
+        });
+    });
+
+    // Code Language Toggles
+    function showCode(lang) {
+        document.querySelectorAll('#why-python .code-compare').forEach(el => el.classList.remove('active'));
+        document.querySelectorAll('#why-python .toggle-btn').forEach(btn => btn.classList.remove('active'));
+        document.getElementById('code-' + lang).classList.add('active');
+        event.target.classList.add('active');
+    }
+
+    // Style Toggles
+    function showStyle(style) {
+        document.querySelectorAll('#comments .code-compare').forEach(el => el.classList.remove('active'));
+        document.querySelectorAll('#comments .toggle-btn').forEach(btn => btn.classList.remove('active'));
+        document.getElementById('style-' + style).classList.add('active');
+        event.target.classList.add('active');
+    }
+
+    // Simulated Python Runner
+    function runSimulatedPython() {
+        const input = document.getElementById('code-input').value;
+        const outputDiv = document.getElementById('console-output');
+        outputDiv.style.display = 'block';
+        
+        let output = "";
+        
+        // Simple heuristic for the demo
+        const lines = input.split('\n');
+        lines.forEach(line => {
+            if (line.includes('print')) {
+                // Extract content between quotes or parens
+                let match = line.match(/print\((.*)\)/);
+                if (match) {
+                    let content = match[1];
+                    // Remove quotes if string
+                    if ((content.startsWith('"') && content.endsWith('"')) || (content.startsWith("'") && content.endsWith("'"))) {
+                        output += content.slice(1, -1) + "\n";
+                    } else {
+                        // Try to evaluate math
+                        try {
+                            output += eval(content) + "\n";
+                        } catch (e) {
+                            output += content + "\n";
+                        }
+                    }
+                }
+            } else {
+                 // Try to evaluate math only lines like 2+2
+                 try {
+                     output += eval(line) + "\n";
+                 } catch (e) {
+                     // ignore
+                 }
+            }
+        });
+
+        if (output === "") output = "Code executed (No output or syntax not supported in this demo)";
+        
+        outputDiv.innerText = output;
+    }
+</script>
+
+</body>
+</html>
