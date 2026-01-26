@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lecture 3: Dictionaries & Program Control | Python for Earth Sciences</title>
+    <style>
+        :root {
+            --primary-blue: #003d7a; /* Professional Academic Blue */
+            --accent-teal: #008080;
+            --bg-light: #f8f9fa;
+            --text-dark: #333;
+            --code-bg: #2d2d2d;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: var(--text-dark);
+            background-color: var(--bg-light);
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: var(--primary-blue);
+            color: white;
+            padding: 2rem 10%;
+            text-align: center;
+            border-bottom: 5px solid var(--accent-teal);
+        }
+
+        nav {
+            background: #fff;
+            padding: 0.5rem;
+            text-align: center;
+            position: sticky;
+            top: 0;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: var(--primary-blue);
+            font-weight: bold;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 2rem auto;
+            background: white;
+            padding: 2rem;
+            box-shadow: 0 0 20px rgba(0,0,0,0.05);
+            border-radius: 8px;
+        }
+
+        h2 { color: var(--primary-blue); border-left: 5px solid var(--accent-teal); padding-left: 10px; }
+        h3 { color: var(--accent-teal); margin-top: 2rem; }
+
+        .review-box {
+            background-color: #eef4f7;
+            padding: 1rem;
+            border-radius: 5px;
+            margin-bottom: 2rem;
+        }
+
+        pre {
+            background-color: var(--code-bg);
+            color: #f8f8f2;
+            padding: 1.5rem;
+            border-radius: 5px;
+            overflow-x: auto;
+            font-size: 0.9rem;
+            line-height: 1.4;
+        }
+
+        .comment { color: #75715e; }
+        .keyword { color: #f92672; }
+        .string { color: #e6db74; }
+        .number { color: #ae81ff; }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1rem 0;
+        }
+
+        table, th, td { border: 1px solid #ddd; }
+        th, td { padding: 12px; text-align: left; }
+        th { background-color: var(--primary-blue); color: white; }
+
+        footer {
+            text-align: center;
+            padding: 2rem;
+            font-size: 0.9rem;
+            color: #666;
+            background: #eee;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Lecture 3: Dictionaries and Program Control</h1>
+    <p>Python Programming for Earth & Planetary Science Undergraduates</p>
+</header>
+
+<nav>
+    <a href="#review">Review</a>
+    <a href="#dictionaries">Dictionaries</a>
+    <a href="#control">Flow Control</a>
+    <a href="#loops">Loops</a>
+</nav>
+
+<div class="container">
+    
+    <section id="review">
+        <h2>Review of Lecture 2</h2>
+        <div class="review-box">
+            <p>In our last session, we covered basic variable assignment and data structures.</p>
+            <table>
+                <tr>
+                    <th>Concept</th>
+                    <th>Details</th>
+                </tr>
+                <tr>
+                    <td><strong>Variable Names</strong></td>
+                    <td>Use descriptive names like <code>AirTemperature</code>.</td>
+                </tr>
+                <tr>
+                    <td><strong>Data Types</strong></td>
+                    <td>int, float, str, bool, and complex (e.g., 2+3j).</td>
+                </tr>
+                <tr>
+                    <td><strong>Structures</strong></td>
+                    <td>Lists <code>[]</code>, Tuples <code>()</code>, and Sets <code>{}</code>.</td>
+                </tr>
+            </table>
+        </div>
+    </section>
+
+    <section id="dictionaries">
+        <h2>A. Dictionaries in Python</h2>
+        <p>Dictionaries are somewhat like lists, but denoted by <strong>alphanumeric keys</strong> rather than integer indices.</p>
+        
+        
+
+        <pre>
+<span class="comment"># Create a dictionary of planetary radii (km)</span>
+solar_planets = {
+    <span class="string">'Mercury'</span>: <span class="number">2440.0</span>, 
+    <span class="string">'Venus'</span>: <span class="number">6052.1</span>, 
+    <span class="string">'Earth'</span>: <span class="number">6371.5</span>, 
+    <span class="string">'Mars'</span>: <span class="number">3389.2</span>
+}
+
+<span class="comment"># Accessing data</span>
+print(solar_planets[<span class="string">'Venus'</span>]) <span class="comment"># Output: 6052.1</span>
+
+<span class="comment"># Adding new data</span>
+solar_planets[<span class="string">'Uranus'</span>] = <span class="number">25362.0</span></pre>
+    </section>
+
+    <section id="control">
+        <h2>B. Program Control (If-Else)</h2>
+        <p>Python uses <strong>indentation</strong> to define code blocks. This makes the code readable and is a distinctive feature of the language.</p>
+        
+        
+
+        <pre>
+<span class="keyword">if</span> exam >= <span class="number">90.0</span>:
+    Grade = <span class="string">'A'</span>
+<span class="keyword">elif</span> exam >= <span class="number">80.0</span>:
+    Grade = <span class="string">'B'</span>
+<span class="keyword">else</span>:
+    Grade = <span class="string">'Fail'</span></pre>
+    </section>
+
+    <section id="loops">
+        <h2>C. While and For Loops</h2>
+        <p>A <strong>While</strong> loop executes as long as a condition is True, while a <strong>For</strong> loop steps through a list or dictionary.</p>
+        
+        <h3>Putting it All Together: Habitability Study</h3>
+        <p>In this example, we iterate through a dictionary of temperatures and use logic to determine if a planet is "habitable" (-100°C to 100°C).</p>
+
+        <pre>
+<span class="comment"># Temperatures in Kelvin</span>
+surface_temps = {<span class="string">'Earth'</span>: <span class="number">288.5</span>, <span class="string">'Mars'</span>: <span class="number">210.2</span>, <span class="string">'Jupiter'</span>: <span class="number">110.0</span>}
+
+<span class="keyword">for</span> key <span class="keyword">in</span> surface_temps.keys():
+    temperature = surface_temps[key] - <span class="number">273.1</span> <span class="comment"># Convert to Celsius</span>
+ 
+    <span class="keyword">if</span> (temperature <= <span class="number">100</span>) <span class="keyword">and</span> (temperature >= <span class="number">-100</span>):
+        <span class="comment"># Using round() to keep one decimal place</span>
+        print(<span class="string">'Planet'</span>, key, <span class="string">'is habitable at'</span>, round(temperature, <span class="number">1</span>), <span class="string">'°C'</span>)</pre>
+    </section>
+
+</div>
+
+<footer>
+    <p>&copy; 2026 Associate Department Head for Teaching and Learning | Earth and Planetary Sciences</p>
+    <p>University of Hong Kong | Course Code: Python for Earth Sciences</p>
+</footer>
+
+</body>
+</html>
