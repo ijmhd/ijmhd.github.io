@@ -3,205 +3,226 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lecture 3: Dictionaries & Program Control | Python for Earth Sciences</title>
+    <title>Lecture 3: Dictionaries and Program Control</title>
     <style>
         :root {
-            --primary-blue: #003d7a; /* Professional Academic Blue */
-            --accent-teal: #008080;
-            --bg-light: #f8f9fa;
-            --text-dark: #333;
-            --code-bg: #2d2d2d;
+            --hku-blue: #003d7a;
+            --code-bg: #f8f8f8;
+            --text-main: #333;
+            --output-gray: #555;
         }
-
         body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
             line-height: 1.6;
-            color: var(--text-dark);
-            background-color: var(--bg-light);
+            color: var(--text-main);
+            background-color: #f0f2f5;
             margin: 0;
-            padding: 0;
+            padding: 20px;
         }
-
-        header {
-            background-color: var(--primary-blue);
-            color: white;
-            padding: 2rem 10%;
-            text-align: center;
-            border-bottom: 5px solid var(--accent-teal);
-        }
-
-        nav {
-            background: #fff;
-            padding: 0.5rem;
-            text-align: center;
-            position: sticky;
-            top: 0;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-        }
-
-        nav a {
-            margin: 0 15px;
-            text-decoration: none;
-            color: var(--primary-blue);
-            font-weight: bold;
-        }
-
-        .container {
+        .notebook-container {
             max-width: 900px;
-            margin: 2rem auto;
+            margin: auto;
             background: white;
-            padding: 2rem;
-            box-shadow: 0 0 20px rgba(0,0,0,0.05);
+            padding: 40px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
             border-radius: 8px;
         }
-
-        h2 { color: var(--primary-blue); border-left: 5px solid var(--accent-teal); padding-left: 10px; }
-        h3 { color: var(--accent-teal); margin-top: 2rem; }
-
-        .review-box {
-            background-color: #eef4f7;
-            padding: 1rem;
-            border-radius: 5px;
-            margin-bottom: 2rem;
-        }
-
-        pre {
+        h1, h2, h3 { color: var(--hku-blue); margin-top: 1.5em; }
+        .cell { margin-bottom: 25px; }
+        .markdown-cell { padding: 5px; }
+        .code-cell {
             background-color: var(--code-bg);
-            color: #f8f8f2;
-            padding: 1.5rem;
-            border-radius: 5px;
-            overflow-x: auto;
-            font-size: 0.9rem;
-            line-height: 1.4;
+            border: 1px solid #cfcfcf;
+            border-radius: 3px;
+            font-family: "Courier New", Courier, monospace;
+            position: relative;
+            margin: 10px 0;
         }
-
-        .comment { color: #75715e; }
-        .keyword { color: #f92672; }
-        .string { color: #e6db74; }
-        .number { color: #ae81ff; }
-
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin: 1rem 0;
+        .code-label {
+            position: absolute;
+            left: -65px;
+            color: #303f9f;
+            font-size: 14px;
+            top: 10px;
+            width: 55px;
+            text-align: right;
         }
-
-        table, th, td { border: 1px solid #ddd; }
-        th, td { padding: 12px; text-align: left; }
-        th { background-color: var(--primary-blue); color: white; }
-
-        footer {
-            text-align: center;
-            padding: 2rem;
-            font-size: 0.9rem;
-            color: #666;
-            background: #eee;
+        pre {
+            margin: 0;
+            padding: 15px;
+            white-space: pre-wrap;
+            word-wrap: break-word;
         }
+        .output-cell {
+            padding: 10px 15px;
+            background: white;
+            border: 1px solid #cfcfcf;
+            border-top: none;
+            font-family: monospace;
+            color: var(--output-gray);
+            font-size: 0.95em;
+            margin-bottom: 20px;
+        }
+        .keyword { color: #008000; font-weight: bold; }
+        .string { color: #ba2121; }
+        .comment { color: #408080; font-style: italic; }
+        .number { color: #080; }
+        .builtin { color: #008000; }
+        ul { padding-left: 20px; }
     </style>
 </head>
 <body>
 
-<header>
-    <h1>Lecture 3: Dictionaries and Program Control</h1>
-    <p>Python Programming for Earth & Planetary Science Undergraduates</p>
-</header>
+<div class="notebook-container">
+    <div class="cell markdown-cell">
+        <h1>Lecture 3: Dictionaries and Program Control</h1>
+        <p>In this lecture, you will learn:</p>
+        <ul>
+            <li><strong>A.</strong> One more useful data type called Dictionaries</li>
+            <li><strong>B.</strong> Basic Python code structures and indentation</li>
+            <li><strong>C.</strong> Basic program control using <strong>for</strong>, <strong>if</strong>, and <strong>while</strong> loops</li>
+            <li><strong>D.</strong> Nested loops</li>
+        </ul>
+    </div>
 
-<nav>
-    <a href="#review">Review</a>
-    <a href="#dictionaries">Dictionaries</a>
-    <a href="#control">Flow Control</a>
-    <a href="#loops">Loops</a>
-</nav>
+    <section id="dictionaries">
+        <div class="cell markdown-cell">
+            <h3>A. Dictionaries in Python</h3>
+            <p>Dictionaries are denoted by curly brackets { } (similar to sets). Dictionaries are somewhat like lists, but denoted by alphanumeric keys rather than integer indices. Here's what a dictionary data structure looks like:</p>
+        </div>
 
-<div class="container">
-    
-    <section id="review">
-        <h2>Review of Lecture 2</h2>
-        <div class="review-box">
-            <p>In our last session, we covered basic variable assignment and data structures.</p>
-            <table>
-                <tr>
-                    <th>Concept</th>
-                    <th>Details</th>
-                </tr>
-                <tr>
-                    <td><strong>Variable Names</strong></td>
-                    <td>Use descriptive names like <code>AirTemperature</code>.</td>
-                </tr>
-                <tr>
-                    <td><strong>Data Types</strong></td>
-                    <td>int, float, str, bool, and complex (e.g., 2+3j).</td>
-                </tr>
-                <tr>
-                    <td><strong>Structures</strong></td>
-                    <td>Lists <code>[]</code>, Tuples <code>()</code>, and Sets <code>{}</code>.</td>
-                </tr>
-            </table>
+        <div class="cell code-cell">
+            <div class="code-label">In [1]:</div>
+            <pre>solar_planets = {<span class="string">'Mercury'</span>: <span class="number">2440.0</span>, <span class="string">'Venus'</span>: <span class="number">6052.1</span>, <span class="string">'Earth'</span>: <span class="number">6371.5</span>, <span class="string">'Mars'</span>: <span class="number">3389.2</span>, <span class="string">'Jupiter'</span>: <span class="number">69911.0</span>, <span class="string">'Saturn'</span>: <span class="number">58232.2</span>}
+<span class="builtin">print</span>(<span class="builtin">type</span>(solar_planets), solar_planets)</pre>
+        </div>
+        <div class="output-cell">
+            &lt;class 'dict'&gt; {'Mercury': 2440.0, 'Venus': 6052.1, 'Earth': 6371.5, 'Mars': 3389.2, 'Jupiter': 69911.0, 'Saturn': 58232.2}
+        </div>
+
+        <div class="cell markdown-cell">
+            <p>Each element in a dictionary has two aspects: <i>key</i> and <i>value</i>. To access a value, use the key with square brackets [ ]:</p>
+        </div>
+
+        <div class="cell code-cell">
+            <div class="code-label">In [2]:</div>
+            <pre><span class="builtin">print</span>(solar_planets[<span class="string">'Venus'</span>])</pre>
+        </div>
+        <div class="output-cell">6052.1</div>
+
+        <div class="cell markdown-cell">
+            <p>Unlike standard dictionaries, you can <strong>change</strong> a key's value, <strong>add</strong> a new key, or <strong>remove</strong> keys using the <code>del</code> function:</p>
+        </div>
+
+        <div class="cell code-cell">
+            <div class="code-label">In [5]:</div>
+            <pre>solar_planets[<span class="string">'Uranus'</span>] = <span class="number">25362.0</span>  <span class="comment"># add Uranus to the dict</span>
+<span class="keyword">del</span> solar_planets[<span class="string">'Earth'</span>]     <span class="comment"># remove the key 'Earth'</span>
+<span class="builtin">print</span>(solar_planets.keys())    <span class="comment"># return the keys in a dictionary</span></pre>
         </div>
     </section>
 
-    <section id="dictionaries">
-        <h2>A. Dictionaries in Python</h2>
-        <p>Dictionaries are somewhat like lists, but denoted by <strong>alphanumeric keys</strong> rather than integer indices.</p>
-        
-        
+    <section id="structure">
+        <div class="cell markdown-cell">
+            <h3>B. Python Code Structures (Code Blocks)</h3>
+            <p>Python uses <strong>INDENTATIONS</strong> to define the code blocks and make the code readable. This is one of the most distinctive features of Python.</p>
+        </div>
 
-        <pre>
-<span class="comment"># Create a dictionary of planetary radii (km)</span>
-solar_planets = {
-    <span class="string">'Mercury'</span>: <span class="number">2440.0</span>, 
-    <span class="string">'Venus'</span>: <span class="number">6052.1</span>, 
-    <span class="string">'Earth'</span>: <span class="number">6371.5</span>, 
-    <span class="string">'Mars'</span>: <span class="number">3389.2</span>
-}
+        <div class="cell code-cell">
+            <div class="code-label">In [10]:</div>
+            <pre>food = <span class="builtin">input</span>(<span class="string">"What's your favorite food? "</span>)
 
-<span class="comment"># Accessing data</span>
-print(solar_planets[<span class="string">'Venus'</span>]) <span class="comment"># Output: 6052.1</span>
+<span class="keyword">if</span> food == <span class="string">'garlic'</span>:
+   <span class="builtin">print</span>(<span class="string">'I think'</span>, food, <span class="string">'is super yucky'</span>)
+<span class="keyword">else</span>:
+   <span class="builtin">print</span>(<span class="string">'I think'</span>, food, <span class="string">'is super yummy'</span>)</pre>
+        </div>
 
-<span class="comment"># Adding new data</span>
-solar_planets[<span class="string">'Uranus'</span>] = <span class="number">25362.0</span></pre>
+        <div class="cell markdown-cell">
+            <h4>Condition Statements</h4>
+            <p>Common logic operators used for program control:</p>
+            <ul>
+                <li><code>==</code> : equals</li>
+                <li><code>!=</code> : does not equal</li>
+                <li><code>&lt;</code>, <code>&lt;=</code>, <code>&gt;</code>, <code>&gt;=</code> : comparison</li>
+                <li><code>and</code> / <code>or</code> : combine multiple tests</li>
+            </ul>
+        </div>
     </section>
 
-    <section id="control">
-        <h2>B. Program Control (If-Else)</h2>
-        <p>Python uses <strong>indentation</strong> to define code blocks. This makes the code readable and is a distinctive feature of the language.</p>
-        
-        
+    <section id="loops">
+        <div class="cell markdown-cell">
+            <h3>C. Program Control: If, While, and For Loops</h3>
+            <h4>C1. "if" and "if-elif-else"</h4>
+            <p>The code-block is executed if the condition is true. <code>elif</code> (else if) and <code>else</code> handle additional conditions.</p>
+        </div>
 
-        <pre>
+        <div class="cell code-cell">
+            <div class="code-label">In [31]:</div>
+            <pre>exam = <span class="number">82.0</span>
 <span class="keyword">if</span> exam >= <span class="number">90.0</span>:
     Grade = <span class="string">'A'</span>
 <span class="keyword">elif</span> exam >= <span class="number">80.0</span>:
     Grade = <span class="string">'B'</span>
 <span class="keyword">else</span>:
-    Grade = <span class="string">'Fail'</span></pre>
+    Grade = <span class="string">'Fail'</span>
+<span class="builtin">print</span>(<span class="string">'Your final grade is'</span>, Grade)</pre>
+        </div>
+
+        <div class="cell markdown-cell">
+            <h4>C2. "while" loops</h4>
+            <p>A <strong>while</strong> loop executes a block as long as a condition is True.</p>
+        </div>
+
+        <div class="cell code-cell">
+            <div class="code-label">In [35]:</div>
+            <pre>N = <span class="number">100</span>
+threshold = <span class="number">90</span>
+<span class="keyword">while</span> (N > threshold):
+    <span class="builtin">print</span>(N)
+    N = N - <span class="number">1</span>
+<span class="builtin">print</span>(<span class="string">'and the final value is: '</span>, N)</pre>
+        </div>
+
+        <div class="cell markdown-cell">
+            <h4>C3. "for" loops</h4>
+            <p>A <strong>for</strong> loop steps through a list and does something at each step.</p>
+        </div>
+
+        <div class="cell code-cell">
+            <div class="code-label">In [37]:</div>
+            <pre>mylist = [<span class="string">'jane'</span>, <span class="string">'josh'</span>, <span class="string">'sid'</span>, <span class="string">'geoff'</span>]
+<span class="keyword">for</span> name <span class="keyword">in</span> mylist:
+    <span class="builtin">print</span>(name)</pre>
+        </div>
     </section>
 
-    <section id="loops">
-        <h2>C. While and For Loops</h2>
-        <p>A <strong>While</strong> loop executes as long as a condition is True, while a <strong>For</strong> loop steps through a list or dictionary.</p>
-        
-        <h3>Putting it All Together: Habitability Study</h3>
-        <p>In this example, we iterate through a dictionary of temperatures and use logic to determine if a planet is "habitable" (-100°C to 100°C).</p>
+    <section id="nested">
+        <div class="cell markdown-cell">
+            <h3>D. Nested Loops - Put it all together</h3>
+            <p>Below is an example of an <code>if</code> statement inside a <code>for</code> loop to identify habitable planets:</p>
+        </div>
 
-        <pre>
-<span class="comment"># Temperatures in Kelvin</span>
-surface_temps = {<span class="string">'Earth'</span>: <span class="number">288.5</span>, <span class="string">'Mars'</span>: <span class="number">210.2</span>, <span class="string">'Jupiter'</span>: <span class="number">110.0</span>}
+        <div class="cell code-cell">
+            <div class="code-label">In [39]:</div>
+            <pre>solar_planets = {<span class="string">'Mercury'</span>:<span class="number">440.0</span>, <span class="string">'Venus'</span>:<span class="number">737.1</span>, <span class="string">'Earth'</span>:<span class="number">288.5</span>, <span class="string">'Mars'</span>:<span class="number">210.2</span>}
 
-<span class="keyword">for</span> key <span class="keyword">in</span> surface_temps.keys():
-    temperature = surface_temps[key] - <span class="number">273.1</span> <span class="comment"># Convert to Celsius</span>
+<span class="keyword">for</span> key <span class="keyword">in</span> solar_planets.keys():
+    temperature = solar_planets[key] - <span class="number">273.1</span> <span class="comment"># Convert Kelvin to Celsius</span>
  
     <span class="keyword">if</span> (temperature <= <span class="number">100</span>) <span class="keyword">and</span> (temperature >= <span class="number">-100</span>):
-        <span class="comment"># Using round() to keep one decimal place</span>
-        print(<span class="string">'Planet'</span>, key, <span class="string">'is habitable at'</span>, round(temperature, <span class="number">1</span>), <span class="string">'°C'</span>)</pre>
+        <span class="builtin">print</span>(<span class="string">'Planet'</span>, key, <span class="string">'is habitable at'</span>, <span class="builtin">round</span>(temperature, <span class="number">1</span>), <span class="string">'°C'</span>)</pre>
+        </div>
+        <div class="output-cell">
+            Planet Earth is habitable at 15.4 °C<br>
+            Planet Mars is habitable at -62.9 °C
+        </div>
     </section>
 
+    <footer style="margin-top: 50px; text-align: center; font-size: 0.8em; color: #888;">
+        <p>University of Hong Kong | Faculty of Science | Course: Python for Earth Science Undergraduates</p>
+    </footer>
 </div>
-
-<footer>
-    <p>&copy; 2026 Associate Department Head for Teaching and Learning | Earth and Planetary Sciences</p>
-    <p>University of Hong Kong | Course Code: Python for Earth Sciences</p>
-</footer>
 
 </body>
 </html>
