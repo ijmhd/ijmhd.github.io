@@ -167,6 +167,106 @@
   font-weight: bold;
 }
 
+.teaching-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.35rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.teaching-card {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  border: 1px solid $light-gray;
+  border-radius: 0.5rem;
+  background: $background-color;
+  box-shadow: 0 0.2rem 0.75rem rgba(0, 0, 0, 0.08);
+}
+
+.teaching-card:last-child:nth-child(odd) {
+  grid-column: 1 / -1;
+}
+
+.teaching-card__figure {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+}
+
+.teaching-card:last-child:nth-child(odd) .teaching-card__figure {
+  aspect-ratio: 24 / 7;
+}
+
+.teaching-card__placeholder {
+  display: grid;
+  place-content: center;
+  padding: 1rem;
+  background:
+    radial-gradient(circle at 78% 28%, rgba($primary-color, 0.16), transparent 27%),
+    linear-gradient(135deg, #eef1f3, #d9dee2);
+  color: $primary-color;
+  text-align: center;
+}
+
+.teaching-card__placeholder span {
+  font-size: $type-size-4;
+  font-weight: bold;
+  letter-spacing: 0.04em;
+}
+
+.teaching-card__placeholder small {
+  display: block;
+  margin-top: 0.25rem;
+  color: mix(#000, $primary-color, 22%);
+  font-size: $type-size-7;
+  font-weight: bold;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+}
+
+.teaching-card__body {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  padding: 1.2rem 1.3rem 1.35rem;
+}
+
+.teaching-card__meta {
+  margin: 0 0 0.3rem;
+  color: $primary-color;
+  font-size: $type-size-7;
+  font-weight: bold;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.teaching-card__body h2 {
+  margin: 0 0 0.75rem;
+}
+
+.teaching-card__description {
+  margin-bottom: 1rem;
+}
+
+.teaching-card__links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+  margin-top: auto;
+}
+
+.teaching-card__links .btn {
+  margin: 0;
+}
+
+.teaching-card__pending {
+  cursor: default;
+  opacity: 0.58;
+  pointer-events: none;
+}
+
 .action-row {
   display: flex;
   flex-wrap: wrap;
@@ -293,6 +393,7 @@
 @media (max-width: 640px) {
   .research-grid,
   .research-topic-grid,
+  .teaching-grid,
   .team-grid {
     grid-template-columns: 1fr;
   }
@@ -302,6 +403,14 @@
   }
 
   .research-topic-card--wide .research-topic-card__figure {
+    aspect-ratio: 16 / 9;
+  }
+
+  .teaching-card:last-child:nth-child(odd) {
+    grid-column: auto;
+  }
+
+  .teaching-card:last-child:nth-child(odd) .teaching-card__figure {
     aspect-ratio: 16 / 9;
   }
 

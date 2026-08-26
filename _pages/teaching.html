@@ -9,8 +9,41 @@ excerpt: "Teaching in Earth and planetary sciences, scientific computing, machin
 
 {% include base_path %}
 
-<p>These pages provide public overviews of courses I have taught or coordinated at HKU. Current schedules, assessment arrangements, and teaching materials are provided to enrolled students through the University's learning platform.</p>
+<p>These pages provide public overviews of courses I have taught or coordinated at HKU. Each course card links to a detailed overview and is ready to accommodate public syllabi, schedules, and teaching materials as they become available.</p>
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+{% assign courses = site.teaching | sort: "date" | reverse %}
+<div class="teaching-grid">
+{% for post in courses %}
+  {% assign course_code = post.title | split: ":" | first %}
+  <article class="teaching-card">
+    {% if post.image %}
+      <img class="teaching-card__figure" src="{{ post.image }}" alt="{{ post.image_alt | default: post.title }}">
+    {% else %}
+      <div class="teaching-card__figure teaching-card__placeholder" role="img" aria-label="Image placeholder for {{ post.title }}">
+        <span>Course image</span>
+        <small>{{ course_code }}</small>
+      </div>
+    {% endif %}
+
+    <div class="teaching-card__body">
+      <p class="teaching-card__meta">{{ post.type }} · {{ post.period }}</p>
+      <h2>{{ post.title }}</h2>
+      <p class="teaching-card__description">{{ post.description }}</p>
+
+      <div class="teaching-card__links" aria-label="Resources for {{ post.title }}">
+        <a class="btn btn--primary" href="{{ post.url }}">Course overview</a>
+        {% if post.syllabus_url %}
+          <a class="btn" href="{{ post.syllabus_url }}">Syllabus</a>
+        {% else %}
+          <span class="btn teaching-card__pending" aria-label="Syllabus forthcoming">Syllabus · forthcoming</span>
+        {% endif %}
+        {% if post.schedule_url %}
+          <a class="btn" href="{{ post.schedule_url }}">Schedule</a>
+        {% else %}
+          <span class="btn teaching-card__pending" aria-label="Schedule forthcoming">Schedule · forthcoming</span>
+        {% endif %}
+      </div>
+    </div>
+  </article>
 {% endfor %}
+</div>
