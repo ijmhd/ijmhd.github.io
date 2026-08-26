@@ -53,9 +53,7 @@ Our group develops numerical methods and high-performance simulation tools for p
   </article>
 
   <article class="team-card">
-    <div class="team-card__photo team-card__placeholder" role="img" aria-label="Photo placeholder for Yusha Tan">
-      <span>YT</span>
-    </div>
+    <img class="team-card__photo" src="/images/team/yusha-tan.jpg" alt="Yusha Tan">
     <div class="team-card__body">
       <p class="team-card__role">Postdoctoral Researcher</p>
       <h3>Yusha Tan</h3>
@@ -95,16 +93,14 @@ Our group develops numerical methods and high-performance simulation tools for p
   </article>
 
   <article class="team-card">
-    <div class="team-card__photo team-card__placeholder" role="img" aria-label="Photo placeholder for Jinshu Cai">
-      <span>JC</span>
-    </div>
+    <img class="team-card__photo" src="/images/team/jinshu-cai.jpg" alt="Jinshu Cai">
     <div class="team-card__body">
       <p class="team-card__role">Ph.D. Student</p>
       <h3>Jinshu Cai</h3>
       <dl class="team-card__details">
         <div>
           <dt>Academic background</dt>
-          <dd>B.Sc., University of Science and Technology of China (USTC)</dd>
+          <dd>B.Sc. in Space Physics, University of Science and Technology of China (USTC)</dd>
         </div>
         <div>
           <dt>Research projects</dt>
@@ -122,7 +118,7 @@ Our group develops numerical methods and high-performance simulation tools for p
       <dl class="team-card__details">
         <div>
           <dt>Academic background</dt>
-          <dd>B.Sc., University of New Brunswick</dd>
+          <dd>B.Sc. in Mathematics, University of New Brunswick</dd>
         </div>
         <div>
           <dt>Research projects</dt>
