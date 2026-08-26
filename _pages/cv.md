@@ -448,6 +448,9 @@ Pokfulam Rd., Hong Kong S.A.R. China, 999077
 
 ## Services/Administration
 
+- Chief Examiner (three years)
+- Acting Associate Head (Teaching and Learning) (one year)
+- Led the consolidation of the Geology and Earth System Science (ESS) majors into the new Earth and Planetary Sciences (EPS) major, including academic coordination and preparation of the programme proposal and supporting paperwork for formal submission
 - Department outreach committee, in charge of department website (2018-2021)
 - DRPC committee member, participated in RPG student admission (2021-2022)
 - Department research committee (2023-present)
