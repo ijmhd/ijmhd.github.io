@@ -115,9 +115,7 @@ Our group develops numerical methods and high-performance simulation tools for p
   </article>
 
   <article class="team-card">
-    <div class="team-card__photo team-card__placeholder" role="img" aria-label="Photo placeholder for Zhengyang Wang">
-      <span>ZW</span>
-    </div>
+    <img class="team-card__photo" src="/images/team/zhengyang-wang.jpg" alt="Zhengyang Wang">
     <div class="team-card__body">
       <p class="team-card__role">Ph.D. Student</p>
       <h3>Zhengyang Wang</h3>
