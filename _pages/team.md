@@ -13,7 +13,7 @@ Our group develops numerical methods and high-performance simulation tools for p
   <article class="team-card">
     <img class="team-card__photo" src="/images/team/binzheng-zhang.jpg" alt="Binzheng Zhang">
     <div class="team-card__body">
-      <p class="team-card__role">Associate Professor · Principal Investigator</p>
+      <p class="team-card__role">Associate Professor</p>
       <h3>Binzheng Zhang</h3>
       <dl class="team-card__details">
         <div>
