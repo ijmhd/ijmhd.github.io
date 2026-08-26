@@ -7,7 +7,7 @@ author_profile: true
 
 Our group develops numerical methods and high-performance simulation tools for planetary and geospace plasma environments. Current projects span planetary magnetospheres, magnetosphere-ionosphere coupling, space weather, and advanced magnetohydrodynamics (MHD) algorithms.
 
-## Research faculty
+## Faculty researchers
 
 <div class="team-grid">
   <article class="team-card">
@@ -18,11 +18,11 @@ Our group develops numerical methods and high-performance simulation tools for p
       <dl class="team-card__details">
         <div>
           <dt>Academic background</dt>
-          <dd>Ph.D. in Engineering Sciences, Dartmouth College; M.Sc. and B.Sc. in Electrical Engineering, Zhejiang University</dd>
+          <dd>Ph.D., Dartmouth College; M.Sc. and B.Sc., Zhejiang University</dd>
         </div>
         <div>
           <dt>Research interests</dt>
-          <dd>Planetary magnetospheres and space weather; magnetosphere–ionosphere coupling and auroral physics; high-order numerical MHD and high-performance computing</dd>
+          <dd>Planetary magnetospheres and space weather</dd>
         </div>
       </dl>
     </div>
