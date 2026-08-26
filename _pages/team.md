@@ -7,7 +7,7 @@ author_profile: true
 
 Our group develops numerical methods and high-performance simulation tools for planetary and geospace plasma environments. Current projects span planetary magnetospheres, magnetosphere-ionosphere coupling, space weather, and advanced magnetohydrodynamics (MHD) algorithms.
 
-## Research faculty and postdoctoral researchers
+## Research faculty
 
 <div class="team-grid">
   <article class="team-card">
@@ -27,7 +27,11 @@ Our group develops numerical methods and high-performance simulation tools for p
       </dl>
     </div>
   </article>
+</div>
 
+## Postdoctoral researchers
+
+<div class="team-grid">
   <article class="team-card">
     <div class="team-card__photo team-card__placeholder" role="img" aria-label="Photo placeholder for Austin Smith">
       <span>AS</span>
@@ -43,6 +47,26 @@ Our group develops numerical methods and high-performance simulation tools for p
         <div>
           <dt>Research interests</dt>
           <dd>Jovian magnetosphere–ionosphere coupling; global MHD modeling; ionospheric electrodynamics</dd>
+        </div>
+      </dl>
+    </div>
+  </article>
+
+  <article class="team-card">
+    <div class="team-card__photo team-card__placeholder" role="img" aria-label="Photo placeholder for Yusha Tan">
+      <span>YT</span>
+    </div>
+    <div class="team-card__body">
+      <p class="team-card__role">Postdoctoral Researcher</p>
+      <h3>Yusha Tan</h3>
+      <dl class="team-card__details">
+        <div>
+          <dt>Academic background</dt>
+          <dd>Ph.D. in Space Physics, USTC; B.Sc. in Geophysics, USTC</dd>
+        </div>
+        <div>
+          <dt>Research interests</dt>
+          <dd>Thermosphere–ionosphere coupling; high-latitude atmospheric dynamics; space weather modeling</dd>
         </div>
       </dl>
     </div>
@@ -69,14 +93,47 @@ Our group develops numerical methods and high-performance simulation tools for p
       </dl>
     </div>
   </article>
+
+  <article class="team-card">
+    <div class="team-card__photo team-card__placeholder" role="img" aria-label="Photo placeholder for Jinshu Cai">
+      <span>JC</span>
+    </div>
+    <div class="team-card__body">
+      <p class="team-card__role">Ph.D. Student</p>
+      <h3>Jinshu Cai</h3>
+      <dl class="team-card__details">
+        <div>
+          <dt>Academic background</dt>
+          <dd>B.Sc., University of Science and Technology of China (USTC)</dd>
+        </div>
+        <div>
+          <dt>Research projects</dt>
+          <dd>Venusian space environment; global magnetohydrodynamic (MHD) simulations</dd>
+        </div>
+      </dl>
+    </div>
+  </article>
+
+  <article class="team-card">
+    <div class="team-card__photo team-card__placeholder" role="img" aria-label="Photo placeholder for Zhengyang Wang">
+      <span>ZW</span>
+    </div>
+    <div class="team-card__body">
+      <p class="team-card__role">Ph.D. Student</p>
+      <h3>Zhengyang Wang</h3>
+      <dl class="team-card__details">
+        <div>
+          <dt>Academic background</dt>
+          <dd>B.Sc., University of New Brunswick</dd>
+        </div>
+        <div>
+          <dt>Research projects</dt>
+          <dd>Numerical magnetohydrodynamics (MHD)</dd>
+        </div>
+      </dl>
+    </div>
+  </article>
 </div>
-
-### Other current postgraduate researchers
-
-| Name | Programme | Academic background | Since |
-|------|-----------|---------------------|-------|
-| Jinshu Cai | Ph.D. | B.Sc., USTC | 2024 |
-| Zhengyang Wang | Ph.D. | B.Sc., University of New Brunswick | 2022 |
 
 ## Alumni
 
