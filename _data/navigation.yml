@@ -11,7 +11,7 @@ main:
     url: /talks/
         
   - title: "Team"
-    url: /year-archive/
+    url: /team/
     
   - title: "CV"
     url: /cv/

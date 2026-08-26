@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "B. ZHANG"
+title                    : "Binzheng Zhang"
 title_separator          : "-"
-name                     : &name "Dr. B ZHANG"
-description              : &description "personal description"
-url                      : https://ijmhd.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Binzheng Zhang"
+description              : &description "Space physicist at the University of Hong Kong working on planetary magnetospheres, space plasma physics, and high-performance MHD simulation."
+url                      : https://www.binzh.net # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ijmhd/ijmhd.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -62,48 +62,51 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "/images/profile9.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : "Binzheng Zhang"
+  links:
+    - "https://scholar.google.com/citations?hl=en&user=AC8jpboAAAAJ"
+    - "https://www.earthsciences.hku.hk/people/academic_staff/63/"
+    - "https://github.com/ijmhd"
 
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
 
 # Site Author
 author:
-  name             : "Dr. Binzheng Zhang"
+  name             : "Prof. Binzheng Zhang"
   avatar           : "profile9.jpg"
-  bio              : "Teacher, Scientist, Geek"
-  location         : "James Lee 303"
+  bio              : "Space physicist · MHD modeler · Associate Professor at HKU"
+  location         : "JL 303, HKU"
   employer         : "University of Hong Kong"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=AC8jpboAAAAJ"
   email            : "BINZH@HKU.HK"
   researchgate     : #"https://www.researchgate.net/profile/Binzheng_Zhang"
-  uri              : "https://www.earthsciences.hku.hk/people/academic-staff/dr-zhang-binzheng"
+  uri              : "https://www.earthsciences.hku.hk/people/academic_staff/63/"
   bitbucket        :  
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tiegcm"
+  github           : "ijmhd"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -254,7 +257,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Hong_Kong # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

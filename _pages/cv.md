@@ -17,7 +17,8 @@ Department of Earth and Planetary Sciences
 University of Hong Kong  
 Pokfulam Rd., Hong Kong S.A.R. China, 999077  
 
-**Work Phone:** +852 2857 8251  
+**Work Phone:** +852 3917 8251
+
 **Work Email:** binzh@hku.hk
 
 ---
@@ -26,8 +27,8 @@ Pokfulam Rd., Hong Kong S.A.R. China, 999077
 
 | Year | Degree | Field | Institution |
 |------|--------|-------|-------------|
-| 2005 | B.Sc. | Electric Engineering | Zhejiang University (China) |
-| 2007 | M.Sc. | Electric Engineering | Zhejiang University (China) |
+| 2005 | B.Sc. | Electrical Engineering | Zhejiang University (China) |
+| 2007 | M.Sc. | Electrical Engineering | Zhejiang University (China) |
 | 2012 | Ph.D. | Engineering Sciences | Dartmouth College (USA) |
 
 ## Academic Appointments
@@ -414,4 +415,4 @@ Pokfulam Rd., Hong Kong S.A.R. China, 999077
 
 ---
 
-*Last updated: [Current Date]*
+*Last updated: August 2026*

@@ -12,13 +12,13 @@ redirect_from:
 
 <!--img src="IMG_3591.png" alt="drawing" width="200" style="float: right"/-->
 
-I'm a space physicist :beer::beer::beer:, which basically means I get to use supercomputers to build virtual solar systems. I create simulations to understand the forces, fields and particles that fill the space around planets (including our own!). This "space weather" can knock out satellites and disrupt communications, so my digital lab is on the front lines of predicting these cosmic storms to help protect our tech, and of course, future missions to other solar planets (or exoplanets...)
+I'm a space physicist :beer::beer::beer:, which basically means I get to use supercomputers to build virtual solar systems. I create simulations to understand the forces, fields and particles that fill the space around planets (including our own!). This "space weather" can knock out satellites and disrupt communications, so my digital lab is on the front lines of predicting these cosmic storms to help protect our tech and future missions to other worlds (or exoplanets...).
 
 <!---img src="hex.png" alt="drawing" width="160" style="float: right"/--->
 
 My Cosmic Playground
 =====
-Our main project grew from a classic code called the Lyon-Fedder-Mobarry (LFM), a master piece of work done by Professor John Lyon from Dartmouth. Think of it as the engine for our digital universe. My team and I have been upgrading it into a general-purpose tool for simulating the flow of space plasma. Our current playground includes the Sun's atmosphere, the solar wind, and the magnetic environments of Venus, Earth, Jupiter, and Saturn. The dream is to keep adding new worlds—maybe Mars, the ice giants, or Krypton.
+Our main project grew from a classic code called the Lyon-Fedder-Mobarry (LFM), a masterpiece developed by Professor John Lyon and collaborators at Dartmouth. Think of it as the engine for our digital universe. My team and I have been upgrading it into a general-purpose tool for simulating the flow of space plasma. Our current playground includes the Sun's atmosphere, the solar wind, and the magnetic environments of Venus, Earth, Jupiter, and Saturn. The dream is to keep adding new worlds—maybe Mars, the ice giants, or Krypton.
 
 <!---![Alt Image Text](./gamera.png)--->
 

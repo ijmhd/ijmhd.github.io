@@ -2,6 +2,7 @@
 layout: archive
 title: "GAMERA Code Test Page"
 permalink: /codes/
+published: false
 author_profile: true
 redirect_from:
   - /resume

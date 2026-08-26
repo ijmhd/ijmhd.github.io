@@ -12,7 +12,7 @@ So, when I'm not tangled in code, wrestling with manuscripts, or debating with r
 
 ### 📬 How to Reach Me
 
-The best way to get in touch is via email: 
+The best way to get in touch is via email: [binzh@hku.hk](mailto:binzh@hku.hk).
 
 *   **Office Location:**  
 
