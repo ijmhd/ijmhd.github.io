@@ -374,25 +374,40 @@ Pokfulam Rd., Hong Kong S.A.R. China, 999077
 **Editor**, *AGU Advances*, 2022-present
 
 
-## External Peer-Reviewed Competitive Research Grants
+## Research Grants and Agreements
 
-### Current Grants
+### Current External Grants and Agreements
 
-| Project Title | Funding Agency | Project Number | Amount | Project Period |
-|--------------|---------------|----------------|--------|----------------|
-| Factors control global morphology of planetary auroral emissions | General Research Fund, Hong Kong Research Grants Council (RGC) | 109000727 | HK$ 877,079.00 | 01-JAN-2024 to 31-DEC-2026 |
-| 木星磁层顶磁重联研究 | General Program, National Science Foundation of China (NSFC) | 42374216 | RMB¥ 530,000.00 | 01-JAN-2024 to 31-DEC-2027 |
+| Project Title | Funding Scheme / Agency | Amount | Role | Award Year / Status |
+|--------------|-------------------------|--------|------|---------------------|
+| Multi-scale Modeling and Forecasting of Planetary Space Environment | RGC Research Fellow Scheme (RFS) 2025/26 | HK$ 5,465,160 | PI | 2025 / On-going |
+| Scientific Research on Jupiter's Space Environment and Exploration Principles (#1) | Collaboration Agreement with Peking University | HK$ 1,237,350 | PI | 2025 / 31-DEC-2025 to 30-NOV-2030 |
+| Interchange instability in the Jovian inner magnetosphere: the effects of pressure anisotropy and hot plasma populations | General Research Fund (GRF) 2025/26 | HK$ 890,587 | PI | 2025 / On-going |
+| Responses of Jupiter's rotation-driven magnetic reconnection to upstream solar wind (2026A1515011076) | Guangdong Natural Science Fund, General Programme 2025 | HK$ 115,300 | Co-I | 2025 / On-going |
+| Controlling Factors of Jupiter's Deep Magnetotail: External and Internal Influences | General Research Fund (GRF) 2024/25 | HK$ 910,742 | PI | 2024 / On-going |
+| Joint Laboratory of Chemical Geodynamics, Guangzhou Institute of Geochemistry (CAS) and Department of Earth and Planetary Sciences (HKU) | RGC Co-funding Mechanism on Joint Laboratories with CAS | HK$ 1,875,000 | Co-I | 2024 / On-going |
+| 木星磁层顶磁重联研究 (42374216) | General Program, National Natural Science Foundation of China (NSFC) | RMB 530,000 | PI | 2024 / On-going |
+| Factors control global morphology of planetary auroral emissions | General Research Fund (GRF) 2023/24 | HK$ 877,079 | PI | 2023 / On-going |
 
-### Previous Grants
+### Current Internal Research Grants
 
-| Project Title | Funding Agency | Project Number | Amount | Project Period |
-|--------------|---------------|----------------|--------|----------------|
-| Magnetospheric Origin of Jovian Auroral Dawnstorms and Polar Emission | General Research Fund, Hong Kong Research Grants Council (RGC) | 106220156 | HK$ 793,000.00 | 01-JAN-2023 to 31-DEC-2025 |
-| Ionospheric Control and Low-Altitude Signatures of Magnetopause Activity | General Research Fund, Hong Kong Research Grants Council (RGC) | 106210140 | HK$ 608,015.00 | 01-JAN-2022 to 31-DEC-2024 |
-| Effects of non-thermal plasma populations in the global configuration of the Jovian magnetosphere | General Research Fund, Hong Kong Research Grants Council (RGC) | 106200217 | HK$ 898,524.00 | 01-JAN-2021 to 31-DEC-2023 |
-| Space Physics | Excellent Young Scientist Scheme, National Science Foundation of China (NSFC) | 260840010 | HK$ 1,730,285.00 | 01-JAN-2020 to 31-DEC-2022 |
-| Impact of Terrestrial-Sourced Plasma on the Dayside Solar Wind-Magnetosphere-Ionosphere interaction | General Research Fund, Hong Kong Research Grants Council (RGC) | 106190144 | HK$ 502,444.00 | 01-JAN-2020 to 31-DEC-2022 |
-| Effects of Meso-Scale Ionosphere-Thermosphere Dynamics on Topside O+ Ion Upflow and Outflow | General Research Fund, Hong Kong Research Grants Council (RGC) | 106180024 | HK$ 198,523.00 | 01-SEP-2018 to 28-FEB-2021 |
+| Project Title | Funding Scheme | Amount | Role | Award Year / Status |
+|--------------|----------------|--------|------|---------------------|
+| Ionospheric Equatorial Spread F in Hong Kong: Observation and Simulations | Seed Fund for PI Research - Basic Research 2025/26 | HK$ 120,000 | PI | 2026 / On-going |
+| Global MHD modeling of the Uranus magnetosphere | Seed Fund for PI Research - Basic Research 2024/25 | HK$ 110,760 | PI | 2025 / On-going |
+| Global Magnetohydrodynamics with Three-dimensional Drift Kinetics | Seed Fund for PI Research - Basic Research 2023/24 | HK$ 108,546 | PI | 2024 / On-going |
+| Outstanding Young Researcher Award 2021/22 | University of Hong Kong | HK$ 300,000 | PI | 2023 / On-going |
+
+### Completed External Grants
+
+| Project Title | Funding Scheme / Agency | Amount | Role | Award Year |
+|--------------|-------------------------|--------|------|------------|
+| Magnetospheric origin of Jovian aurora: dawn storms and polar emissions | General Research Fund (GRF) 2022/23 | HK$ 783,000 | PI | 2022 |
+| Ionospheric Control and Low-Altitude Signatures of Magnetopause Activity | General Research Fund (GRF) | HK$ 598,015 | PI | 2021 |
+| Effects of non-thermal plasma populations in the global configuration of the Jovian magnetosphere | General Research Fund (GRF) | HK$ 899,792 | PI | 2020 |
+| Space Physics | NSFC Excellent Young Scientists Fund (Hong Kong and Macau) | HK$ 1,628,000 | PI | 2020 |
+| Impact of Terrestrial-Sourced Plasma on the Dayside Solar Wind-Magnetosphere-Ionosphere interaction | General Research Fund (GRF) | HK$ 502,444 | PI | 2019 |
+| Effects of Meso-Scale Ionosphere-Thermosphere Dynamics on Topside O+ Ion Upflow and Outflow | Early Career Scheme (ECS) | HK$ 198,523 | PI | 2018 |
 
 ## Teaching and Student Supervision
 
