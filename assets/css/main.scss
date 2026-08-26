@@ -335,23 +335,20 @@
 }
 
 .team-card h3 {
-  margin: 0 0 0.85rem;
+  margin: 0 0 0.55rem;
 }
 
-.team-card__details {
+.team-card__background {
+  margin: 0 0 0.7rem;
+  line-height: 1.45;
+}
+
+.team-card__focus {
   margin: 0;
 }
 
-.team-card__details div + div {
-  margin-top: 0.75rem;
-}
-
-.team-card__details dt {
-  font-weight: bold;
-}
-
-.team-card__details dd {
-  margin: 0.15rem 0 0;
+.team-card__focus strong {
+  color: $primary-color;
 }
 
 .alumni-list {
@@ -388,6 +385,10 @@
 
 .alumni-card p {
   margin: 0.3rem 0 0;
+}
+
+.alumni-card__background {
+  line-height: 1.45;
 }
 
 @media (max-width: 640px) {

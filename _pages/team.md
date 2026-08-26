@@ -15,16 +15,8 @@ Our group develops numerical methods and high-performance simulation tools for p
     <div class="team-card__body">
       <p class="team-card__role">Associate Professor</p>
       <h3>Binzheng Zhang</h3>
-      <dl class="team-card__details">
-        <div>
-          <dt>Academic background</dt>
-          <dd>Ph.D. in Engineering Sciences, Dartmouth College; B.Sc. in Electrical Engineering, Zhejiang University</dd>
-        </div>
-        <div>
-          <dt>Research interests</dt>
-          <dd>Planetary magnetospheres and space weather; computational plasma physics</dd>
-        </div>
-      </dl>
+      <p class="team-card__background"><strong>B.Sc. ZJU; Ph.D. Dartmouth</strong></p>
+      <p class="team-card__focus"><strong>Research Interest:</strong> Planetary magnetospheres and space weather; computational plasma physics</p>
     </div>
   </article>
 
@@ -33,16 +25,8 @@ Our group develops numerical methods and high-performance simulation tools for p
     <div class="team-card__body">
       <p class="team-card__role">Research Assistant Professor</p>
       <h3>Junjie Chen</h3>
-      <dl class="team-card__details">
-        <div>
-          <dt>Academic background</dt>
-          <dd>Ph.D. in Space Physics, USTC; B.Sc. in Geophysics</dd>
-        </div>
-        <div>
-          <dt>Research interests</dt>
-          <dd>Planetary magnetospheres and ionospheres; magnetosphere–ionosphere coupling; magnetic reconnection and auroral dynamics</dd>
-        </div>
-      </dl>
+      <p class="team-card__background"><strong>B.Sc. USTC; Ph.D. USTC</strong></p>
+      <p class="team-card__focus"><strong>Research Interest:</strong> Planetary magnetospheres and ionospheres; magnetosphere–ionosphere coupling; magnetic reconnection and auroral dynamics</p>
     </div>
   </article>
 </div>
@@ -55,16 +39,8 @@ Our group develops numerical methods and high-performance simulation tools for p
     <div class="team-card__body">
       <p class="team-card__role">Postdoctoral Researcher</p>
       <h3>Austin Smith</h3>
-      <dl class="team-card__details">
-        <div>
-          <dt>Academic background</dt>
-          <dd>Ph.D. in Physics, University of Alaska Fairbanks; B.S. in Physics, Point Loma Nazarene University</dd>
-        </div>
-        <div>
-          <dt>Research interests</dt>
-          <dd>Jovian magnetosphere–ionosphere coupling; global MHD modeling; ionospheric electrodynamics</dd>
-        </div>
-      </dl>
+      <p class="team-card__background"><strong>B.S. PLNU; Ph.D. UAF</strong></p>
+      <p class="team-card__focus"><strong>Research Interest:</strong> Jovian magnetosphere–ionosphere coupling; global MHD modeling; ionospheric electrodynamics</p>
     </div>
   </article>
 
@@ -73,16 +49,8 @@ Our group develops numerical methods and high-performance simulation tools for p
     <div class="team-card__body">
       <p class="team-card__role">Postdoctoral Researcher</p>
       <h3>Yusha Tan</h3>
-      <dl class="team-card__details">
-        <div>
-          <dt>Academic background</dt>
-          <dd>Ph.D. in Space Physics, USTC; B.Sc. in Geophysics, USTC</dd>
-        </div>
-        <div>
-          <dt>Research interests</dt>
-          <dd>Thermosphere–ionosphere coupling; high-latitude atmospheric dynamics; space weather modeling</dd>
-        </div>
-      </dl>
+      <p class="team-card__background"><strong>B.Sc. USTC; Ph.D. USTC</strong></p>
+      <p class="team-card__focus"><strong>Research Interest:</strong> Thermosphere–ionosphere coupling; high-latitude atmospheric dynamics; space weather modeling</p>
     </div>
   </article>
 </div>
@@ -95,16 +63,8 @@ Our group develops numerical methods and high-performance simulation tools for p
     <div class="team-card__body">
       <p class="team-card__role">Ph.D. Student</p>
       <h3>Jiaxing Tian</h3>
-      <dl class="team-card__details">
-        <div>
-          <dt>Academic background</dt>
-          <dd>B.Sc. in Nuclear Physics, University of Science and Technology of China (USTC)</dd>
-        </div>
-        <div>
-          <dt>Research projects</dt>
-          <dd>Global Jovian magnetosphere; numerical magnetohydrodynamics (MHD)</dd>
-        </div>
-      </dl>
+      <p class="team-card__background"><strong>B.Sc. USTC</strong></p>
+      <p class="team-card__focus"><strong>Research Interest:</strong> Global Jovian magnetosphere; numerical magnetohydrodynamics (MHD)</p>
     </div>
   </article>
 
@@ -113,16 +73,8 @@ Our group develops numerical methods and high-performance simulation tools for p
     <div class="team-card__body">
       <p class="team-card__role">Ph.D. Student</p>
       <h3>Jinshu Cai</h3>
-      <dl class="team-card__details">
-        <div>
-          <dt>Academic background</dt>
-          <dd>B.Sc. in Space Physics, University of Science and Technology of China (USTC)</dd>
-        </div>
-        <div>
-          <dt>Research projects</dt>
-          <dd>Venusian space environment; global magnetohydrodynamic (MHD) simulations</dd>
-        </div>
-      </dl>
+      <p class="team-card__background"><strong>B.Sc. USTC</strong></p>
+      <p class="team-card__focus"><strong>Research Interest:</strong> Venusian space environment; global magnetohydrodynamic (MHD) simulations</p>
     </div>
   </article>
 
@@ -131,16 +83,8 @@ Our group develops numerical methods and high-performance simulation tools for p
     <div class="team-card__body">
       <p class="team-card__role">Ph.D. Student</p>
       <h3>Zhengyang Wang</h3>
-      <dl class="team-card__details">
-        <div>
-          <dt>Academic background</dt>
-          <dd>B.Sc. in Mathematics, University of New Brunswick</dd>
-        </div>
-        <div>
-          <dt>Research projects</dt>
-          <dd>High-performance kinetic schemes; physics-informed neural networks (PINNs)</dd>
-        </div>
-      </dl>
+      <p class="team-card__background"><strong>B.Sc. UNB</strong></p>
+      <p class="team-card__focus"><strong>Research Interest:</strong> High-performance kinetic schemes; physics-informed neural networks (PINNs)</p>
     </div>
   </article>
 
@@ -151,16 +95,8 @@ Our group develops numerical methods and high-performance simulation tools for p
     <div class="team-card__body">
       <p class="team-card__role">Ph.D. Student · Since 2026</p>
       <h3>Yuancheng Xu</h3>
-      <dl class="team-card__details">
-        <div>
-          <dt>Academic background</dt>
-          <dd>B.Sc. and M.Phil. in Physics, University of Oxford</dd>
-        </div>
-        <div>
-          <dt>Research projects</dt>
-          <dd>Computational plasma dynamics; drift-kinetic MHD</dd>
-        </div>
-      </dl>
+      <p class="team-card__background"><strong>B.Sc. Oxford; M.Phil. Oxford</strong></p>
+      <p class="team-card__focus"><strong>Research Interest:</strong> Computational plasma dynamics; drift-kinetic MHD</p>
     </div>
   </article>
 
@@ -171,16 +107,8 @@ Our group develops numerical methods and high-performance simulation tools for p
     <div class="team-card__body">
       <p class="team-card__role">Ph.D. Student · Since 2026</p>
       <h3>Chenghao Xiao</h3>
-      <dl class="team-card__details">
-        <div>
-          <dt>Academic background</dt>
-          <dd>B.Sc. and M.Phil. in Geophysics, Imperial College London</dd>
-        </div>
-        <div>
-          <dt>Research projects</dt>
-          <dd>Numerical modeling</dd>
-        </div>
-      </dl>
+      <p class="team-card__background"><strong>B.Sc. Imperial; M.Phil. Imperial</strong></p>
+      <p class="team-card__focus"><strong>Research Interest:</strong> Numerical modeling</p>
     </div>
   </article>
 </div>
@@ -193,7 +121,7 @@ Our group develops numerical methods and high-performance simulation tools for p
       <h3>Josh Fung</h3>
       <span>MRes, 2026</span>
     </div>
-    <p><strong>Academic background:</strong> B.Sc. in Physics, HKU</p>
+    <p class="alumni-card__background"><strong>B.Sc. HKU</strong></p>
     <p><strong>Thesis:</strong> <em>Modeling the Azimuthal Drift and Pitch-Angle Diffusion in Jupiter’s Radiation Belts</em></p>
   </article>
 
@@ -202,7 +130,7 @@ Our group develops numerical methods and high-performance simulation tools for p
       <h3>Hongyang Luo</h3>
       <span>Ph.D., 2026</span>
     </div>
-    <p><strong>Academic background:</strong> B.Sc. in Physics, University of California, Santa Barbara (UCSB)</p>
+    <p class="alumni-card__background"><strong>B.Sc. UCSB</strong></p>
     <p><strong>Thesis:</strong> <em>High-Resolution and High-Order Finite-Volume Methods for Astrophysical MHD Flows: Algorithms and Applications</em></p>
   </article>
 
@@ -211,7 +139,7 @@ Our group develops numerical methods and high-performance simulation tools for p
       <h3>Zhiqi Zheng</h3>
       <span>Ph.D., 2024</span>
     </div>
-    <p><strong>Academic background:</strong> B.Sc. in Physics, Zhejiang University</p>
+    <p class="alumni-card__background"><strong>B.Sc. ZJU</strong></p>
     <p><strong>Thesis:</strong> <a href="https://www.earthsciences.hku.hk/news_and_events/events/497/"><em>Large and Mesoscale Fluctuations in the Magnetosphere of Giant Planet</em></a></p>
   </article>
 
@@ -220,7 +148,7 @@ Our group develops numerical methods and high-performance simulation tools for p
       <h3>Enhao Feng</h3>
       <span>Ph.D., 2023</span>
     </div>
-    <p><strong>Academic background:</strong> B.Sc. in Mathematics, South China University of Technology; M.Sc. in Physics, Sun Yat-sen University</p>
+    <p class="alumni-card__background"><strong>B.Sc. SCUT; M.Sc. SYSU</strong></p>
     <p><strong>Thesis:</strong> <a href="https://hub.hku.hk/handle/10722/336618"><em>Jovian Magnetospheric Responses to Internal and External Processes</em></a></p>
   </article>
 
@@ -229,7 +157,7 @@ Our group develops numerical methods and high-performance simulation tools for p
       <h3>Qianfeng Yin</h3>
       <span>Ph.D., 2023</span>
     </div>
-    <p><strong>Academic background:</strong> B.Sc. in Geoengineering, Anhui University of Science and Technology; M.Sc. in Geoscience, University of Chinese Academy of Sciences (UCAS)</p>
+    <p class="alumni-card__background"><strong>B.Sc. AUST; M.Sc. UCAS</strong></p>
     <p><strong>Thesis:</strong> <a href="https://hub.hku.hk/handle/10722/336647"><em>Study on the Characteristics of Geospace Based on Global Simulation</em></a></p>
   </article>
 
@@ -238,7 +166,7 @@ Our group develops numerical methods and high-performance simulation tools for p
       <h3>Zexi Xing</h3>
       <span>Ph.D., 2023</span>
     </div>
-    <p><strong>Academic background:</strong> B.Sc. in Astronomy, Nanjing University</p>
+    <p class="alumni-card__background"><strong>B.Sc. NJU</strong></p>
     <p><strong>Thesis:</strong> <a href="https://hub.hku.hk/handle/10722/335063"><em>Understanding Cometary Volatiles and Asteroid Evolution with Ultraviolet Observations and New Techniques</em></a></p>
   </article>
 </div>
