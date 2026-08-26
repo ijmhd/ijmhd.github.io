@@ -77,11 +77,18 @@ Our group develops numerical methods and high-performance simulation tools for p
 |------|-----------|---------------------|-------|
 | Jinshu Cai | Ph.D. | B.Sc., USTC | 2024 |
 | Zhengyang Wang | Ph.D. | B.Sc., University of New Brunswick | 2022 |
-| Josh Fung | MRes | B.Sc. in Physics, HKU | 2026 |
 
 ## Alumni
 
 <div class="alumni-list">
+  <article class="alumni-card">
+    <div class="alumni-card__header">
+      <h3>Josh Fung</h3>
+      <span>MRes, 2026</span>
+    </div>
+    <p><strong>Academic background:</strong> B.Sc. in Physics, HKU</p>
+  </article>
+
   <article class="alumni-card">
     <div class="alumni-card__header">
       <h3>Hongyang Luo</h3>
