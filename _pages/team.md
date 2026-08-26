@@ -51,9 +51,7 @@ Our group develops numerical methods and high-performance simulation tools for p
 
 <div class="team-grid">
   <article class="team-card">
-    <div class="team-card__photo team-card__placeholder" role="img" aria-label="Photo placeholder for Austin Smith">
-      <span>AS</span>
-    </div>
+    <img class="team-card__photo" src="/images/team/austin-smith.jpg" alt="Austin Smith">
     <div class="team-card__body">
       <p class="team-card__role">Postdoctoral Researcher</p>
       <h3>Austin Smith</h3>
