@@ -39,3 +39,79 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Site-specific research and project components */
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1.25rem 0 2rem;
+}
+
+.research-grid--compact {
+  margin-top: 0.75rem;
+}
+
+.research-card {
+  padding: 1.15rem 1.25rem;
+  border: 1px solid $light-gray;
+  border-radius: 0.35rem;
+  background: $background-color;
+  box-shadow: 0 0.15rem 0.45rem rgba(0, 0, 0, 0.04);
+}
+
+.research-card h2,
+.research-card h3 {
+  margin-top: 0;
+}
+
+.research-card p:last-child {
+  margin-bottom: 0;
+}
+
+.research-kicker {
+  margin-bottom: 0.35rem;
+  color: $primary-color;
+  font-size: $type-size-7;
+  font-weight: bold;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.action-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin: 1.25rem 0 1.75rem;
+}
+
+.action-row .btn {
+  margin: 0;
+}
+
+.gamera-hero {
+  display: block;
+  width: 100%;
+  margin: 0 0 1.5rem;
+  border-radius: 0.35rem;
+}
+
+.gamera-grid {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 1rem auto;
+}
+
+@media (max-width: 640px) {
+  .research-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .page__content table,
+  .archive table {
+    display: block;
+    max-width: 100%;
+    overflow-x: auto;
+  }
+}

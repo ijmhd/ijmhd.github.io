@@ -38,9 +38,9 @@ To give you a quick, at-a-glance summary of my work:
 
 ### 👨‍🏫 For Prospective Students
 
-#### Prospective PhD/Masters Students
+#### Prospective postgraduate students
 
-- If you are a student with a broad interest in modeling space plasma environments and with a general love for applied math and science, feel free to contact me. There are plenty opportunities within my current projects/collaborations given the set of state-of-art tools I'm working on with my colleagues, and I'm always keen to get started on something new, difficult and exciting.
+- If you are a student with a broad interest in modelling space plasma environments and a strong interest in applied mathematics and science, feel free to contact me. There are many opportunities within my current projects and collaborations, supported by the state-of-the-art tools I am developing with colleagues, and I am always keen to explore new, difficult, and exciting problems.
 
 - **A quick note**: Please contact me **before** you apply to the HKU graduate school. My ability to recruit new students can vary from year to year, so let's chat first.
 
