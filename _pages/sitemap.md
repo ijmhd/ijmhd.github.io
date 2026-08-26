@@ -13,7 +13,7 @@ author_profile: true
 - [Research](/portfolio/)
 - [GAMERA-OP](/gamera-op/)
 - [Research Team](/team/)
-- [Curriculum Vitae](/cv/)
+- [Publications](/publications/)
 - [About and Contact](/aboutme/)
 
 ## Teaching

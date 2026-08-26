@@ -1,63 +1,18 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
-permalink: /cv/
+title: "Publications"
+permalink: /publications/
 author_profile: true
 redirect_from:
+  - /cv/
   - /resume
 ---
 
 {% include base_path %}
 
-## Binzheng Zhang
+Peer-reviewed papers and conference presentations are listed below. For citation metrics and the most current publication record, visit [Google Scholar](https://scholar.google.com/citations?hl=en&user=AC8jpboAAAAJ).
 
-**Office Address:**  
-303 James Lee Science Building  
-Department of Earth and Planetary Sciences  
-University of Hong Kong  
-Pokfulam Rd., Hong Kong S.A.R. China, 999077  
-
-**Work Phone:** +852 3917 8251
-
-**Work Email:** binzh@hku.hk
-
----
-
-## Academic Qualifications
-
-| Year | Degree | Field | Institution |
-|------|--------|-------|-------------|
-| 2005 | B.Sc. | Electrical Engineering | Zhejiang University (China) |
-| 2007 | M.Sc. | Electrical Engineering | Zhejiang University (China) |
-| 2012 | Ph.D. | Engineering Sciences | Dartmouth College (USA) |
-
-## Academic Appointments
-
-| Period | Position | Institution |
-|--------|----------|-------------|
-| 2023-Present | Associate Professor | University of Hong Kong (S.A.R. China) |
-| 2018-2023 | Assistant Professor | University of Hong Kong (S.A.R. China) |
-| 2016-2018 | Postdoctoral Fellow | National Center for Atmospheric Research (USA) |
-| 2012-2015 | Lecturer, Research Scientist | Dartmouth College (USA) |
-
-## Honorary Academic Appointments
-
-| Period | Position | Institution |
-|--------|----------|-------------|
-| 2019-Present | McQueen Fellow | National Center for Atmospheric Research (USA) |
-
-## Honours and Awards
-
-- Research Fellow, RGC, Hong Kong, 2025
-- Outstanding Young Researcher Award, HKU, 2023
-- Excellent Young Scientist Award, NSFC, 2019
-- Early Career Scheme Award, UGC Research Grants Council, 2018
-- Science and Technique Achievement Award, UCAR, 2016
-- NASA-Space Grant Award, 2011
-
-## Research and Scholarship
-
-### Journal Publications
+## Journal Publications
 
 1. **Yin, Q.**, Feng, E., **Zhang, B.**, Lotko, W., Pham, K. H., Zheng, Z., Yang, Z., Dang, T., Fu, H., & Brambles, O. (2026). Alfvénic Poynting flux characterized by a substorm-SMC cycle and ionospheric influence. *Space Weather*, 24(8), e2026SW005078.
 
@@ -282,7 +237,7 @@ Pokfulam Rd., Hong Kong S.A.R. China, 999077
 
 *[Additional publications available on Google Scholar: https://scholar.google.com/citations?hl=en&user=AC8jpboAAAAJ]*
 
-### Conference Presentations
+## Conference Presentations
 
 1. **Zhang, B.**, & Yao, Z. (2025). Unveiling Giant Magnetospheres: Research Advances in China and Prospectives for Future Missions. EGU General Assembly Conference Abstracts, EGU25-14477.
 
@@ -363,98 +318,6 @@ Pokfulam Rd., Hong Kong S.A.R. China, 999077
 39. **Zhang, B.**, Wiltberger, M. J., & Merkin, V. G. (2017). Global Geospace Modeling of Upper Thermospheric Dynamics during Storm Time. AGU Fall Meeting Abstracts, SM32B-02.
 
 *[Additional invited lectures available upon request]*
-*[Full publication list can be found on Google: https://scholar.google.com/citations?hl=en&user=AC8jpboAAAAJ]*
-
-### Scholarly Books, Monographs and Chapters
-
-1. **Zhang, B.** and Brambles, O.J. (2021). Polar Cap O+ Ion Outflow and Its Impact on Magnetospheric Dynamics. In *Ionosphere Dynamics and Applications* (eds C. Huang, G. Lu, Y. Zhang and L.J. Paxton). https://doi.org/10.1002/9781119815617.ch5
-
-### Editorship and Editorial Board Membership
-
-**Editor**, *AGU Advances*, 2022-present
-
-
-## Research Grants and Agreements
-
-### Current External Grants and Agreements
-
-| Project Title | Funding Scheme / Agency | Amount | Role | Award Year / Status |
-|--------------|-------------------------|--------|------|---------------------|
-| Multi-scale Modeling and Forecasting of Planetary Space Environment | RGC Research Fellow Scheme (RFS) 2025/26 | HK$ 5,465,160 | PI | 2025 / On-going |
-| Scientific Research on Jupiter's Space Environment and Exploration Principles (#1) | Collaboration Agreement with Peking University | HK$ 1,237,350 | PI | 2025 / 31-DEC-2025 to 30-NOV-2030 |
-| Interchange instability in the Jovian inner magnetosphere: the effects of pressure anisotropy and hot plasma populations | General Research Fund (GRF) 2025/26 | HK$ 890,587 | PI | 2025 / On-going |
-| Responses of Jupiter's rotation-driven magnetic reconnection to upstream solar wind (2026A1515011076) | Guangdong Natural Science Fund, General Programme 2025 | HK$ 115,300 | Co-I | 2025 / On-going |
-| Controlling Factors of Jupiter's Deep Magnetotail: External and Internal Influences | General Research Fund (GRF) 2024/25 | HK$ 910,742 | PI | 2024 / On-going |
-| Joint Laboratory of Chemical Geodynamics, Guangzhou Institute of Geochemistry (CAS) and Department of Earth and Planetary Sciences (HKU) | RGC Co-funding Mechanism on Joint Laboratories with CAS | HK$ 1,875,000 | Co-I | 2024 / On-going |
-| 木星磁层顶磁重联研究 (42374216) | General Program, National Natural Science Foundation of China (NSFC) | RMB 530,000 | PI | 2024 / On-going |
-| Factors control global morphology of planetary auroral emissions | General Research Fund (GRF) 2023/24 | HK$ 877,079 | PI | 2023 / On-going |
-
-### Current Internal Research Grants
-
-| Project Title | Funding Scheme | Amount | Role | Award Year / Status |
-|--------------|----------------|--------|------|---------------------|
-| Ionospheric Equatorial Spread F in Hong Kong: Observation and Simulations | Seed Fund for PI Research - Basic Research 2025/26 | HK$ 120,000 | PI | 2026 / On-going |
-| Global MHD modeling of the Uranus magnetosphere | Seed Fund for PI Research - Basic Research 2024/25 | HK$ 110,760 | PI | 2025 / On-going |
-| Global Magnetohydrodynamics with Three-dimensional Drift Kinetics | Seed Fund for PI Research - Basic Research 2023/24 | HK$ 108,546 | PI | 2024 / On-going |
-| Outstanding Young Researcher Award 2021/22 | University of Hong Kong | HK$ 300,000 | PI | 2023 / On-going |
-
-### Completed External Grants
-
-| Project Title | Funding Scheme / Agency | Amount | Role | Award Year |
-|--------------|-------------------------|--------|------|------------|
-| Magnetospheric origin of Jovian aurora: dawn storms and polar emissions | General Research Fund (GRF) 2022/23 | HK$ 783,000 | PI | 2022 |
-| Ionospheric Control and Low-Altitude Signatures of Magnetopause Activity | General Research Fund (GRF) | HK$ 598,015 | PI | 2021 |
-| Effects of non-thermal plasma populations in the global configuration of the Jovian magnetosphere | General Research Fund (GRF) | HK$ 899,792 | PI | 2020 |
-| Space Physics | NSFC Excellent Young Scientists Fund (Hong Kong and Macau) | HK$ 1,628,000 | PI | 2020 |
-| Impact of Terrestrial-Sourced Plasma on the Dayside Solar Wind-Magnetosphere-Ionosphere interaction | General Research Fund (GRF) | HK$ 502,444 | PI | 2019 |
-| Effects of Meso-Scale Ionosphere-Thermosphere Dynamics on Topside O+ Ion Upflow and Outflow | Early Career Scheme (ECS) | HK$ 198,523 | PI | 2018 |
-
-## Teaching and Student Supervision
-
-### Courses Taught
-
-| Course Code | Course Title | Course Offered | Semester |
-|-------------|--------------|----------------|------------------|
-| EASC3420* | Machine Learning for Earth and Planetary Sciences | 2025 to present | Sem 1 |
-| EASC2404* | Introduction to the Atmosphere and Hydrosphere | 2019 to present | Sem 1 |
-| EASC2410* | Data Analysis and Modeling for Earth Sciences | 2019 to present | Sem 2 |
-| EASC3408* | Geophysics | 2018 to 2023 | Sem 2 |
-| SPSC7002* | Introduction to Space Weather | 2022-2023 | Sem 1 |
-
-*Served as course coordinator
-
-
-### Postgraduate Supervision
-
-| Name | Bachelor's | Program | Field of Study | Status | Start Year |
-|------|---------------|---------|----------------|--------|------------|
-| Cai Jinshu | USTC | Ph.D. | Space and Planetary Physics | Continuing | 2024 |
-| Tian Jiaxing | USTC | Ph.D. | Planetary Science | Continuing | 2024 |
-| Wang Zhengyang | New Brunswick | Ph.D. | Magnetohydrodynamics | Continuing | 2022 |
-| Fung Josh | HKU | MRes | Physics | Continuing | 2026 |
-| Luo Hongyang | UCSB | Ph.D. | Space and Planetary Physics | Graduated (2026) | 2022 |
-| Zheng Zhiqi | ZJU | Ph.D. | Space Physics | Graduated (2024) | 2020 |
-| Feng Enhao | SYSU | Ph.D. | Astronomy and Astrophysics | Graduated (2023) | 2019 |
-| Yin Qianfeng | UCAS | Ph.D. | Computational MHD | Graduated (2023) | 2019 |
-| Xing Zexi* | NJU | Ph.D. | Astronomy | Graduated (2023) | 2018 |
-
-*Ph.D. students of a former Science faculty members who left HKU before their graduation
-
-
-## Knowledge Exchange
-
-- Participated in Summer School on planetary science for high-school and first-year undergraduate students at Sun Yat-Sen University (2022)
-- Advised student team on numerical simulation of auroral electrons
-- Developed mini course on planetary aurorae and underlying physics
-
-## Services/Administration
-
-- Chief Examiner (three years)
-- Acting Associate Head (Teaching and Learning) (one year)
-- Led the consolidation of the Geology and Earth System Science (ESS) majors into the new Earth and Planetary Sciences (EPS) major, including academic coordination and preparation of the programme proposal and supporting paperwork for formal submission
-- Department outreach committee, in charge of department website (2018-2021)
-- DRPC committee member, participated in RPG student admission (2021-2022)
-- Department research committee (2023-present)
 
 ---
 

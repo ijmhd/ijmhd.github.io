@@ -49,7 +49,7 @@ My group develops high-order numerical methods and high-performance simulation t
 - A unified framework for global auroral morphologies of different planets, published in *Nature Astronomy* (2024).
 
 <div class="action-row">
-  <a class="btn btn--primary" href="/cv/#journal-publications">Full publication list</a>
+  <a class="btn btn--primary" href="/publications/#journal-publications">Full publication list</a>
   <a class="btn" href="https://scholar.google.com/citations?hl=en&user=AC8jpboAAAAJ">Google Scholar</a>
   <a class="btn" href="/team/">Research team</a>
 </div>
