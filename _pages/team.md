@@ -18,11 +18,11 @@ Our group develops numerical methods and high-performance simulation tools for p
       <dl class="team-card__details">
         <div>
           <dt>Academic background</dt>
-          <dd>Ph.D., Dartmouth College; M.Sc. and B.Sc., Zhejiang University</dd>
+          <dd>Ph.D. in Engineering Sciences, Dartmouth College; B.Sc. in Electrical Engineering, Zhejiang University</dd>
         </div>
         <div>
           <dt>Research interests</dt>
-          <dd>Planetary magnetospheres and space weather</dd>
+          <dd>Planetary magnetospheres and space weather; computational plasma physics</dd>
         </div>
       </dl>
     </div>
@@ -138,7 +138,7 @@ Our group develops numerical methods and high-performance simulation tools for p
         </div>
         <div>
           <dt>Research projects</dt>
-          <dd>Numerical magnetohydrodynamics (MHD)</dd>
+          <dd>High-performance kinetic schemes; physics-informed neural networks (PINNs)</dd>
         </div>
       </dl>
     </div>
