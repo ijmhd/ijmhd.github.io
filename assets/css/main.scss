@@ -351,6 +351,14 @@
   color: $primary-color;
 }
 
+.team-card__actions {
+  margin: 1rem 0 0;
+}
+
+.team-card__actions .btn {
+  margin: 0;
+}
+
 .alumni-list {
   display: grid;
   gap: 0.85rem;

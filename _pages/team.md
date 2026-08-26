@@ -17,6 +17,9 @@ Our group develops numerical methods and high-performance simulation tools for p
       <h3>Binzheng Zhang</h3>
       <p class="team-card__background"><strong>B.Sc. ZJU; Ph.D. Dartmouth</strong></p>
       <p class="team-card__focus"><strong>Research Interest:</strong> Planetary magnetospheres and space weather; computational plasma physics</p>
+      <p class="team-card__actions">
+        <a class="btn btn--primary" href="/files/Binzheng_Zhang_CV_August_2026.pdf" download aria-label="Download Binzheng Zhang's full CV as a PDF">Download Full CV</a>
+      </p>
     </div>
   </article>
 
