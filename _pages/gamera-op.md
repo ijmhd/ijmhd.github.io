@@ -11,8 +11,6 @@ redirect_from:
   - /talkmap.html
 ---
 
-<img class="gamera-hero" src="/images/gamera.png" alt="GAMERA code mascot over a curvilinear computational grid">
-
 GAMERA-OP (Orthogonal-Plus) is a three-dimensional finite-volume magnetohydrodynamics solver for orthogonal curvilinear geometries. Rewritten in C with a modular design, it provides a practical framework for planetary, space, and astrophysical plasma simulations that require high-order accuracy and robust treatment of curved coordinates.
 
 <div class="action-row">
