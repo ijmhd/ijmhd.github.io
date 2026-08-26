@@ -53,18 +53,60 @@ Our group develops numerical methods and high-performance simulation tools for p
 
 ### Other current postgraduate researchers
 
-| Name | Programme | Research area | Since |
-|------|-----------|---------------|-------|
-| Jinshu Cai | Ph.D. | Space and planetary physics | 2024 |
-| Hongyang Luo | Ph.D. | Space and planetary physics | 2022 |
-| Zhengyang Wang | Ph.D. | Magnetohydrodynamics | 2022 |
+| Name | Programme | Academic background | Since |
+|------|-----------|---------------------|-------|
+| Jinshu Cai | Ph.D. | B.Sc., USTC | 2024 |
+| Zhengyang Wang | Ph.D. | B.Sc., University of New Brunswick | 2022 |
+| Josh Fung | MRes | B.Sc. in Physics, HKU | 2026 |
 
 ## Alumni
 
-- Zhiqi Zheng — Space Physics
-- Enhao Feng — Astronomy and Astrophysics
-- Qianfeng Yin — Computational MHD
-- Zexi Xing — Astronomy
+<div class="alumni-list">
+  <article class="alumni-card">
+    <div class="alumni-card__header">
+      <h3>Hongyang Luo</h3>
+      <span>Ph.D., 2026</span>
+    </div>
+    <p><strong>Academic background:</strong> B.Sc. in Physics, University of California, Santa Barbara (UCSB)</p>
+    <p><strong>Thesis:</strong> <em>High-Resolution and High-Order Finite-Volume Methods for Astrophysical MHD Flows: Algorithms and Applications</em></p>
+  </article>
+
+  <article class="alumni-card">
+    <div class="alumni-card__header">
+      <h3>Zhiqi Zheng</h3>
+      <span>Ph.D., 2024</span>
+    </div>
+    <p><strong>Academic background:</strong> B.Sc. in Physics, Zhejiang University</p>
+    <p><strong>Thesis:</strong> <a href="https://www.earthsciences.hku.hk/news_and_events/events/497/"><em>Large and Mesoscale Fluctuations in the Magnetosphere of Giant Planet</em></a></p>
+  </article>
+
+  <article class="alumni-card">
+    <div class="alumni-card__header">
+      <h3>Enhao Feng</h3>
+      <span>Ph.D., 2023</span>
+    </div>
+    <p><strong>Academic background:</strong> B.Sc. in Mathematics, South China University of Technology; M.Sc. in Physics, Sun Yat-sen University</p>
+    <p><strong>Thesis:</strong> <a href="https://hub.hku.hk/handle/10722/336618"><em>Jovian Magnetospheric Responses to Internal and External Processes</em></a></p>
+  </article>
+
+  <article class="alumni-card">
+    <div class="alumni-card__header">
+      <h3>Qianfeng Yin</h3>
+      <span>Ph.D., 2023</span>
+    </div>
+    <p><strong>Academic background:</strong> B.Sc. in Geoengineering, Anhui University of Science and Technology; M.Sc. in Geoscience, University of Chinese Academy of Sciences (UCAS)</p>
+    <p><strong>Thesis:</strong> <a href="https://hub.hku.hk/handle/10722/336647"><em>Study on the Characteristics of Geospace Based on Global Simulation</em></a></p>
+  </article>
+
+  <article class="alumni-card">
+    <div class="alumni-card__header">
+      <h3>Zexi Xing</h3>
+      <span>Ph.D., 2023</span>
+    </div>
+    <p><strong>Academic background:</strong> B.Sc. in Astronomy, Nanjing University</p>
+    <p><strong>Thesis:</strong> <a href="https://hub.hku.hk/handle/10722/335063"><em>Understanding Cometary Volatiles and Asteroid Evolution with Ultraviolet Observations and New Techniques</em></a></p>
+  </article>
+</div>
 
 ## Join the team
 

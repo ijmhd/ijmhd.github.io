@@ -152,6 +152,42 @@
   margin: 0.15rem 0 0;
 }
 
+.alumni-list {
+  display: grid;
+  gap: 0.85rem;
+  margin: 1.25rem 0 2rem;
+}
+
+.alumni-card {
+  padding: 1rem 1.15rem;
+  border: 1px solid $light-gray;
+  border-radius: 0.4rem;
+  background: $background-color;
+}
+
+.alumni-card__header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 0.55rem;
+}
+
+.alumni-card__header h3 {
+  margin: 0;
+}
+
+.alumni-card__header span {
+  flex: 0 0 auto;
+  color: $primary-color;
+  font-size: $type-size-7;
+  font-weight: bold;
+}
+
+.alumni-card p {
+  margin: 0.3rem 0 0;
+}
+
 @media (max-width: 640px) {
   .research-grid,
   .team-grid {
@@ -163,5 +199,9 @@
     display: block;
     max-width: 100%;
     overflow-x: auto;
+  }
+
+  .alumni-card__header {
+    display: block;
   }
 }
