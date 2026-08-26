@@ -119,6 +119,19 @@
   object-position: center 44%;
 }
 
+.team-card__placeholder {
+  display: grid;
+  place-items: center;
+  background: linear-gradient(135deg, #eef1f3, #d9dee2);
+  color: $primary-color;
+}
+
+.team-card__placeholder span {
+  font-size: 2.25rem;
+  font-weight: bold;
+  letter-spacing: 0.08em;
+}
+
 .team-card__body {
   padding: 1.1rem 1.2rem 1.25rem;
 }

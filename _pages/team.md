@@ -27,6 +27,26 @@ Our group develops numerical methods and high-performance simulation tools for p
       </dl>
     </div>
   </article>
+
+  <article class="team-card">
+    <div class="team-card__photo team-card__placeholder" role="img" aria-label="Photo placeholder for Austin Smith">
+      <span>AS</span>
+    </div>
+    <div class="team-card__body">
+      <p class="team-card__role">Postdoctoral Researcher</p>
+      <h3>Austin Smith</h3>
+      <dl class="team-card__details">
+        <div>
+          <dt>Academic background</dt>
+          <dd>Ph.D. in Physics, University of Alaska Fairbanks; B.S. in Physics, Point Loma Nazarene University</dd>
+        </div>
+        <div>
+          <dt>Research interests</dt>
+          <dd>Jovian magnetosphere–ionosphere coupling; global MHD modeling; ionospheric electrodynamics</dd>
+        </div>
+      </dl>
+    </div>
+  </article>
 </div>
 
 ## Current postgraduate researchers
