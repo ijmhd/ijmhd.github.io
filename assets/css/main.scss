@@ -78,6 +78,95 @@
   text-transform: uppercase;
 }
 
+.research-topic-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.35rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.research-topic-card {
+  overflow: hidden;
+  border: 1px solid $light-gray;
+  border-radius: 0.5rem;
+  background: $background-color;
+  box-shadow: 0 0.2rem 0.75rem rgba(0, 0, 0, 0.08);
+}
+
+.research-topic-card--wide {
+  grid-column: 1 / -1;
+}
+
+.research-topic-card__figure {
+  display: grid;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  place-content: center;
+  padding: 1rem;
+  text-align: center;
+}
+
+.research-topic-card--wide .research-topic-card__figure {
+  aspect-ratio: 24 / 7;
+}
+
+.research-topic-card__placeholder {
+  background:
+    radial-gradient(circle at 22% 25%, rgba($primary-color, 0.18), transparent 28%),
+    linear-gradient(135deg, #eef1f3, #d9dee2);
+  color: $primary-color;
+}
+
+.research-topic-card__placeholder span {
+  font-size: $type-size-4;
+  font-weight: bold;
+  letter-spacing: 0.04em;
+}
+
+.research-topic-card__placeholder small {
+  display: block;
+  margin-top: 0.25rem;
+  color: mix(#000, $primary-color, 22%);
+  font-size: $type-size-7;
+  font-weight: bold;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.research-topic-card__body {
+  padding: 1.2rem 1.3rem 1.35rem;
+}
+
+.research-topic-card__body h2 {
+  margin: 0 0 0.75rem;
+}
+
+.research-topic-card__body h3 {
+  margin: 1.1rem 0 0.45rem;
+  font-size: $type-size-5;
+}
+
+.research-focus-list,
+.research-publication-list {
+  margin: 0.45rem 0 0;
+  padding-left: 1.15rem;
+}
+
+.research-focus-list li,
+.research-publication-list li {
+  margin-bottom: 0.45rem;
+}
+
+.research-publication-list {
+  font-size: 0.88em;
+  line-height: 1.5;
+}
+
+.research-topic-card__link {
+  margin: 1rem 0 0;
+  font-weight: bold;
+}
+
 .action-row {
   display: flex;
   flex-wrap: wrap;
@@ -203,8 +292,17 @@
 
 @media (max-width: 640px) {
   .research-grid,
+  .research-topic-grid,
   .team-grid {
     grid-template-columns: 1fr;
+  }
+
+  .research-topic-card--wide {
+    grid-column: auto;
+  }
+
+  .research-topic-card--wide .research-topic-card__figure {
+    aspect-ratio: 16 / 9;
   }
 
   .page__content table,
