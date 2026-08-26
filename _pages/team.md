@@ -182,6 +182,7 @@ Our group develops numerical methods and high-performance simulation tools for p
       <span>MRes, 2026</span>
     </div>
     <p><strong>Academic background:</strong> B.Sc. in Physics, HKU</p>
+    <p><strong>Thesis:</strong> <em>Modeling the Azimuthal Drift and Pitch-Angle Diffusion in Jupiter’s Radiation Belts</em></p>
   </article>
 
   <article class="alumni-card">
