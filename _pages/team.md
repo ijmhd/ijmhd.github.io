@@ -133,6 +133,46 @@ Our group develops numerical methods and high-performance simulation tools for p
       </dl>
     </div>
   </article>
+
+  <article class="team-card">
+    <div class="team-card__photo team-card__placeholder" role="img" aria-label="Photo placeholder for Yuancheng Xu">
+      <span>YX</span>
+    </div>
+    <div class="team-card__body">
+      <p class="team-card__role">Ph.D. Student · Since 2026</p>
+      <h3>Yuancheng Xu</h3>
+      <dl class="team-card__details">
+        <div>
+          <dt>Academic background</dt>
+          <dd>B.Sc. and M.Phil. in Physics, University of Oxford</dd>
+        </div>
+        <div>
+          <dt>Research projects</dt>
+          <dd>Computational plasma dynamics; drift-kinetic MHD</dd>
+        </div>
+      </dl>
+    </div>
+  </article>
+
+  <article class="team-card">
+    <div class="team-card__photo team-card__placeholder" role="img" aria-label="Photo placeholder for Chenghao Xiao">
+      <span>CX</span>
+    </div>
+    <div class="team-card__body">
+      <p class="team-card__role">Ph.D. Student · Since 2026</p>
+      <h3>Chenghao Xiao</h3>
+      <dl class="team-card__details">
+        <div>
+          <dt>Academic background</dt>
+          <dd>B.Sc. and M.Phil. in Geophysics, Imperial College London</dd>
+        </div>
+        <div>
+          <dt>Research projects</dt>
+          <dd>Numerical modeling</dd>
+        </div>
+      </dl>
+    </div>
+  </article>
 </div>
 
 ## Alumni
