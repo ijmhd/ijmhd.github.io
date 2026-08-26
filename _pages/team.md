@@ -7,6 +7,28 @@ author_profile: true
 
 Our group develops numerical methods and high-performance simulation tools for planetary and geospace plasma environments. Current projects span planetary magnetospheres, magnetosphere-ionosphere coupling, space weather, and advanced magnetohydrodynamics (MHD) algorithms.
 
+## Research faculty and postdoctoral researchers
+
+<div class="team-grid">
+  <article class="team-card">
+    <img class="team-card__photo" src="/images/team/junjie-chen.jpg" alt="Junjie Chen">
+    <div class="team-card__body">
+      <p class="team-card__role">Research Assistant Professor</p>
+      <h3>Junjie Chen</h3>
+      <dl class="team-card__details">
+        <div>
+          <dt>Academic background</dt>
+          <dd>Ph.D. in Space Physics, USTC; B.Sc. in Geophysics</dd>
+        </div>
+        <div>
+          <dt>Research interests</dt>
+          <dd>Planetary magnetospheres and ionospheres; magnetosphere–ionosphere coupling; magnetic reconnection and auroral dynamics</dd>
+        </div>
+      </dl>
+    </div>
+  </article>
+</div>
+
 ## Current postgraduate researchers
 
 <div class="team-grid">
