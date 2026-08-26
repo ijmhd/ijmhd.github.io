@@ -11,6 +11,24 @@ Our group develops numerical methods and high-performance simulation tools for p
 
 <div class="team-grid">
   <article class="team-card">
+    <img class="team-card__photo" src="/images/team/binzheng-zhang.jpg" alt="Binzheng Zhang">
+    <div class="team-card__body">
+      <p class="team-card__role">Associate Professor · Principal Investigator</p>
+      <h3>Binzheng Zhang</h3>
+      <dl class="team-card__details">
+        <div>
+          <dt>Academic background</dt>
+          <dd>Ph.D. in Engineering Sciences, Dartmouth College; M.Sc. and B.Sc. in Electrical Engineering, Zhejiang University</dd>
+        </div>
+        <div>
+          <dt>Research interests</dt>
+          <dd>Planetary magnetospheres and space weather; magnetosphere–ionosphere coupling and auroral physics; high-order numerical MHD and high-performance computing</dd>
+        </div>
+      </dl>
+    </div>
+  </article>
+
+  <article class="team-card">
     <img class="team-card__photo" src="/images/team/junjie-chen.jpg" alt="Junjie Chen">
     <div class="team-card__body">
       <p class="team-card__role">Research Assistant Professor</p>
