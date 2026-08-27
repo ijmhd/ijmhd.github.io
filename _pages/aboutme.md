@@ -1,60 +1,112 @@
 ---
 layout: archive
-title: "About me"
+title: "Contact"
 permalink: /aboutme/
+description: "Contact Binzheng Zhang for research collaborations, student projects, and enquiries about computational space and planetary plasma physics."
 ---
 
-I'm a space physicist (fun fact: I don't actually have a physics degree!) and currently a faculty member in the Department of Earth and Planetary Sciences at the University of Hong Kong. I feel incredibly lucky to make a living by exploring what I'm genuinely curious about. I study Magnetohydrodynamics (MHD) because I'm drawn to its elegant way of describing the universe. It just feels like a fundamental language of how things work. Having grown up in Hangzhou and spent many years in New Hampshire and Colorado, I've come to see life as an epic adventure. Science and Research are just fantastic "chapters" of that adventure, but they're not the whole story.
+<div class="contact-page">
+  <section class="contact-intro" aria-labelledby="contact-intro-title">
+    <p class="contact-kicker">Work with us</p>
+    <h2 id="contact-intro-title">Let’s explore a difficult problem.</h2>
+    <p>For research collaborations, prospective student enquiries, invited talks, or questions about our work, email is the best way to reach me.</p>
+    <a class="contact-email-link" href="mailto:binzh@hku.hk">binzh@hku.hk <span aria-hidden="true">→</span></a>
+  </section>
 
-So, when I'm not tangled in code, wrestling with manuscripts, or debating with reviewers, you can find me recharging through a ton of other things. I spend a lot of time with my family, play both Western and traditional music instruments, practice Chinese calligraphy and painting, and enjoy all kinds of indoor and outdoor sports. And of course, I have a deep appreciation for a good beer or whiskey 🥃.
+  <div class="contact-layout">
+    <section class="contact-panel contact-panel--form" aria-labelledby="contact-form-title">
+      <p class="contact-kicker">Send a message</p>
+      <h2 id="contact-form-title">Start a conversation</h2>
+      <p class="contact-panel__intro">Tell me briefly what you would like to discuss. Submitting this form opens a prepared message in your email app.</p>
 
----
+      <form id="contact-form" class="contact-form" aria-describedby="contact-privacy">
+        <div class="contact-form__row">
+          <div class="contact-field">
+            <label for="contact-name">Name</label>
+            <input id="contact-name" name="name" type="text" autocomplete="name" required>
+          </div>
+          <div class="contact-field">
+            <label for="contact-email">Your email</label>
+            <input id="contact-email" name="email" type="email" autocomplete="email" required>
+          </div>
+        </div>
 
-### 📬 How to Reach Me
+        <div class="contact-field">
+          <label for="contact-topic">Topic</label>
+          <select id="contact-topic" name="topic" required>
+            <option value="" selected disabled>Select a topic</option>
+            <option>Research collaboration</option>
+            <option>Prospective postgraduate student</option>
+            <option>Undergraduate research project</option>
+            <option>Talk or academic visit</option>
+            <option>Other enquiry</option>
+          </select>
+        </div>
 
-The best way to get in touch is via email: [binzh@hku.hk](mailto:binzh@hku.hk).
+        <div class="contact-field">
+          <label for="contact-message">Message</label>
+          <textarea id="contact-message" name="message" rows="7" placeholder="A short introduction and what you would like to discuss…" required></textarea>
+        </div>
 
-*   **Office Location:**  
+        <div class="contact-form__footer">
+          <button class="contact-submit" type="submit">Prepare email</button>
+          <p id="contact-privacy">Nothing entered here is stored on this website.</p>
+        </div>
+      </form>
+      <noscript><p>Please email <a href="mailto:binzh@hku.hk">binzh@hku.hk</a> directly.</p></noscript>
+    </section>
 
-    Room 303, James Lee Science Building, Main Campus,  
-    Department of Earth and Planetary Sciences,  
-    The University of Hong Kong, Pokfulam Road,  
-    Pokfulam, Hong Kong S.A.R. (China)  
+    <aside class="contact-sidebar" aria-label="Contact details">
+      <section class="contact-panel">
+        <p class="contact-kicker">Visit</p>
+        <h2>Office</h2>
+        <address>
+          Room 303, James Lee Science Building<br>
+          The University of Hong Kong<br>
+          Pokfulam, Hong Kong
+        </address>
+        <a class="contact-text-link" href="https://www.earthsciences.hku.hk/people/academic_staff/63/">Department profile <span aria-hidden="true">→</span></a>
+      </section>
 
-*   **For prospective students:** Please read the section below first!
+      <section class="contact-panel contact-panel--accent">
+        <p class="contact-kicker">Join the group</p>
+        <h2>Students with curiosity are welcome.</h2>
+        <p>Prospective postgraduate students interested in space plasma modelling, applied mathematics, and scientific computing should contact me <strong>before applying</strong> to HKU.</p>
+        <p>Current HKU undergraduates are also welcome to ask about research projects.</p>
+        <a class="contact-text-link" href="/team/">Meet the group <span aria-hidden="true">→</span></a>
+      </section>
+    </aside>
+  </div>
 
----
+  <section class="contact-personal" aria-labelledby="contact-personal-title">
+    <div>
+      <p class="contact-kicker">Beyond research</p>
+      <h2 id="contact-personal-title">Science is one chapter of the adventure.</h2>
+    </div>
+    <p>I am a space physicist without a physics degree—a physicist, engineer, teacher, and geek. Away from simulations and manuscripts, I enjoy family time, Western and traditional music, Chinese calligraphy and painting, indoor and outdoor sports, and a good beer or whisky.</p>
+    <blockquote>
+      <p>Have a sense of humor. Don’t take yourself too seriously. Remember that academia is a place where the animals take over the zoo.</p>
+      <cite>— Advice from my Ph.D. advisor, Bill Lotko</cite>
+    </blockquote>
+  </section>
+</div>
 
-### 🔬 My Research in a Nutshell
+<script>
+(function () {
+  var form = document.getElementById('contact-form');
+  if (!form) return;
 
-To give you a quick, at-a-glance summary of my work:
+  form.addEventListener('submit', function (event) {
+    event.preventDefault();
+    var data = new FormData(form);
+    var name = data.get('name');
+    var email = data.get('email');
+    var topic = data.get('topic');
+    var message = data.get('message');
+    var subject = '[Website enquiry] ' + topic + ' — ' + name;
+    var body = 'Name: ' + name + '\nEmail: ' + email + '\nTopic: ' + topic + '\n\n' + message;
 
-*   **Field:** Space Physics, Theoretical and Computational Space Plasma Physics
-*   **Core Expertise:** Magnetohydrodynamics (MHD), Modeling of Planetary Space Environments
-*   **Tools of the Trade:** High-performance computing, numerical modeling, and state-of-the-art simulation tools developed with my collaborators.
-*   **My "Why":** I'm driven by a fundamental curiosity about how the universe operates, using MHD as a powerful language to decode its complexities.
-
----
-
-### 👨‍🏫 For Prospective Students
-
-#### Prospective postgraduate students
-
-- If you are a student with a broad interest in modelling space plasma environments and a strong interest in applied mathematics and science, feel free to contact me. There are many opportunities within my current projects and collaborations, supported by the state-of-the-art tools I am developing with colleagues, and I am always keen to explore new, difficult, and exciting problems.
-
-- **A quick note**: Please contact me **before** you apply to the HKU graduate school. My ability to recruit new students can vary from year to year, so let's chat first.
-
-#### Prospective Undergraduate Students
-I often have projects suitable for motivated undergraduate students looking for research experience. If you're a current HKU student, get in touch to discuss potential opportunities.
-
----
-
-### 📜 My Life & Research Philosophy
-
-When I graduated with my PhD, my advisor Bill Lotko gave me three pieces of wisdom I still carry with me every day:
-
-*   Have a sense of humor.
-*   Don't take yourself too seriously.
-*   Remember, academia is a place where the animals take over the zoo.
-
----
+    window.location.href = 'mailto:binzh@hku.hk?subject=' + encodeURIComponent(subject) + '&body=' + encodeURIComponent(body);
+  });
+}());
+</script>
