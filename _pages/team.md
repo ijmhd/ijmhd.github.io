@@ -66,7 +66,7 @@ Our group develops numerical methods and high-performance simulation tools for p
     <div class="team-card__body">
       <p class="team-card__role">Ph.D. Student</p>
       <h3>Jiaxing Tian</h3>
-      <p class="team-card__background"><strong>B.Sc. USTC</strong></p>
+      <p class="team-card__background"><strong>B.Sc. USTC (Nuclear Physics)</strong></p>
       <p class="team-card__focus"><strong>Research Interest:</strong> Global Jovian magnetosphere; numerical magnetohydrodynamics (MHD)</p>
     </div>
   </article>
@@ -76,7 +76,7 @@ Our group develops numerical methods and high-performance simulation tools for p
     <div class="team-card__body">
       <p class="team-card__role">Ph.D. Student</p>
       <h3>Jinshu Cai</h3>
-      <p class="team-card__background"><strong>B.Sc. USTC</strong></p>
+      <p class="team-card__background"><strong>B.Sc. USTC (Space Physics)</strong></p>
       <p class="team-card__focus"><strong>Research Interest:</strong> Venusian space environment; global magnetohydrodynamic (MHD) simulations</p>
     </div>
   </article>
@@ -86,7 +86,7 @@ Our group develops numerical methods and high-performance simulation tools for p
     <div class="team-card__body">
       <p class="team-card__role">Ph.D. Student</p>
       <h3>Zhengyang Wang</h3>
-      <p class="team-card__background"><strong>B.Sc. UNB</strong></p>
+      <p class="team-card__background"><strong>B.Sc. UNB (Mathematics)</strong></p>
       <p class="team-card__focus"><strong>Research Interest:</strong> High-performance kinetic schemes; physics-informed neural networks (PINNs)</p>
     </div>
   </article>
@@ -98,19 +98,19 @@ Our group develops numerical methods and high-performance simulation tools for p
     <div class="team-card__body">
       <p class="team-card__role">Ph.D. Student · Since 2026</p>
       <h3>Yuancheng Xu</h3>
-      <p class="team-card__background"><strong>B.Sc. Oxford; M.Phil. Oxford</strong></p>
+      <p class="team-card__background"><strong>B.Sc. Oxford (Physics); M.Phil. Oxford</strong></p>
       <p class="team-card__focus"><strong>Research Interest:</strong> Computational plasma dynamics; drift-kinetic MHD</p>
     </div>
   </article>
 
   <article class="team-card">
-    <div class="team-card__photo team-card__placeholder" role="img" aria-label="Photo placeholder for Chenghao Xiao">
+    <div class="team-card__photo team-card__placeholder" role="img" aria-label="Photo placeholder for Chenghan Xiao">
       <span>CX</span>
     </div>
     <div class="team-card__body">
       <p class="team-card__role">Ph.D. Student · Since 2026</p>
-      <h3>Chenghao Xiao</h3>
-      <p class="team-card__background"><strong>B.Sc. Imperial; M.Phil. Imperial</strong></p>
+      <h3>Chenghan Xiao</h3>
+      <p class="team-card__background"><strong>B.Sc. Imperial (Geophysics); M.Phil. Imperial</strong></p>
       <p class="team-card__focus"><strong>Research Interest:</strong> Numerical modeling</p>
     </div>
   </article>
