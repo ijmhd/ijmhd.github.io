@@ -108,6 +108,13 @@
   text-align: center;
 }
 
+img.research-topic-card__figure {
+  display: block;
+  padding: 0;
+  background: #fff;
+  object-fit: contain;
+}
+
 .research-topic-card--wide .research-topic-card__figure {
   aspect-ratio: 24 / 7;
 }

@@ -15,10 +15,7 @@ My group combines global simulations, theory, and spacecraft observations to und
 
 <div class="research-topic-grid">
   <article class="research-topic-card">
-    <div class="research-topic-card__figure research-topic-card__placeholder" role="img" aria-label="Placeholder for a paper figure about giant-planet magnetospheres">
-      <span>Paper figure</span>
-      <small>Jupiter · Saturn · Ganymede</small>
-    </div>
+    <img class="research-topic-card__figure" src="/images/research/magnetospheres-aurorae.jpg" alt="Global Jovian magnetosphere simulation comparing instantaneous dynamics with average behavior" loading="lazy">
     <div class="research-topic-card__body">
       <p class="research-kicker">Giant planets and moons</p>
       <h2>Magnetospheres and aurorae</h2>
