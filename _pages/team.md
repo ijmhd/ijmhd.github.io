@@ -92,9 +92,7 @@ Our group develops numerical methods and high-performance simulation tools for p
   </article>
 
   <article class="team-card">
-    <div class="team-card__photo team-card__placeholder" role="img" aria-label="Photo placeholder for Yuancheng Xu">
-      <span>YX</span>
-    </div>
+    <img class="team-card__photo" src="/images/team/yuancheng-xu.jpg" alt="Yuancheng Xu">
     <div class="team-card__body">
       <p class="team-card__role">Ph.D. Student · Since 2026</p>
       <h3>Yuancheng Xu</h3>
