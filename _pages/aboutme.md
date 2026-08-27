@@ -10,7 +10,7 @@ description: "Contact Binzheng Zhang for research collaborations, student projec
     <p class="contact-kicker">Work with us</p>
     <h2 id="contact-intro-title">Let’s explore a difficult problem.</h2>
     <p>For research collaborations, prospective student enquiries, invited talks, or questions about our work, email is the best way to reach me.</p>
-    <a class="contact-email-link" href="mailto:binzh@hku.hk">binzh@hku.hk <span aria-hidden="true">→</span></a>
+    <a class="contact-email-link" href="mailto:binzh@hku.hk">binzh[at]hku.hk <span aria-hidden="true">→</span></a>
   </section>
 
   <div class="contact-layout">
@@ -53,7 +53,7 @@ description: "Contact Binzheng Zhang for research collaborations, student projec
           <p id="contact-privacy">Nothing entered here is stored on this website.</p>
         </div>
       </form>
-      <noscript><p>Please email <a href="mailto:binzh@hku.hk">binzh@hku.hk</a> directly.</p></noscript>
+      <noscript><p>Please email <a href="mailto:binzh@hku.hk">binzh[at]hku.hk</a> directly.</p></noscript>
     </section>
 
     <aside class="contact-sidebar" aria-label="Contact details">
