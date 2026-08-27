@@ -42,7 +42,7 @@ My group combines global simulations, theory, and spacecraft observations to und
     </div>
     <div class="research-topic-card__body">
       <p class="research-kicker">Comparative planetary plasma</p>
-      <h2>Solar-wind interaction with Venus and Mars</h2>
+      <h2>Unmagnetized Planets</h2>
       <p class="research-topic-card__description">We model how the solar wind interacts directly with the ionospheres and induced magnetospheres of Venus and Mars, including extreme space-weather forcing and atmospheric escape.</p>
       <p class="research-topic-card__question"><strong>Key question:</strong> How do shocks, reconnection, and boundary instabilities reorganize plasma transport around unmagnetized planets?</p>
       <details class="research-topic-card__papers">
