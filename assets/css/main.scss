@@ -86,6 +86,8 @@
 }
 
 .research-topic-card {
+  display: flex;
+  flex-direction: column;
   overflow: hidden;
   border: 1px solid $light-gray;
   border-radius: 0.5rem;
@@ -134,6 +136,9 @@
 }
 
 .research-topic-card__body {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
   padding: 1.2rem 1.3rem 1.35rem;
 }
 
@@ -141,30 +146,85 @@
   margin: 0 0 0.75rem;
 }
 
-.research-topic-card__body h3 {
-  margin: 1.1rem 0 0.45rem;
-  font-size: $type-size-5;
+.research-topic-card__description {
+  margin-bottom: 0.85rem;
 }
 
-.research-focus-list,
-.research-publication-list {
-  margin: 0.45rem 0 0;
-  padding-left: 1.15rem;
-}
-
-.research-focus-list li,
-.research-publication-list li {
-  margin-bottom: 0.45rem;
-}
-
-.research-publication-list {
-  font-size: 0.88em;
+.research-topic-card__question {
+  margin: 0 0 1rem;
+  padding-left: 0.8rem;
+  border-left: 0.2rem solid mix(#fff, $primary-color, 55%);
+  color: mix(#000, $primary-color, 36%);
+  font-size: 0.92em;
   line-height: 1.5;
 }
 
-.research-topic-card__link {
-  margin: 1rem 0 0;
+.research-topic-card__papers {
+  margin-top: auto;
+  padding-top: 0.2rem;
+}
+
+.research-topic-card__papers summary {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  color: $primary-color;
+  cursor: pointer;
   font-weight: bold;
+  list-style: none;
+}
+
+.research-topic-card__papers summary::-webkit-details-marker {
+  display: none;
+}
+
+.research-topic-card__papers summary::after {
+  content: "+";
+  display: inline-grid;
+  width: 1.25rem;
+  height: 1.25rem;
+  place-items: center;
+  border: 1px solid currentColor;
+  border-radius: 50%;
+  font-size: 0.9em;
+  line-height: 1;
+}
+
+.research-topic-card__papers[open] summary::after {
+  content: "−";
+}
+
+.research-topic-card__papers summary:focus-visible {
+  outline: 2px solid $primary-color;
+  outline-offset: 0.25rem;
+}
+
+.research-topic-card__papers ul {
+  margin: 0.85rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.research-topic-card__papers li {
+  padding: 0.65rem 0;
+  border-top: 1px solid $light-gray;
+  line-height: 1.4;
+}
+
+.research-topic-card__papers li:first-child {
+  padding-top: 0;
+  border-top: 0;
+}
+
+.research-topic-card__papers a {
+  font-weight: bold;
+}
+
+.research-topic-card__papers small {
+  display: block;
+  margin-top: 0.15rem;
+  color: $primary-color;
+  font-size: $type-size-7;
 }
 
 .teaching-grid {
