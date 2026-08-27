@@ -21,7 +21,7 @@ My group combines global simulations, theory, and spacecraft observations to und
     </div>
     <div class="research-topic-card__body">
       <p class="research-kicker">Giant planets and moons</p>
-      <h2>Magnetospheres and aurorae</h2>
+      <h2>Giant Magnetospheres</h2>
       <p>We investigate rapidly rotating magnetospheres as coupled systems in which internal plasma sources, solar-wind forcing, magnetic topology, reconnection, and plasma transport jointly control global dynamics and auroral morphology.</p>
       <h3>Core questions</h3>
       <ul class="research-focus-list">
@@ -47,7 +47,7 @@ My group combines global simulations, theory, and spacecraft observations to und
     </div>
     <div class="research-topic-card__body">
       <p class="research-kicker">Comparative planetary plasma</p>
-      <h2>Solar-wind interaction with Venus and Mars</h2>
+      <h2>Unmagnetized Planets</h2>
       <p>For planets without strong intrinsic magnetic fields, we model how the solar wind couples directly to ionospheres and induced magnetospheres. The work connects boundary instabilities and magnetotail reconnection to atmospheric escape and extreme space-weather responses.</p>
       <h3>Core questions</h3>
       <ul class="research-focus-list">
