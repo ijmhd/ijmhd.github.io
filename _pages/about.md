@@ -1,26 +1,109 @@
 ---
+layout: homepage
 permalink: /
-title: "Welcome to my page!"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
+title: "Computational Space & Planetary Plasma Group"
+description: "The Binzheng Zhang Research Group at the University of Hong Kong studies planetary magnetospheres, space weather, and computational plasma physics."
+excerpt: "Planetary magnetospheres, space weather, and computational plasma physics at HKU."
+author_profile: false
+redirect_from:
   - /about/
   - /about.html
 ---
 
-<!--Hey there, welcome to my corner of the web!-->
+<section class="home-hero" aria-labelledby="home-title">
+  <div class="home-hero__content">
+    <p class="home-eyebrow">Binzheng Zhang Research Group · The University of Hong Kong</p>
+    <h1 id="home-title">Computational Space &amp; Planetary Plasma Group</h1>
+    <p class="home-hero__lead">We use high-performance simulations to study planetary magnetospheres, aurorae, space weather, and the plasma dynamics that connect planets to their space environments.</p>
+    <div class="home-actions" aria-label="Explore the research group">
+      <a class="home-button home-button--primary" href="/portfolio/">Explore research</a>
+      <a class="home-button" href="/team/">Meet the team</a>
+      <a class="home-button" href="/publications/">Publications</a>
+    </div>
+  </div>
+  <div class="home-hero__topics" aria-label="Core research areas">
+    <span>Planetary magnetospheres</span>
+    <span>Aurorae &amp; space weather</span>
+    <span>Computational plasma physics</span>
+  </div>
+</section>
 
-<!--img src="IMG_3591.png" alt="drawing" width="200" style="float: right"/-->
+<section class="home-section" aria-labelledby="home-research-title">
+  <header class="home-section__header">
+    <div>
+      <p class="home-section__kicker">Research</p>
+      <h2 id="home-research-title">What we study</h2>
+    </div>
+    <a class="home-text-link" href="/portfolio/">Explore all research <span aria-hidden="true">→</span></a>
+  </header>
 
-I'm a space physicist :beer::beer::beer:, which basically means I get to use supercomputers to build virtual solar systems. I create simulations to understand the forces, fields and particles that fill the space around planets (including our own!). This "space weather" can knock out satellites and disrupt communications, so my digital lab is on the front lines of predicting these cosmic storms to help protect our tech and future missions to other worlds (or exoplanets...).
+  <div class="home-focus-grid">
+    <article class="home-focus-card">
+      <p class="home-focus-card__number" aria-hidden="true">01</p>
+      <h3>Planetary magnetospheres &amp; aurorae</h3>
+      <p>How rotation, plasma transport, internal sources, and the solar wind shape giant planets, moons, and their aurorae.</p>
+    </article>
+    <article class="home-focus-card">
+      <p class="home-focus-card__number" aria-hidden="true">02</p>
+      <h3>Planetary space environments</h3>
+      <p>How shocks, reconnection, and boundary instabilities control plasma transport around Venus, Mars, and other worlds.</p>
+    </article>
+    <article class="home-focus-card">
+      <p class="home-focus-card__number" aria-hidden="true">03</p>
+      <h3>Computational plasma physics</h3>
+      <p>High-order, scalable numerical methods for global magnetohydrodynamic and kinetic plasma models.</p>
+    </article>
+  </div>
+</section>
 
-<!---img src="hex.png" alt="drawing" width="160" style="float: right"/--->
+<section class="home-section home-section--news" aria-labelledby="home-news-title">
+  <header class="home-section__header">
+    <div>
+      <p class="home-section__kicker">Updates</p>
+      <h2 id="home-news-title">Latest news</h2>
+    </div>
+  </header>
 
-My Cosmic Playground
-=====
-Our main project grew from a classic code called the Lyon-Fedder-Mobarry (LFM), a masterpiece developed by Professor John Lyon and collaborators at Dartmouth. Think of it as the engine for our digital universe. My team and I have been upgrading it into a general-purpose tool for simulating the flow of space plasma. Our current playground includes the Sun's atmosphere, the solar wind, and the magnetic environments of Venus, Earth, Jupiter, and Saturn. The dream is to keep adding new worlds—maybe Mars, the ice giants, or Krypton.
+  <div class="home-news-grid">
+    <article class="home-news-card">
+      <p class="home-news-card__meta">2026 · Publication</p>
+      <h3><a href="https://scholar.google.com/scholar?q=The+role+of+planetary+rotation+in+polar+cusp+localization">Planetary rotation controls polar cusp localization</a></h3>
+      <p>New global simulations reveal how rotation reorganizes cusp geometry across planetary magnetospheres.</p>
+    </article>
+    <article class="home-news-card">
+      <p class="home-news-card__meta">2026 · Publication</p>
+      <h3><a href="https://scholar.google.com/scholar?q=Asymmetrically+distributed+Kelvin-Helmholtz+instability+at+the+Venusian+magnetosphere">Kelvin–Helmholtz instability at Venus</a></h3>
+      <p>A global study examines the asymmetric development of boundary instability in the Venusian space environment.</p>
+    </article>
+    <article class="home-news-card">
+      <p class="home-news-card__meta">2026 · Team</p>
+      <h3><a href="/team/">Our research team has expanded</a></h3>
+      <p>Meet our faculty researchers, postdoctoral researchers, postgraduate students, and alumni.</p>
+    </article>
+  </div>
+</section>
 
-<!---![Alt Image Text](./gamera.png)--->
+<section class="home-feature" aria-labelledby="home-feature-title">
+  <div class="home-feature__content">
+    <p class="home-section__kicker">Featured platform</p>
+    <h2 id="home-feature-title">GAMERA-OP</h2>
+    <p>A three-dimensional, high-order finite-volume MHD solver for orthogonal curvilinear geometries, designed for planetary, space, and astrophysical plasma simulations.</p>
+    <div class="home-actions">
+      <a class="home-button home-button--dark" href="/gamera-op/">Explore GAMERA-OP</a>
+      <a class="home-text-link" href="https://doi.org/10.3847/1538-4365/ae7344">Read the paper <span aria-hidden="true">→</span></a>
+    </div>
+  </div>
+  <img class="home-feature__image" src="/images/gamera-op-grid.png" alt="GAMERA-OP curvilinear grid and field-variable arrangement">
+</section>
 
-## Want to Join the Fun?
-Calling all students who love a good math puzzle and aren't afraid of physics! If the idea of coding up simulations of Jupiter's magnetosphere or the solar wind gets you excited, I'd love to hear from you. There's always room on my team for curious minds, and I'm especially keen to tackle new, ambitious, and exciting problems. Let's build something cool together.
+<section class="home-join" aria-labelledby="home-join-title">
+  <div>
+    <p class="home-section__kicker">Join us</p>
+    <h2 id="home-join-title">Build the next virtual planetary system.</h2>
+    <p>We welcome enquiries from prospective postgraduate students and postdoctoral researchers interested in planetary plasma physics, scientific computing, and high-performance simulation.</p>
+  </div>
+  <div class="home-actions">
+    <a class="home-button home-button--primary" href="/aboutme/">Contact us</a>
+    <a class="home-button home-button--outline" href="/team/">Our team</a>
+  </div>
+</section>
