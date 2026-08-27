@@ -647,8 +647,7 @@
   text-decoration: underline;
 }
 
-.home-focus-grid,
-.home-news-grid {
+.home-focus-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 1rem;
@@ -680,7 +679,7 @@
 }
 
 .home-focus-card p:last-child,
-.home-news-card p:last-child {
+.home-news-card__body p {
   margin-bottom: 0;
   color: #52656d;
   font-size: 0.91rem;
@@ -693,18 +692,45 @@
   background: #f3f7f8;
 }
 
+.home-news-list {
+  border-top: 1px solid #cfdde1;
+}
+
 .home-news-card {
-  padding-top: 1rem;
-  border-top: 2px solid #91cbd9;
+  display: grid;
+  grid-template-columns: 7.5rem minmax(0, 1fr) 2rem;
+  align-items: center;
+  gap: 1.25rem;
+  padding: 1.25rem 0;
+  border-bottom: 1px solid #cfdde1;
 }
 
 .home-news-card__meta {
-  margin: 0 0 0.65rem;
+  display: grid;
+  gap: 0.25rem;
+  margin: 0;
   color: #52717d;
   font-size: 0.69rem;
   font-weight: 700;
   letter-spacing: 0.075em;
   text-transform: uppercase;
+}
+
+.home-news-card__meta time {
+  color: #304e59;
+  font-size: 0.73rem;
+}
+
+.home-news-card__meta span {
+  color: #62808a;
+}
+
+.home-news-card__body h3 {
+  margin-bottom: 0.35rem;
+}
+
+.home-news-card__body p {
+  margin-top: 0;
 }
 
 .home-news-card h3 a {
@@ -716,6 +742,27 @@
 .home-news-card h3 a:focus-visible {
   color: #176276;
   text-decoration: underline;
+}
+
+.home-news-card__link {
+  display: inline-grid;
+  width: 2rem;
+  height: 2rem;
+  place-items: center;
+  border: 1px solid #b8cdd3;
+  border-radius: 50%;
+  color: #176276;
+  font-weight: 700;
+  text-decoration: none;
+  transition: background-color 0.15s ease, border-color 0.15s ease, color 0.15s ease;
+}
+
+.home-news-card__link:hover,
+.home-news-card__link:focus-visible {
+  border-color: #176276;
+  background: #176276;
+  color: #fff;
+  text-decoration: none;
 }
 
 .home-feature {
@@ -780,9 +827,27 @@
 }
 
 @media (max-width: 850px) {
-  .home-focus-grid,
-  .home-news-grid {
+  .home-focus-grid {
     grid-template-columns: 1fr;
+  }
+
+  .home-news-card {
+    grid-template-columns: 1fr 2rem;
+    gap: 0.75rem 1rem;
+  }
+
+  .home-news-card__meta {
+    display: flex;
+    grid-column: 1 / -1;
+    gap: 0.65rem;
+  }
+
+  .home-news-card__body {
+    grid-column: 1;
+  }
+
+  .home-news-card__link {
+    grid-column: 2;
   }
 
   .home-focus-card {

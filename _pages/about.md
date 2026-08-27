@@ -64,21 +64,30 @@ redirect_from:
     </div>
   </header>
 
-  <div class="home-news-grid">
+  <div class="home-news-list">
     <article class="home-news-card">
-      <p class="home-news-card__meta">2026 · Publication</p>
-      <h3><a href="https://scholar.google.com/scholar?q=The+role+of+planetary+rotation+in+polar+cusp+localization">Planetary rotation controls polar cusp localization</a></h3>
-      <p>New global simulations reveal how rotation reorganizes cusp geometry across planetary magnetospheres.</p>
+      <p class="home-news-card__meta"><time datetime="2026-08-27">27 Aug 2026</time><span>Team</span></p>
+      <div class="home-news-card__body">
+        <h3><a href="/team/">Our research team has expanded</a></h3>
+        <p>Meet our faculty researchers, postdoctoral researchers, postgraduate students, and alumni.</p>
+      </div>
+      <a class="home-news-card__link" href="/team/" aria-label="Read the team update"><span aria-hidden="true">→</span></a>
     </article>
     <article class="home-news-card">
-      <p class="home-news-card__meta">2026 · Publication</p>
-      <h3><a href="https://scholar.google.com/scholar?q=Asymmetrically+distributed+Kelvin-Helmholtz+instability+at+the+Venusian+magnetosphere">Kelvin–Helmholtz instability at Venus</a></h3>
-      <p>A global study examines the asymmetric development of boundary instability in the Venusian space environment.</p>
+      <p class="home-news-card__meta"><time datetime="2026-05-21">21 May 2026</time><span>Publication</span></p>
+      <div class="home-news-card__body">
+        <h3><a href="https://doi.org/10.1029/2026GL122024">Planetary rotation controls polar cusp localization</a></h3>
+        <p>Global simulations reveal how rotation reorganizes cusp geometry across planetary magnetospheres.</p>
+      </div>
+      <a class="home-news-card__link" href="https://doi.org/10.1029/2026GL122024" aria-label="Read the polar cusp publication"><span aria-hidden="true">→</span></a>
     </article>
     <article class="home-news-card">
-      <p class="home-news-card__meta">2026 · Team</p>
-      <h3><a href="/team/">Our research team has expanded</a></h3>
-      <p>Meet our faculty researchers, postdoctoral researchers, postgraduate students, and alumni.</p>
+      <p class="home-news-card__meta"><time datetime="2026-04-04">04 Apr 2026</time><span>Publication</span></p>
+      <div class="home-news-card__body">
+        <h3><a href="https://doi.org/10.1029/2026GL121691">Kelvin–Helmholtz instability at Venus</a></h3>
+        <p>A global study examines asymmetric boundary instability in the Venusian space environment.</p>
+      </div>
+      <a class="home-news-card__link" href="https://doi.org/10.1029/2026GL121691" aria-label="Read the Venus publication"><span aria-hidden="true">→</span></a>
     </article>
   </div>
 </section>
