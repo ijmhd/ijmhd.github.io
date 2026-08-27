@@ -4,7 +4,7 @@ permalink: /
 title: "Computational Space & Planetary Plasma Group"
 description: "The Binzheng Zhang Research Group at the University of Hong Kong studies planetary magnetospheres, space weather, and computational plasma physics."
 excerpt: "Planetary magnetospheres, space weather, and computational plasma physics at HKU."
-author_profile: false
+author_profile: true
 redirect_from:
   - /about/
   - /about.html

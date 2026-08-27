@@ -5,9 +5,13 @@ layout: default
 {% include base_path %}
 
 <main id="main" class="home-main" role="main">
-  <article class="home-page" itemscope itemtype="https://schema.org/ResearchOrganization">
-    <meta itemprop="name" content="{{ page.title | escape }}">
-    <meta itemprop="description" content="{{ page.description | escape }}">
-    {{ content }}
+  {% include sidebar.html %}
+
+  <article class="page home-page" itemscope itemtype="https://schema.org/ResearchOrganization">
+    <div class="page__inner-wrap">
+      <meta itemprop="name" content="{{ page.title | escape }}">
+      <meta itemprop="description" content="{{ page.description | escape }}">
+      {{ content }}
+    </div>
   </article>
 </main>
