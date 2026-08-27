@@ -368,6 +368,21 @@
   object-position: center 44%;
 }
 
+.team-card__photo-frame {
+  overflow: hidden;
+  aspect-ratio: 4 / 3;
+}
+
+.team-card__photo-frame .team-card__photo {
+  height: 100%;
+  aspect-ratio: auto;
+}
+
+.team-card__photo--yuancheng {
+  transform: scale(1.45);
+  transform-origin: 50% 65%;
+}
+
 .team-card__placeholder {
   display: grid;
   place-items: center;
