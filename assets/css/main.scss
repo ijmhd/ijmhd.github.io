@@ -471,7 +471,7 @@
 .home-hero {
   position: relative;
   overflow: hidden;
-  padding: clamp(2.5rem, 6vw, 5.25rem) clamp(1.5rem, 5vw, 4.5rem) 1.4rem;
+  padding: clamp(2rem, 4vw, 3.25rem) clamp(1.5rem, 5vw, 4.5rem) 1.15rem;
   border-radius: 0.9rem;
   background:
     radial-gradient(circle at 88% 12%, rgba(82, 173, 200, 0.3), transparent 32%),
@@ -512,20 +512,20 @@
 }
 
 .home-hero h1 {
-  max-width: 52rem;
+  max-width: 48rem;
   margin: 0;
   color: #fff;
-  font-size: clamp(2.2rem, 5.4vw, 4.25rem);
-  line-height: 1.03;
-  letter-spacing: -0.045em;
+  font-size: clamp(2.1rem, 4.2vw, 3.5rem);
+  line-height: 1.04;
+  letter-spacing: -0.04em;
 }
 
 .home-hero__lead {
-  max-width: 48rem;
-  margin: 1.3rem 0 0;
+  max-width: 46rem;
+  margin: 0.9rem 0 0;
   color: rgba(255, 255, 255, 0.86);
-  font-size: clamp(1.05rem, 2vw, 1.3rem);
-  line-height: 1.62;
+  font-size: clamp(1rem, 1.55vw, 1.15rem);
+  line-height: 1.5;
 }
 
 .home-actions {
@@ -597,17 +597,27 @@
   color: #fff;
 }
 
+.home-hero .home-actions {
+  margin-top: 1.05rem;
+}
+
+.home-hero .home-button {
+  min-height: 2.45rem;
+  padding: 0.55rem 0.85rem;
+  font-size: 0.8rem;
+}
+
 .home-hero__topics {
   position: relative;
   z-index: 1;
   display: flex;
   flex-wrap: wrap;
-  gap: 0.55rem 1.4rem;
-  margin: clamp(2.4rem, 5vw, 4rem) -1rem 0;
-  padding: 1.05rem 1rem 0;
+  gap: 0.4rem 1.1rem;
+  margin: clamp(1.5rem, 2.6vw, 2rem) -0.7rem 0;
+  padding: 0.75rem 0.7rem 0;
   border-top: 1px solid rgba(255, 255, 255, 0.18);
   color: rgba(255, 255, 255, 0.72);
-  font-size: 0.78rem;
+  font-size: 0.72rem;
   font-weight: 600;
   letter-spacing: 0.025em;
 }
