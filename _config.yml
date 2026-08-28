@@ -8,6 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Binzheng Zhang"
+masthead_title           : "PSEM Group"
 title_separator          : "-"
 name                     : &name "Binzheng Zhang"
 description              : &description "Space physicist at the University of Hong Kong working on planetary magnetospheres, space plasma physics, and high-performance MHD simulation."
