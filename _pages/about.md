@@ -13,7 +13,7 @@ redirect_from:
 <section class="home-hero" aria-labelledby="home-title">
   <div class="home-hero__content">
     <p class="home-eyebrow">Binzheng Zhang Research Group · The University of Hong Kong</p>
-    <h1 id="home-title">Computational Space &amp; Planetary Plasma Group</h1>
+    <h1 id="home-title">Planetary Space Environment Modeling Group</h1>
     <p class="home-hero__lead">We use high-performance simulations to study planetary magnetospheres, aurorae, space weather, and the plasma dynamics that connect planets to their space environments.</p>
     <div class="home-actions" aria-label="Explore the research group">
       <a class="home-button home-button--primary" href="/portfolio/">Explore research</a>
