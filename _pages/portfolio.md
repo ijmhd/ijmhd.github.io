@@ -51,10 +51,7 @@ My group combines global simulations, theory, and spacecraft observations to und
   </article>
 
   <article class="research-topic-card">
-    <div class="research-topic-card__figure research-topic-card__placeholder" role="img" aria-label="Placeholder for a paper figure about magnetosphere-ionosphere coupling and auroral energy transport">
-      <span>Paper figure</span>
-      <small>Coupling · Alfvén waves · Aurora</small>
-    </div>
+    <img class="research-topic-card__figure" src="/images/research/magnetosphere-ionosphere-coupling.png" alt="Three-dimensional magnetic-field topology and plasma plume structure in the coupled magnetosphere-ionosphere system" loading="lazy">
     <div class="research-topic-card__body">
       <p class="research-kicker">Coupled geospace</p>
       <h2>Magnetosphere–ionosphere coupling</h2>
