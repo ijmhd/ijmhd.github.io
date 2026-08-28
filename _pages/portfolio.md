@@ -33,10 +33,7 @@ My group combines global simulations, theory, and spacecraft observations to und
   </article>
 
   <article class="research-topic-card">
-    <div class="research-topic-card__figure research-topic-card__placeholder" role="img" aria-label="Placeholder for a paper figure about the Venusian and Martian space environments">
-      <span>Paper figure</span>
-      <small>Venus · Mars · Solar wind</small>
-    </div>
+    <img class="research-topic-card__figure research-topic-card__figure--dark" src="/images/research/unmagnetized-planets.jpg" alt="Simulation of the solar-wind interaction with Venus showing current density and magnetic-field structure" loading="lazy">
     <div class="research-topic-card__body">
       <p class="research-kicker">Comparative planetary plasma</p>
       <h2>Unmagnetized Planets</h2>

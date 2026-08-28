@@ -115,6 +115,10 @@ img.research-topic-card__figure {
   object-fit: contain;
 }
 
+img.research-topic-card__figure--dark {
+  background: #0a0202;
+}
+
 .research-topic-card--wide .research-topic-card__figure {
   aspect-ratio: 24 / 7;
 }
