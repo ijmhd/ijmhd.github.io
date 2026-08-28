@@ -104,9 +104,7 @@ Our group develops numerical methods and high-performance simulation tools for p
   </article>
 
   <article class="team-card">
-    <div class="team-card__photo team-card__placeholder" role="img" aria-label="Photo placeholder for Chenghan Xiao">
-      <span>CX</span>
-    </div>
+    <img class="team-card__photo" src="/images/team/chenghan-xiao.jpg" alt="Chenghan Xiao">
     <div class="team-card__body">
       <p class="team-card__role">Ph.D. Student · Since 2026</p>
       <h3>Chenghan Xiao</h3>
