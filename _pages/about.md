@@ -100,9 +100,11 @@ redirect_from:
 
   <div class="home-planet-tabs" role="tablist" aria-label="Choose a planet">
     <button id="planet-tab-earth" class="home-planet-tab" type="button" role="tab" aria-selected="true" aria-controls="planet-earth" tabindex="0">Earth</button>
+    <button id="planet-tab-mars" class="home-planet-tab" type="button" role="tab" aria-selected="false" aria-controls="planet-mars" tabindex="-1">Mars</button>
+    <button id="planet-tab-venus" class="home-planet-tab" type="button" role="tab" aria-selected="false" aria-controls="planet-venus" tabindex="-1">Venus</button>
     <button id="planet-tab-jupiter" class="home-planet-tab" type="button" role="tab" aria-selected="false" aria-controls="planet-jupiter" tabindex="-1">Jupiter</button>
     <button id="planet-tab-saturn" class="home-planet-tab" type="button" role="tab" aria-selected="false" aria-controls="planet-saturn" tabindex="-1">Saturn</button>
-    <button id="planet-tab-venus" class="home-planet-tab" type="button" role="tab" aria-selected="false" aria-controls="planet-venus" tabindex="-1">Venus</button>
+    <button id="planet-tab-neptune" class="home-planet-tab" type="button" role="tab" aria-selected="false" aria-controls="planet-neptune" tabindex="-1">Neptune</button>
   </div>
 
   <div class="home-planet-panels">
@@ -113,6 +115,16 @@ redirect_from:
         <h3>Earth: a coupled space-weather system</h3>
         <p>Earth’s magnetic field shields the atmosphere, but solar-wind energy still enters through reconnection and drives aurorae, ionospheric currents, and thermospheric change.</p>
         <a href="/portfolio/">Explore coupling research <span aria-hidden="true">→</span></a>
+      </div>
+    </article>
+
+    <article id="planet-mars" class="home-planet-panel" role="tabpanel" aria-labelledby="planet-tab-mars" hidden>
+      <div class="home-planet-visual" aria-hidden="true"><span class="home-planet-orb home-planet-orb--mars"></span></div>
+      <div class="home-planet-panel__body">
+        <p class="home-planet-panel__meta">Induced magnetic field · Crustal fields &amp; solar wind</p>
+        <h3>Mars: a patchwork magnetic environment</h3>
+        <p>Mars lacks a global intrinsic magnetic field, but crustal magnetic anomalies create localized mini-magnetospheres while the solar wind drives shocks, plasma escape, and a highly variable ionosphere.</p>
+        <a href="/portfolio/">Explore unmagnetized planets <span aria-hidden="true">→</span></a>
       </div>
     </article>
 
@@ -143,6 +155,16 @@ redirect_from:
         <h3>Venus: no intrinsic magnetic shield</h3>
         <p>The solar wind interacts directly with Venus’s ionosphere, creating an induced magnetosphere filled with shocks, reconnection, turbulence, and pathways for atmospheric escape.</p>
         <a href="/portfolio/">Explore unmagnetized planets <span aria-hidden="true">→</span></a>
+      </div>
+    </article>
+
+    <article id="planet-neptune" class="home-planet-panel" role="tabpanel" aria-labelledby="planet-tab-neptune" hidden>
+      <div class="home-planet-visual" aria-hidden="true"><span class="home-planet-orb home-planet-orb--neptune"></span></div>
+      <div class="home-planet-panel__body">
+        <p class="home-planet-panel__meta">Intrinsic magnetic field · Strongly tilted &amp; offset</p>
+        <h3>Neptune: a magnetosphere turned sideways</h3>
+        <p>Neptune’s strongly tilted and offset magnetic field creates an unusually time-dependent interaction as the planet rotates—a natural laboratory for extreme magnetospheric geometry.</p>
+        <a href="/portfolio/">Explore giant-planet research <span aria-hidden="true">→</span></a>
       </div>
     </article>
   </div>

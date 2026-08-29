@@ -990,6 +990,13 @@ img.research-topic-card__figure--dark {
     radial-gradient(circle at 35% 30%, #56b8de, #19689a 62%, #0c355e 100%);
 }
 
+.home-planet-orb--mars {
+  background:
+    radial-gradient(circle at 67% 34%, rgba(89, 38, 26, 0.58) 0 6%, transparent 7%),
+    radial-gradient(circle at 34% 65%, rgba(109, 42, 27, 0.52) 0 9%, transparent 10%),
+    radial-gradient(circle at 35% 30%, #ed9a61, #b44e31 68%, #6b281f 100%);
+}
+
 .home-planet-orb--jupiter {
   background:
     radial-gradient(ellipse at 65% 68%, #a74435 0 6%, transparent 7%),
@@ -1018,6 +1025,13 @@ img.research-topic-card__figure--dark {
   background:
     repeating-radial-gradient(ellipse at 35% 35%, rgba(255, 240, 191, 0.7) 0 5%, rgba(194, 130, 72, 0.55) 6% 11%),
     radial-gradient(circle at 35% 30%, #dfb56f, #9b552e 78%);
+}
+
+.home-planet-orb--neptune {
+  background:
+    radial-gradient(ellipse at 38% 54%, rgba(10, 42, 113, 0.72) 0 7%, transparent 8%),
+    radial-gradient(circle at 34% 28%, rgba(157, 218, 255, 0.78), transparent 30%),
+    repeating-linear-gradient(180deg, #438fe3 0 18%, #286bc7 19% 31%, #174a9b 32% 44%);
 }
 
 .home-planet-panel__body {
