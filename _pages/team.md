@@ -64,7 +64,7 @@ Our group develops numerical methods and high-performance simulation tools for p
   <article class="team-card">
     <img class="team-card__photo" src="/images/team/jiaxing-tian.jpg" alt="Jiaxing Tian">
     <div class="team-card__body">
-      <p class="team-card__role">Ph.D. Student</p>
+      <p class="team-card__role">Ph.D. Candidate</p>
       <h3>Jiaxing Tian</h3>
       <p class="team-card__background"><strong>B.Sc. USTC (Nuclear Physics)</strong></p>
       <p class="team-card__focus"><strong>Research Interest:</strong> Global Jovian magnetosphere; numerical magnetohydrodynamics (MHD)</p>
@@ -74,7 +74,7 @@ Our group develops numerical methods and high-performance simulation tools for p
   <article class="team-card">
     <img class="team-card__photo" src="/images/team/jinshu-cai.jpg" alt="Jinshu Cai">
     <div class="team-card__body">
-      <p class="team-card__role">Ph.D. Student</p>
+      <p class="team-card__role">Ph.D. Candidate</p>
       <h3>Jinshu Cai</h3>
       <p class="team-card__background"><strong>B.Sc. USTC (Space Physics)</strong></p>
       <p class="team-card__focus"><strong>Research Interest:</strong> Venusian space environment; global magnetohydrodynamic (MHD) simulations</p>
@@ -84,7 +84,7 @@ Our group develops numerical methods and high-performance simulation tools for p
   <article class="team-card">
     <img class="team-card__photo" src="/images/team/zhengyang-wang.jpg" alt="Zhengyang Wang">
     <div class="team-card__body">
-      <p class="team-card__role">Ph.D. Student</p>
+      <p class="team-card__role">Ph.D. Candidate</p>
       <h3>Zhengyang Wang</h3>
       <p class="team-card__background"><strong>B.Sc. UNB (Mathematics)</strong></p>
       <p class="team-card__focus"><strong>Research Interest:</strong> High-performance kinetic schemes; physics-informed neural networks (PINNs)</p>
