@@ -858,6 +858,211 @@ img.research-topic-card__figure--dark {
   gap: 1rem;
 }
 
+.home-planets {
+  position: relative;
+  overflow: hidden;
+  margin: clamp(3.5rem, 7vw, 6rem) 0;
+  padding: clamp(2rem, 5vw, 3.5rem);
+  border-radius: 0.75rem;
+  background:
+    radial-gradient(circle at 88% 8%, rgba(82, 173, 200, 0.28), transparent 30%),
+    linear-gradient(135deg, #081725 0%, #123748 68%, #176276 100%);
+  color: #fff;
+}
+
+.home-planets::after {
+  position: absolute;
+  top: -10rem;
+  right: -8rem;
+  width: 25rem;
+  height: 25rem;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 50%;
+  content: "";
+  pointer-events: none;
+}
+
+.home-planets__header,
+.home-planet-tabs,
+.home-planet-panels {
+  position: relative;
+  z-index: 1;
+}
+
+.home-planets__header {
+  max-width: 48rem;
+}
+
+.home-planets__header .home-section__kicker {
+  color: #9ed9e8;
+}
+
+.home-planets__header h2 {
+  margin: 0;
+  color: #fff;
+  font-size: clamp(1.75rem, 3.2vw, 2.6rem);
+  line-height: 1.12;
+  letter-spacing: -0.03em;
+}
+
+.home-planets__header > p:last-child {
+  margin: 0.75rem 0 0;
+  color: rgba(255, 255, 255, 0.74);
+  font-size: 0.92rem;
+  line-height: 1.6;
+}
+
+.home-planet-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 1.5rem;
+}
+
+.home-planet-tab {
+  min-height: 2.35rem;
+  padding: 0.5rem 0.9rem;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.05);
+  color: rgba(255, 255, 255, 0.82);
+  cursor: pointer;
+  font: inherit;
+  font-size: 0.78rem;
+  font-weight: 700;
+  transition: background-color 0.15s ease, border-color 0.15s ease, color 0.15s ease, transform 0.15s ease;
+}
+
+.home-planet-tab:hover,
+.home-planet-tab:focus-visible {
+  border-color: rgba(255, 255, 255, 0.72);
+  color: #fff;
+  transform: translateY(-1px);
+}
+
+.home-planet-tab[aria-selected="true"] {
+  border-color: #fff;
+  background: #fff;
+  color: #123748;
+}
+
+.home-planet-panels {
+  margin-top: 1rem;
+}
+
+.home-planet-panel {
+  display: grid;
+  grid-template-columns: minmax(11rem, 0.38fr) minmax(0, 1fr);
+  align-items: center;
+  gap: clamp(1.5rem, 4vw, 3rem);
+  min-height: 18rem;
+  padding: clamp(1.35rem, 3vw, 2.25rem);
+  border: 1px solid rgba(255, 255, 255, 0.16);
+  border-radius: 0.65rem;
+  background: rgba(3, 18, 29, 0.38);
+}
+
+.home-planet-panel[hidden] {
+  display: none;
+}
+
+.home-planet-visual {
+  display: grid;
+  min-height: 12rem;
+  place-items: center;
+  overflow: visible;
+}
+
+.home-planet-orb {
+  position: relative;
+  display: block;
+  width: clamp(7.5rem, 14vw, 10rem);
+  aspect-ratio: 1;
+  border-radius: 50%;
+  box-shadow: inset -1.2rem -0.7rem 2rem rgba(0, 0, 0, 0.34), 0 0 2rem rgba(117, 207, 230, 0.18);
+}
+
+.home-planet-orb--earth {
+  background:
+    radial-gradient(circle at 34% 32%, rgba(226, 244, 226, 0.9) 0 7%, transparent 8%),
+    radial-gradient(circle at 63% 58%, #67a85f 0 10%, transparent 11%),
+    radial-gradient(circle at 42% 66%, #8bbf6d 0 14%, transparent 15%),
+    radial-gradient(circle at 35% 30%, #56b8de, #19689a 62%, #0c355e 100%);
+}
+
+.home-planet-orb--jupiter {
+  background:
+    radial-gradient(ellipse at 65% 68%, #a74435 0 6%, transparent 7%),
+    repeating-linear-gradient(180deg, #e8d1a5 0 9%, #a66b45 10% 16%, #f0dfbb 17% 25%, #be8a5b 26% 33%);
+}
+
+.home-planet-orb--saturn {
+  width: clamp(6.8rem, 12vw, 8.8rem);
+  background: repeating-linear-gradient(180deg, #eed9a0 0 12%, #caa86f 13% 19%, #f4e5b9 20% 32%);
+}
+
+.home-planet-orb--saturn::after {
+  position: absolute;
+  top: 35%;
+  right: -42%;
+  bottom: 35%;
+  left: -42%;
+  border: 0.55rem solid rgba(224, 206, 157, 0.82);
+  border-radius: 50%;
+  box-shadow: 0 0 0 0.25rem rgba(151, 127, 87, 0.34);
+  content: "";
+  transform: rotate(-12deg);
+}
+
+.home-planet-orb--venus {
+  background:
+    repeating-radial-gradient(ellipse at 35% 35%, rgba(255, 240, 191, 0.7) 0 5%, rgba(194, 130, 72, 0.55) 6% 11%),
+    radial-gradient(circle at 35% 30%, #dfb56f, #9b552e 78%);
+}
+
+.home-planet-panel__body {
+  max-width: 44rem;
+}
+
+.home-planet-panel__meta {
+  margin: 0 0 0.55rem;
+  color: #9ed9e8;
+  font-size: 0.66rem;
+  font-weight: 800;
+  letter-spacing: 0.075em;
+  text-transform: uppercase;
+}
+
+.home-planet-panel__body h3 {
+  margin: 0;
+  color: #fff;
+  font-size: clamp(1.35rem, 2.5vw, 2rem);
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+}
+
+.home-planet-panel__body > p:not(.home-planet-panel__meta) {
+  margin: 0.85rem 0 0;
+  color: rgba(255, 255, 255, 0.75);
+  font-size: 0.88rem;
+  line-height: 1.65;
+}
+
+.home-planet-panel__body a {
+  display: inline-block;
+  margin-top: 1rem;
+  color: #9ed9e8;
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.home-planet-panel__body a:hover,
+.home-planet-panel__body a:focus-visible {
+  color: #fff;
+  text-decoration: underline;
+}
+
 .home-section--news {
   padding: clamp(2rem, 4vw, 3.25rem);
   border-radius: 0.75rem;
@@ -1333,6 +1538,10 @@ img.research-topic-card__figure--dark {
     padding: 2rem;
   }
 
+  .home-planet-panel {
+    grid-template-columns: minmax(9rem, 0.32fr) minmax(0, 1fr);
+  }
+
   .home-focus-card__number {
     margin-bottom: 1.25rem;
   }
@@ -1430,6 +1639,29 @@ img.research-topic-card__figure--dark {
 
   .home-story__content {
     padding: 1.5rem;
+  }
+
+  .home-planets {
+    margin-right: -0.35rem;
+    margin-left: -0.35rem;
+    padding: 1.5rem;
+    border-radius: 0.65rem;
+  }
+
+  .home-planet-tabs {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .home-planet-panel {
+    grid-template-columns: 1fr;
+    gap: 0.75rem;
+    min-height: 0;
+    text-align: center;
+  }
+
+  .home-planet-visual {
+    min-height: 10rem;
   }
 }
 

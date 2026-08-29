@@ -91,11 +91,112 @@ redirect_from:
   </div>
 </section>
 
+<section class="home-planets" aria-labelledby="home-planets-title">
+  <header class="home-planets__header">
+    <p class="home-section__kicker">Explore the Solar System</p>
+    <h2 id="home-planets-title">Pick a planet</h2>
+    <p>Every planet writes its own rules for interacting with plasma, magnetic fields, and the solar wind.</p>
+  </header>
+
+  <div class="home-planet-tabs" role="tablist" aria-label="Choose a planet">
+    <button id="planet-tab-earth" class="home-planet-tab" type="button" role="tab" aria-selected="true" aria-controls="planet-earth" tabindex="0">Earth</button>
+    <button id="planet-tab-jupiter" class="home-planet-tab" type="button" role="tab" aria-selected="false" aria-controls="planet-jupiter" tabindex="-1">Jupiter</button>
+    <button id="planet-tab-saturn" class="home-planet-tab" type="button" role="tab" aria-selected="false" aria-controls="planet-saturn" tabindex="-1">Saturn</button>
+    <button id="planet-tab-venus" class="home-planet-tab" type="button" role="tab" aria-selected="false" aria-controls="planet-venus" tabindex="-1">Venus</button>
+  </div>
+
+  <div class="home-planet-panels">
+    <article id="planet-earth" class="home-planet-panel" role="tabpanel" aria-labelledby="planet-tab-earth">
+      <div class="home-planet-visual" aria-hidden="true"><span class="home-planet-orb home-planet-orb--earth"></span></div>
+      <div class="home-planet-panel__body">
+        <p class="home-planet-panel__meta">Intrinsic magnetic field · Solar-wind driven</p>
+        <h3>Earth: a coupled space-weather system</h3>
+        <p>Earth’s magnetic field shields the atmosphere, but solar-wind energy still enters through reconnection and drives aurorae, ionospheric currents, and thermospheric change.</p>
+        <a href="/portfolio/">Explore coupling research <span aria-hidden="true">→</span></a>
+      </div>
+    </article>
+
+    <article id="planet-jupiter" class="home-planet-panel" role="tabpanel" aria-labelledby="planet-tab-jupiter" hidden>
+      <div class="home-planet-visual" aria-hidden="true"><span class="home-planet-orb home-planet-orb--jupiter"></span></div>
+      <div class="home-planet-panel__body">
+        <p class="home-planet-panel__meta">Intrinsic magnetic field · Rotation &amp; Io</p>
+        <h3>Jupiter: a magnetosphere powered from within</h3>
+        <p>Rapid rotation and plasma supplied by Io create an enormous magnetodisc whose dynamics, topology, and aurorae can remain active even when the solar wind is steady.</p>
+        <a href="/portfolio/">Explore giant-planet research <span aria-hidden="true">→</span></a>
+      </div>
+    </article>
+
+    <article id="planet-saturn" class="home-planet-panel" role="tabpanel" aria-labelledby="planet-tab-saturn" hidden>
+      <div class="home-planet-visual" aria-hidden="true"><span class="home-planet-orb home-planet-orb--saturn"></span></div>
+      <div class="home-planet-panel__body">
+        <p class="home-planet-panel__meta">Intrinsic magnetic field · Rotation &amp; Enceladus</p>
+        <h3>Saturn: rings outside, plasma dynamics within</h3>
+        <p>Fast rotation, mass loading from Enceladus, and solar-wind forcing combine to shape Saturn’s magnetodisc, boundary instabilities, cusps, and auroral responses.</p>
+        <a href="/portfolio/">Explore giant-planet research <span aria-hidden="true">→</span></a>
+      </div>
+    </article>
+
+    <article id="planet-venus" class="home-planet-panel" role="tabpanel" aria-labelledby="planet-tab-venus" hidden>
+      <div class="home-planet-visual" aria-hidden="true"><span class="home-planet-orb home-planet-orb--venus"></span></div>
+      <div class="home-planet-panel__body">
+        <p class="home-planet-panel__meta">Induced magnetic field · Direct solar-wind interaction</p>
+        <h3>Venus: no intrinsic magnetic shield</h3>
+        <p>The solar wind interacts directly with Venus’s ionosphere, creating an induced magnetosphere filled with shocks, reconnection, turbulence, and pathways for atmospheric escape.</p>
+        <a href="/portfolio/">Explore unmagnetized planets <span aria-hidden="true">→</span></a>
+      </div>
+    </article>
+  </div>
+</section>
+
+<script>
+(function () {
+  var root = document.querySelector('.home-planets');
+  if (!root) return;
+
+  var tabs = Array.prototype.slice.call(root.querySelectorAll('[role="tab"]'));
+  var panels = Array.prototype.slice.call(root.querySelectorAll('[role="tabpanel"]'));
+
+  function activate(tab, moveFocus) {
+    var panelId = tab.getAttribute('aria-controls');
+
+    tabs.forEach(function (item) {
+      var selected = item === tab;
+      item.setAttribute('aria-selected', selected ? 'true' : 'false');
+      item.setAttribute('tabindex', selected ? '0' : '-1');
+    });
+
+    panels.forEach(function (panel) {
+      panel.hidden = panel.id !== panelId;
+    });
+
+    if (moveFocus) tab.focus();
+  }
+
+  tabs.forEach(function (tab, index) {
+    tab.addEventListener('click', function () {
+      activate(tab, false);
+    });
+
+    tab.addEventListener('keydown', function (event) {
+      var nextIndex = index;
+      if (event.key === 'ArrowRight') nextIndex = (index + 1) % tabs.length;
+      else if (event.key === 'ArrowLeft') nextIndex = (index - 1 + tabs.length) % tabs.length;
+      else if (event.key === 'Home') nextIndex = 0;
+      else if (event.key === 'End') nextIndex = tabs.length - 1;
+      else return;
+
+      event.preventDefault();
+      activate(tabs[nextIndex], true);
+    });
+  });
+}());
+</script>
+
 <section class="home-section home-section--news" aria-labelledby="home-news-title">
   <header class="home-section__header">
     <div>
       <p class="home-section__kicker">Updates</p>
-      <h2 id="home-news-title">Latest news</h2>
+      <h2 id="home-news-title">From the lab</h2>
     </div>
   </header>
 
