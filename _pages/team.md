@@ -40,7 +40,7 @@ Our group develops numerical methods and high-performance simulation tools for p
   <article class="team-card">
     <img class="team-card__photo" src="/images/team/austin-smith.jpg" alt="Austin Smith">
     <div class="team-card__body">
-      <p class="team-card__role">Postdoctoral Researcher</p>
+      <p class="team-card__role">Postdoctoral Fellow</p>
       <h3>Austin Smith</h3>
       <p class="team-card__background"><strong>B.S. PLNU; Ph.D. UAF</strong></p>
       <p class="team-card__focus"><strong>Research Interest:</strong> Jovian magnetosphere–ionosphere coupling; global MHD modeling; ionospheric electrodynamics</p>
@@ -50,7 +50,7 @@ Our group develops numerical methods and high-performance simulation tools for p
   <article class="team-card">
     <img class="team-card__photo" src="/images/team/yusha-tan.jpg" alt="Yusha Tan">
     <div class="team-card__body">
-      <p class="team-card__role">Postdoctoral Researcher</p>
+      <p class="team-card__role">Postdoctoral Fellow</p>
       <h3>Yusha Tan</h3>
       <p class="team-card__background"><strong>B.Sc. USTC; Ph.D. USTC</strong></p>
       <p class="team-card__focus"><strong>Research Interest:</strong> Thermosphere–ionosphere coupling; high-latitude atmospheric dynamics; space weather modeling</p>
