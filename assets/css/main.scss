@@ -796,68 +796,6 @@ img.research-topic-card__figure--dark {
   line-height: 1.62;
 }
 
-.home-story {
-  display: grid;
-  overflow: hidden;
-  grid-template-columns: minmax(0, 1.25fr) minmax(18rem, 0.75fr);
-  margin: clamp(3.5rem, 7vw, 6rem) 0;
-  border: 1px solid #dfe8eb;
-  border-radius: 0.75rem;
-  background: #fff;
-  box-shadow: 0 0.35rem 1.1rem rgba(14, 54, 70, 0.07);
-}
-
-.home-story__figure {
-  display: flex;
-  min-width: 0;
-  flex-direction: column;
-  margin: 0;
-  background: #081725;
-}
-
-.home-story__figure img {
-  display: block;
-  width: 100%;
-  min-height: 19rem;
-  flex: 1 1 auto;
-  object-fit: cover;
-  object-position: center;
-}
-
-.home-story__figure figcaption {
-  padding: 0.55rem 0.8rem;
-  color: rgba(255, 255, 255, 0.68);
-  font-size: 0.65rem;
-  line-height: 1.4;
-}
-
-.home-story__content {
-  display: flex;
-  min-width: 0;
-  flex-direction: column;
-  justify-content: center;
-  padding: clamp(2rem, 4vw, 3.25rem);
-}
-
-.home-story__content h2 {
-  margin: 0;
-  color: #172d38;
-  font-size: clamp(1.55rem, 2.8vw, 2.25rem);
-  line-height: 1.15;
-  letter-spacing: -0.025em;
-}
-
-.home-story__content > p:not(.home-section__kicker) {
-  margin: 1rem 0 0;
-  color: #52656d;
-  font-size: 0.9rem;
-  line-height: 1.7;
-}
-
-.home-story .home-actions {
-  gap: 1rem;
-}
-
 .home-planets {
   position: relative;
   overflow: hidden;
@@ -1630,19 +1568,6 @@ img.research-topic-card__figure--dark {
     min-height: auto;
   }
 
-  .home-story {
-    grid-template-columns: 1fr;
-  }
-
-  .home-story__figure img {
-    min-height: 0;
-    object-fit: contain;
-  }
-
-  .home-story__content {
-    padding: 2rem;
-  }
-
   .home-planet-panel {
     grid-template-columns: minmax(9rem, 0.32fr) minmax(0, 1fr);
   }
@@ -1749,10 +1674,6 @@ img.research-topic-card__figure--dark {
 
   .home-life__photos {
     min-height: 10rem;
-  }
-
-  .home-story__content {
-    padding: 1.5rem;
   }
 
   .home-planets {
