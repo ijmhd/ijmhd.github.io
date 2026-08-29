@@ -29,6 +29,24 @@ redirect_from:
   </div>
 </section>
 
+<section class="home-now" aria-labelledby="home-now-title">
+  <h2 id="home-now-title">Right now</h2>
+  <div class="home-now__items">
+    <div class="home-now__item">
+      <p class="home-now__label">Now simulating</p>
+      <p>Jupiter’s global magnetosphere</p>
+    </div>
+    <div class="home-now__item">
+      <p class="home-now__label">Current question</p>
+      <p>What determines the latitude of a planetary cusp?</p>
+    </div>
+    <div class="home-now__item">
+      <p class="home-now__label">Latest build</p>
+      <p><a href="/gamera-op/">GAMERA-OP</a></p>
+    </div>
+  </div>
+</section>
+
 <section class="home-section" aria-labelledby="home-research-title">
   <header class="home-section__header">
     <div>
