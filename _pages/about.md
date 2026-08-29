@@ -250,6 +250,25 @@ redirect_from:
   </div>
 </section>
 
+<section class="home-life" aria-labelledby="home-life-title">
+  <div class="home-life__content">
+    <p class="home-section__kicker">Beyond the simulations</p>
+    <h2 id="home-life-title">Group Life</h2>
+    <p><strong>Serious physics. Human-scale lab life.</strong> Between simulations and seminars, we make time for coffee, shared meals, paper celebrations, travel stories, and the occasional Earth-based expedition.</p>
+    <div class="home-life__notes" aria-label="A few parts of group life">
+      <span>Coffee &amp; code</span>
+      <span>Paper celebrations</span>
+      <span>Earth-based adventures</span>
+    </div>
+    <a class="home-text-link" href="/team/">Meet the group <span aria-hidden="true">→</span></a>
+  </div>
+  <div class="home-life__photos">
+    <figure><img src="/images/team/jiaxing-tian.jpg" alt="Jiaxing Tian on a mountain trail" loading="lazy"></figure>
+    <figure><img src="/images/team/yusha-tan.jpg" alt="Yusha Tan in autumn scenery" loading="lazy"></figure>
+    <figure><img src="/images/team/jinshu-cai.jpg" alt="Jinshu Cai visiting Paris" loading="lazy"></figure>
+  </div>
+</section>
+
 <section class="home-feature" aria-labelledby="home-feature-title">
   <div class="home-feature__content">
     <p class="home-section__kicker">Featured platform</p>

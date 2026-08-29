@@ -1156,6 +1156,97 @@ img.research-topic-card__figure--dark {
   text-decoration: none;
 }
 
+.home-life {
+  display: grid;
+  overflow: hidden;
+  grid-template-columns: minmax(0, 0.9fr) minmax(18rem, 1.1fr);
+  align-items: center;
+  gap: clamp(1.5rem, 4vw, 3rem);
+  margin: clamp(3.5rem, 7vw, 6rem) 0;
+  padding: clamp(2rem, 4vw, 3rem);
+  border: 1px solid #e4e5dc;
+  border-radius: 0.75rem;
+  background: linear-gradient(135deg, #fff8ee 0%, #f3f8f8 100%);
+}
+
+.home-life__content h2 {
+  margin: 0;
+  color: #183440;
+  font-size: clamp(1.75rem, 3.2vw, 2.45rem);
+  letter-spacing: -0.025em;
+}
+
+.home-life__content > p:not(.home-section__kicker) {
+  margin: 0.9rem 0 0;
+  color: #52656d;
+  line-height: 1.65;
+}
+
+.home-life__content .home-text-link {
+  display: inline-block;
+  margin-top: 1.2rem;
+}
+
+.home-life__notes {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin-top: 1.15rem;
+}
+
+.home-life__notes span {
+  padding: 0.34rem 0.62rem;
+  border: 1px solid #d4deda;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.72);
+  color: #37545e;
+  font-size: 0.68rem;
+  font-weight: 700;
+}
+
+.home-life__photos {
+  display: grid;
+  grid-template-columns: 1.08fr 0.96fr 0.96fr;
+  gap: 0.55rem;
+  min-height: 12.5rem;
+}
+
+.home-life__photos figure {
+  overflow: hidden;
+  min-width: 0;
+  margin: 0;
+  border: 0.22rem solid rgba(255, 255, 255, 0.88);
+  border-radius: 0.65rem;
+  box-shadow: 0 0.65rem 1.5rem rgba(31, 59, 69, 0.13);
+}
+
+.home-life__photos figure:nth-child(2) {
+  transform: translateY(-0.45rem);
+}
+
+.home-life__photos figure:nth-child(3) {
+  transform: translateY(0.45rem);
+}
+
+.home-life__photos img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.home-life__photos figure:nth-child(1) img {
+  object-position: 53% center;
+}
+
+.home-life__photos figure:nth-child(2) img {
+  object-position: center 30%;
+}
+
+.home-life__photos figure:nth-child(3) img {
+  object-position: center 35%;
+}
+
 .home-feature {
   display: grid;
   overflow: hidden;
@@ -1564,6 +1655,10 @@ img.research-topic-card__figure--dark {
     grid-template-columns: 1fr;
   }
 
+  .home-life {
+    grid-template-columns: 1fr;
+  }
+
   .home-feature__content {
     padding: 2rem;
   }
@@ -1647,8 +1742,13 @@ img.research-topic-card__figure--dark {
   }
 
   .home-section--news,
+  .home-life,
   .home-join {
     padding: 1.5rem;
+  }
+
+  .home-life__photos {
+    min-height: 10rem;
   }
 
   .home-story__content {
