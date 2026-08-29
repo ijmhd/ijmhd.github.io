@@ -237,8 +237,13 @@
 }
 
 .sidebar-map {
+  display: none;
   clear: both;
-  margin-top: 1rem;
+
+  @include breakpoint($large) {
+    display: block;
+    margin-top: 1rem;
+  }
 }
 
 .sidebar-map__frame {
