@@ -75,6 +75,22 @@ redirect_from:
   </div>
 </section>
 
+<section class="home-story" aria-labelledby="home-story-title">
+  <figure class="home-story__figure">
+    <img src="/images/research/magnetospheres-aurorae.jpg" alt="Global simulation comparing an instantaneous view of Jupiter’s magnetosphere with its time-averaged structure" loading="lazy">
+    <figcaption>Instantaneous and time-averaged views of a global Jovian magnetosphere simulation.</figcaption>
+  </figure>
+  <div class="home-story__content">
+    <p class="home-section__kicker">One figure, one story</p>
+    <h2 id="home-story-title">Why Jupiter refuses to sit still</h2>
+    <p>Even under steady solar-wind conditions, Jupiter’s magnetosphere produces vortices, plasmoids, and large-scale reconfigurations. The instantaneous simulation is full of structure, while the time average appears deceptively quiet—the difference between them is where the interesting physics lives.</p>
+    <div class="home-actions">
+      <a class="home-button home-button--dark" href="/portfolio/">Explore the research</a>
+      <a class="home-text-link" href="https://doi.org/10.1029/2024GL112624">Read the paper <span aria-hidden="true">→</span></a>
+    </div>
+  </div>
+</section>
+
 <section class="home-section home-section--news" aria-labelledby="home-news-title">
   <header class="home-section__header">
     <div>
