@@ -38,10 +38,10 @@ Our group develops numerical methods and high-performance simulation tools for p
 
 <div class="team-grid">
   <article class="team-card">
-    <img class="team-card__photo" src="/images/team/austin-smith.jpg" alt="Austin Smith">
+    <img class="team-card__photo" src="/images/team/austin-smith.jpg" alt="Austin R. Smith">
     <div class="team-card__body">
       <p class="team-card__role">Postdoctoral Fellow</p>
-      <h3>Austin Smith</h3>
+      <h3>Austin R. Smith</h3>
       <p class="team-card__background"><strong>B.S. PLNU; Ph.D. UAF</strong></p>
       <p class="team-card__focus"><strong>Research Interest:</strong> Jovian magnetosphere–ionosphere coupling; global MHD modeling; ionospheric electrodynamics</p>
     </div>
