@@ -102,7 +102,7 @@ My group combines global simulations, theory, and spacecraft observations to und
       <details class="research-topic-card__papers">
         <summary>Featured paper research</summary>
         <ul>
-          <li><a href="/gamera-op/">GAMERA-OP: MHD on orthogonal curvilinear geometries</a><small>The Astrophysical Journal Supplement Series · 2026</small></li>
+          <li><a href="/codes/#gamera-op">GAMERA-OP: MHD on orthogonal curvilinear geometries</a><small>The Astrophysical Journal Supplement Series · 2026</small></li>
           <li><a href="https://scholar.google.com/scholar?q=Enhanced+partial+donor+cell+method+hyperbolic+equations+orthogonal+curvilinear+coordinates">Enhanced partial donor cell method for orthogonal curvilinear coordinates</a><small>Computer Physics Communications · 2025</small></li>
           <li><a href="https://scholar.google.com/scholar?q=GAMERA+three-dimensional+finite-volume+MHD+solver+non-orthogonal+curvilinear+geometries">GAMERA: MHD on non-orthogonal curvilinear geometries</a><small>The Astrophysical Journal Supplement Series · 2019</small></li>
         </ul>

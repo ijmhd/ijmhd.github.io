@@ -42,7 +42,7 @@ redirect_from:
     </div>
     <div class="home-now__item">
       <p class="home-now__label">Latest build</p>
-      <p><a href="/gamera-op/">GAMERA-OP</a></p>
+      <p><a href="/codes/#gamera-op">GAMERA-OP</a></p>
     </div>
   </div>
 </section>
@@ -255,11 +255,11 @@ redirect_from:
 
 <section class="home-feature" aria-labelledby="home-feature-title">
   <div class="home-feature__content">
-    <p class="home-section__kicker">Featured platform</p>
+    <p class="home-section__kicker">Featured code</p>
     <h2 id="home-feature-title">GAMERA-OP</h2>
     <p>A three-dimensional, high-order finite-volume MHD solver for orthogonal curvilinear geometries, designed for planetary, space, and astrophysical plasma simulations.</p>
     <div class="home-actions">
-      <a class="home-button home-button--dark" href="/gamera-op/">Explore GAMERA-OP</a>
+      <a class="home-button home-button--dark" href="/codes/#gamera-op">Explore GAMERA-OP</a>
       <a class="home-text-link" href="https://doi.org/10.3847/1538-4365/ae7344">Read the paper <span aria-hidden="true">→</span></a>
     </div>
   </div>
