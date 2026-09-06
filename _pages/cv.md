@@ -21,7 +21,7 @@ Selected peer-reviewed papers are grouped below by their primary scientific cont
     <p class="publication-card__eyebrow">Methods &amp; models</p>
     <span class="publication-card__count">9 papers</span>
   </div>
-  <h3 id="publications-methods">Numerical Methods</h3>
+  <h3 id="publications-methods">Computational Plasma Physics</h3>
 
 - **Luo, H.**, **Zhang, B.**, Tian, J., Cai, J., Chen, J., Feng, E., Zheng, Z., Xi, S., & Lyon, J. G. (2026). GAMERA-OP: A three-dimensional finite-volume magnetohydrodynamic solver for orthogonal curvilinear geometries. *The Astrophysical Journal Supplement Series*, 285(1), 15. <a class="publication-link" href="https://doi.org/10.3847/1538-4365/ae7344" target="_blank" rel="noopener noreferrer">Paper ↗</a>
 - **Luo, H.**, **Zhang, B.**, Lyon, J. G., & Tian, J. (2025). Enhanced partial donor cell method for hyperbolic equations in orthogonal curvilinear coordinates. *Computer Physics Communications*, 109808. <a class="publication-link" href="https://doi.org/10.1016/j.cpc.2025.109808" target="_blank" rel="noopener noreferrer">Paper ↗</a>
