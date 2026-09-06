@@ -14,7 +14,14 @@ Selected peer-reviewed papers are grouped below by their primary scientific cont
 
 ## Selected Publications
 
-### Numerical Methods
+<div class="publication-sections">
+
+<section class="publication-card publication-card--methods" aria-labelledby="publications-methods" markdown="1">
+  <div class="publication-card__header">
+    <p class="publication-card__eyebrow">Methods &amp; models</p>
+    <span class="publication-card__count">11 papers</span>
+  </div>
+  <h3 id="publications-methods">Numerical Methods</h3>
 
 - **Luo, H.**, **Zhang, B.**, Tian, J., Cai, J., Chen, J., Feng, E., Zheng, Z., Xi, S., & Lyon, J. G. (2026). GAMERA-OP: A three-dimensional finite-volume magnetohydrodynamic solver for orthogonal curvilinear geometries. *The Astrophysical Journal Supplement Series*, 285(1), 15.
 - **Shang, Z.**, Yao, Z., Liu, J., Xu, L., Xu, Y., **Zhang, B.**, Guo, R., Yu, Y., & Wei, Y. (2025). Statistical study of auroral variability under different solar wind conditions based on classification using deep learning techniques. *Earth and Planetary Physics*, 9(6), 1163-1170.
@@ -28,7 +35,14 @@ Selected peer-reviewed papers are grouped below by their primary scientific cont
 - **Zhang, B.**, Sorathia, K. A., Lyon, J. G., Merkin, V. G., & Wiltberger, M. (2019). GAMERA: A three-dimensional finite-volume MHD solver for non-orthogonal curvilinear geometries. *The Astrophysical Journal Supplement Series*, 244(1), 20.
 - **Zhang, B.**, Sorathia, K. A., Lyon, J. G., Merkin, V. G., & Wiltberger, M. (2019). Conservative averaging-reconstruction techniques (Ring Average) for 3-D finite-volume MHD solvers with axis singularity. *Journal of Computational Physics*, 376, 276-294.
 
-### Terrestrial Magnetosphere
+</section>
+
+<section class="publication-card publication-card--terrestrial" aria-labelledby="publications-terrestrial" markdown="1">
+  <div class="publication-card__header">
+    <p class="publication-card__eyebrow">Geospace</p>
+    <span class="publication-card__count">27 papers</span>
+  </div>
+  <h3 id="publications-terrestrial">Terrestrial Magnetosphere</h3>
 
 - **Yang, Z.**, **Zhang, B.**, Lotko, W., & Lei, J. (2025). Global evolution, energetics, and origins of auroral streamers. *Geophysical Research Letters*, 52(12), e2025GL115681.
 - **Yang, Z.**, **Zhang, B.**, Lei, J., & Lotko, W. (2024). Why Doesn't the Observed Field-Aligned Current Saturate With Increasing Interplanetary Electric Field? *Geophysical Research Letters*, 51(21), e2024GL110037.
@@ -58,7 +72,14 @@ Selected peer-reviewed papers are grouped below by their primary scientific cont
 - **Brambles, O. J.**, Lotko, W., **Zhang, B.**, Wiltberger, M., Lyon, J., & Strangeway, R. J. (2011). Magnetosphere sawtooth oscillations induced by ionospheric outflow. *Science*, 332(6034), 1183-1186.
 - **Zhang, B.**, Lotko, W., Wiltberger, M. J., Brambles, O. J., & Damiano, P. A. (2011). A statistical study of magnetosphere–ionosphere coupling in the Lyon–Fedder–Mobarry global MHD model. *Journal of Atmospheric and Solar-Terrestrial Physics*, 73(5-6), 686-702.
 
-### Space Weather
+</section>
+
+<section class="publication-card publication-card--weather" aria-labelledby="publications-weather" markdown="1">
+  <div class="publication-card__header">
+    <p class="publication-card__eyebrow">Solar–terrestrial</p>
+    <span class="publication-card__count">11 papers</span>
+  </div>
+  <h3 id="publications-weather">Space Weather</h3>
 
 - **Yin, Q.**, Feng, E., **Zhang, B.**, Lotko, W., Pham, K. H., Zheng, Z., Yang, Z., Dang, T., Fu, H., & Brambles, O. (2026). Alfvénic Poynting flux characterized by a substorm-SMC cycle and ionospheric influence. *Space Weather*, 24(8), e2026SW005078.
 - **Zhao, Y.**, Yan, L., Yao, Z., Wei, Y., Guo, R., Lai, H., & **Zhang, B.** (2022). Auroral responses to the visit of comet 73P/Schwassmann–Wachmann 3 in 2006. *Geoscience Letters*, 9(1), 36.
@@ -72,7 +93,14 @@ Selected peer-reviewed papers are grouped below by their primary scientific cont
 - **Brambles, O. J.**, Lotko, W., Damiano, P. A., **Zhang, B.**, Wiltberger, M., & Lyon, J. (2010). Effects of causally driven cusp O+ outflow on the storm time magnetosphere-ionosphere system using a multifluid global simulation. *Journal of Geophysical Research: Space Physics*, 115(A9), A00J04.
 - **Damiano, P. A.**, Brambles, O. J., Lotko, W., **Zhang, B.**, Wiltberger, M., & Lyon, J. (2010). Effects of solar wind dynamic pressure on the ionospheric O+ fluence during the 31 August 2005 storm. *Journal of Geophysical Research: Space Physics*, 115(A11), A00J07.
 
-### Ionosphere–Thermosphere
+</section>
+
+<section class="publication-card publication-card--ionosphere" aria-labelledby="publications-ionosphere" markdown="1">
+  <div class="publication-card__header">
+    <p class="publication-card__eyebrow">Upper atmosphere</p>
+    <span class="publication-card__count">15 papers</span>
+  </div>
+  <h3 id="publications-ionosphere">Ionosphere–Thermosphere</h3>
 
 - **Tan, Y.**, Lei, J., Dang, T., Wang, W., **Zhang, B.**, Luan, X., & Dou, X. (2024). A numerical study of the high latitudinal ion-neutral coupling time scale under disturbed conditions. *Journal of Geophysical Research: Space Physics*, 129(7), e2024JA032497.
 - **Tan, Y.**, Dang, T., Lei, J., Wang, W., & **Zhang, B.** (2023). A Numerical Investigation on the Formation of the Stalling of the Cross-Polar Jet in Midnight Thermospheric Winds. *Journal of Geophysical Research: Space Physics*, 128(12), e2023JA031489.
@@ -90,7 +118,14 @@ Selected peer-reviewed papers are grouped below by their primary scientific cont
 - **Zhang, B.**, Varney, R. H., Lotko, W., Brambles, O. J., Wang, W., Lei, J., Wiltberger, M., & Lyon, J. G. (2015). Pathways of F region thermospheric mass density enhancement via soft electron precipitation. *Journal of Geophysical Research: Space Physics*, 120(7), 5824-5831.
 - **Zhang, B.**, Lotko, W., Brambles, O., Wiltberger, M., Wang, W., Schmitt, P., & Lyon, J. (2012). Enhancement of thermospheric mass density by soft electron precipitation. *Geophysical Research Letters*, 39(20), L20102.
 
-### Jupiter / Saturn
+</section>
+
+<section class="publication-card publication-card--giants" aria-labelledby="publications-giants" markdown="1">
+  <div class="publication-card__header">
+    <p class="publication-card__eyebrow">Giant planets</p>
+    <span class="publication-card__count">30 papers</span>
+  </div>
+  <h3 id="publications-giants">Jupiter / Saturn</h3>
 
 - **Chen, J.**, Delamere, P. A., Lotko, W., Xu, Y., Yao, Z., Brambles, O., Feng, E., Yang, Z., Pham, K. H., & **Zhang, B.** (2026). The role of planetary rotation in polar cusp localization. *Geophysical Research Letters*, 53(10), e2026GL122024.
 - **Xu, Y.**, Yao, Z. H., Arridge, C. S., **Zhang, B.**, Chen, J. J., Badman, S. V., Ray, L. C., Coates, A. J., Ye, S.-Y., Qin, T. S., Zheng, Z. Q., Dunn, W. R., & Wei, Y. (2026). Dawn-dusk asymmetrical distribution of Saturn's cusp. *Nature Communications*, 17(1), 1861.
@@ -123,12 +158,26 @@ Selected peer-reviewed papers are grouped below by their primary scientific cont
 - **Zhang, B.**, Delamere, P. A., Yao, Z., Bonfond, B., Lin, D., Sorathia, K. A., Brambles, O. J., Lotko, W., Garretson, J. S., Merkin, V. G., & others. (2021). How Jupiter's unusual magnetospheric topology structures its aurora. *Science Advances*, 7(15), eabd1204.
 - **Zhang, B.**, Delamere, P. A., Ma, X., Burkholder, B., Wiltberger, M., Lyon, J. G., Merkin, V. G., & Sorathia, K. A. (2018). Asymmetric Kelvin-Helmholtz instability at Jupiter's magnetopause boundary: Implications for corotation-dominated systems. *Geophysical Research Letters*, 45(1), 56-63.
 
-### Moons
+</section>
+
+<section class="publication-card publication-card--moons" aria-labelledby="publications-moons" markdown="1">
+  <div class="publication-card__header">
+    <p class="publication-card__eyebrow">Satellite systems</p>
+    <span class="publication-card__count">2 papers</span>
+  </div>
+  <h3 id="publications-moons">Moons</h3>
 
 - **Long, M.**, Ni, B., Roussos, E., Summers, D., Blanc, M., Xiao, Z., Cao, X., Yao, Z., **Zhang, B.**, Ye, S., & others. (2025). Long-term enhancing of Jupiter's electrostatic waves as diagnostic of Io's mass loading activity. *Science Bulletin*.
 - **De Becker, A.**, Head, L. A., Bonfond, B., Jehin, E., Manfroid, J., Yao, Z., **Zhang, B.**, Grodent, D., Schneider, N., & Benkhaldoun, Z. (2023). A study of Io's sodium jets with the TRAPPIST telescopes. *Astronomy & Astrophysics*, 680, A3.
 
-### Venus / Mars
+</section>
+
+<section class="publication-card publication-card--venus" aria-labelledby="publications-venus" markdown="1">
+  <div class="publication-card__header">
+    <p class="publication-card__eyebrow">Unmagnetized planets</p>
+    <span class="publication-card__count">10 papers</span>
+  </div>
+  <h3 id="publications-venus">Venus / Mars</h3>
 
 - **Zhang, M.**, Dang, T., Lei, J., **Zhang, B.**, Wang, R., Xiao, S., Zhang, T., Chen, J., & Yan, M. (2026). Shock-induced magnetic reconnection in the Venusian magnetotail. *Nature Communications*, 17(1), 6513.
 - **Yan, M.**, Lei, J., Terada, N., **Zhang, B.**, Dang, T., Sakata, R., Sakai, S., & Ma, Y. (2026). Asymmetrically distributed Kelvin-Helmholtz instability at Venusian magnetosphere. *Geophysical Research Letters*, 53(7), e2026GL121691.
@@ -141,9 +190,20 @@ Selected peer-reviewed papers are grouped below by their primary scientific cont
 - **Yan, M.**, Dang, T., Cao, Y.-T., Cui, J., **Zhang, B.**, Liu, Z., & Lei, J. (2022). A comparative study of ionospheric response to solar flares at Earth, Venus, and Mars. *The Astrophysical Journal*, 939(1), 23.
 - **Dang, T.**, Lei, J., **Zhang, B.**, Zhang, T., Yao, Z., Lyon, J., Ma, X., Xiao, S., Yan, M., Brambles, O., & others. (2022). Oxygen ion escape at Venus associated with three-dimensional kelvin-helmholtz instability. *Geophysical Research Letters*, 49(6), e2021GL096961.
 
-### Uranus / Neptune
+</section>
+
+<section class="publication-card publication-card--ice-giants publication-card--empty" aria-labelledby="publications-ice-giants" markdown="1">
+  <div class="publication-card__header">
+    <p class="publication-card__eyebrow">Ice giants</p>
+    <span class="publication-card__count">Future direction</span>
+  </div>
+  <h3 id="publications-ice-giants">Uranus / Neptune</h3>
 
 *Representative publications will be added as this research direction develops.*
+
+</section>
+
+</div>
 
 *[Additional publications available on Google Scholar: https://scholar.google.com/citations?hl=en&user=AC8jpboAAAAJ]*
 

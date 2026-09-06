@@ -547,6 +547,130 @@ img.research-topic-card__figure--dark {
   line-height: 1.5;
 }
 
+/* Publications page */
+.publication-sections {
+  display: grid;
+  gap: 1.35rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.publication-card {
+  --publication-accent: #176276;
+  min-width: 0;
+  padding: clamp(1.35rem, 3vw, 1.9rem);
+  border: 1px solid #dce5e8;
+  border-top: 0.24rem solid var(--publication-accent);
+  border-radius: 0.55rem;
+  background: #fff;
+  box-shadow: 0 0.25rem 0.8rem rgba(18, 55, 72, 0.07);
+}
+
+.publication-card--terrestrial {
+  --publication-accent: #3977a8;
+}
+
+.publication-card--weather {
+  --publication-accent: #d09442;
+}
+
+.publication-card--ionosphere {
+  --publication-accent: #4f8c73;
+}
+
+.publication-card--giants {
+  --publication-accent: #7662a8;
+}
+
+.publication-card--moons {
+  --publication-accent: #687f8a;
+}
+
+.publication-card--venus {
+  --publication-accent: #bc684f;
+}
+
+.publication-card--ice-giants {
+  --publication-accent: #4d91a8;
+}
+
+.publication-card__header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.8rem;
+  margin-bottom: 0.45rem;
+}
+
+.publication-card__eyebrow {
+  margin: 0;
+  color: var(--publication-accent);
+  font-size: $type-size-7;
+  font-weight: bold;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.publication-card__count {
+  flex: 0 0 auto;
+  padding: 0.28rem 0.55rem;
+  border-radius: 999px;
+  background: #edf2f3;
+  color: #516a73;
+  font-size: 0.62rem;
+  font-weight: bold;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.publication-card h3 {
+  margin: 0;
+  color: #172d38;
+  font-size: clamp(1.45rem, 2.6vw, 2rem);
+  letter-spacing: -0.025em;
+}
+
+.publication-card ul {
+  margin: 1rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.publication-card li {
+  position: relative;
+  margin: 0;
+  padding: 0.82rem 0 0.82rem 1.05rem;
+  border-top: 1px solid #e3eaec;
+  color: #52656d;
+  font-size: 0.82rem;
+  line-height: 1.62;
+}
+
+.publication-card li::before {
+  position: absolute;
+  top: 1.37rem;
+  left: 0;
+  width: 0.34rem;
+  height: 0.34rem;
+  border-radius: 50%;
+  background: var(--publication-accent);
+  content: "";
+}
+
+.publication-card li:first-child {
+  border-top: 0;
+}
+
+.publication-card li strong {
+  color: #263f49;
+}
+
+.publication-card--empty > p:last-child {
+  margin: 1rem 0 0;
+  color: #73838a;
+  font-size: 0.82rem;
+  line-height: 1.6;
+}
+
 .code-detail {
   scroll-margin-top: 5rem;
   padding: clamp(1.5rem, 4vw, 2.6rem);
