@@ -664,6 +664,31 @@ img.research-topic-card__figure--dark {
   color: #263f49;
 }
 
+.publication-link {
+  display: inline-flex;
+  align-items: center;
+  margin-left: 0.35rem;
+  padding: 0.12rem 0.45rem;
+  border: 1px solid #cbdadd;
+  border-radius: 999px;
+  color: #176276;
+  font-size: 0.64rem;
+  font-weight: bold;
+  line-height: 1.45;
+  text-decoration: none;
+  white-space: nowrap;
+  vertical-align: 0.08rem;
+  transition: border-color 0.15s ease, background-color 0.15s ease, color 0.15s ease;
+}
+
+.publication-link:hover,
+.publication-link:focus-visible {
+  border-color: #123748;
+  background: #123748;
+  color: #fff;
+  text-decoration: none;
+}
+
 .publication-card--empty > p:last-child {
   margin: 1rem 0 0;
   color: #73838a;
