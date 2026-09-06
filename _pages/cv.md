@@ -38,7 +38,7 @@ Selected peer-reviewed papers are grouped below by their primary scientific cont
 <section class="publication-card publication-card--terrestrial" aria-labelledby="publications-terrestrial" markdown="1">
   <div class="publication-card__header">
     <p class="publication-card__eyebrow">Geospace</p>
-    <span class="publication-card__count">15 papers</span>
+    <span class="publication-card__count">14 papers</span>
   </div>
   <h3 id="publications-terrestrial">Terrestrial Magnetosphere</h3>
 
@@ -56,14 +56,13 @@ Selected peer-reviewed papers are grouped below by their primary scientific cont
 - **Zhang, B.**, Brambles, O., Lotko, W., Dunlap-Shohl, W., Smith, R., Wiltberger, M., & Lyon, J. (2013). Predicting the location of polar cusp in the Lyon-Fedder-Mobarry global magnetosphere simulation. *Journal of Geophysical Research: Space Physics*, 118(10), 6327-6337. <a class="publication-link" href="https://doi.org/10.1002/jgra.50565" target="_blank" rel="noopener noreferrer">Paper ↗</a>
 - **Zhang, B.**, Lotko, W., Brambles, O., Damiano, P., Wiltberger, M., & Lyon, J. (2012). Magnetotail origins of auroral Alfvénic power. *Journal of Geophysical Research: Space Physics*, 117(A9), A09205. <a class="publication-link" href="https://doi.org/10.1029/2012ja017680" target="_blank" rel="noopener noreferrer">Paper ↗</a>
 - **Brambles, O. J.**, Lotko, W., **Zhang, B.**, Wiltberger, M., Lyon, J., & Strangeway, R. J. (2011). Magnetosphere sawtooth oscillations induced by ionospheric outflow. *Science*, 332(6034), 1183-1186. <a class="publication-link" href="https://doi.org/10.1126/science.1202869" target="_blank" rel="noopener noreferrer">Paper ↗</a>
-- **Zhang, B.**, Lotko, W., Wiltberger, M. J., Brambles, O. J., & Damiano, P. A. (2011). A statistical study of magnetosphere–ionosphere coupling in the Lyon–Fedder–Mobarry global MHD model. *Journal of Atmospheric and Solar-Terrestrial Physics*, 73(5-6), 686-702. <a class="publication-link" href="https://doi.org/10.1016/j.jastp.2010.09.027" target="_blank" rel="noopener noreferrer">Paper ↗</a>
 
 </section>
 
 <section class="publication-card publication-card--weather" aria-labelledby="publications-weather" markdown="1">
   <div class="publication-card__header">
     <p class="publication-card__eyebrow">Solar–terrestrial</p>
-    <span class="publication-card__count">8 papers</span>
+    <span class="publication-card__count">9 papers</span>
   </div>
   <h3 id="publications-weather">Space Weather</h3>
 
@@ -74,6 +73,7 @@ Selected peer-reviewed papers are grouped below by their primary scientific cont
 - **McGranaghan, R. M.**, Ziegler, J., Bloch, T., Hatch, S., Camporeale, E., Lynch, K., Owens, M., Gjerloev, J., **Zhang, B.**, & Skone, S. (2021). Toward a next generation particle precipitation model: Mesoscale prediction through machine learning (a case study and framework for progress). *Space Weather*, 19(6), e2020SW002684. <a class="publication-link" href="https://doi.org/10.1029/2020sw002684" target="_blank" rel="noopener noreferrer">Paper ↗</a>
 - **Dang, T.**, Lei, J., Wang, W., Wang, B., **Zhang, B.**, Liu, J., Burns, A., & Nishimura, Y. (2019). Formation of double tongues of ionization during the 17 March 2013 geomagnetic storm. *Journal of Geophysical Research: Space Physics*, 124(12), 10619-10630. <a class="publication-link" href="https://doi.org/10.1029/2019ja027268" target="_blank" rel="noopener noreferrer">Paper ↗</a>
 - **Brambles, O. J.**, Lotko, W., **Zhang, B.**, Ouellette, J., Lyon, J., & Wiltberger, M. (2013). The effects of ionospheric outflow on ICME and SIR driven sawtooth events. *Journal of Geophysical Research: Space Physics*, 118(10), 6026-6041. <a class="publication-link" href="https://doi.org/10.1002/jgra.50522" target="_blank" rel="noopener noreferrer">Paper ↗</a>
+- **Zhang, B.**, Lotko, W., Wiltberger, M. J., Brambles, O. J., & Damiano, P. A. (2011). A statistical study of magnetosphere–ionosphere coupling in the Lyon–Fedder–Mobarry global MHD model. *Journal of Atmospheric and Solar-Terrestrial Physics*, 73(5-6), 686-702. <a class="publication-link" href="https://doi.org/10.1016/j.jastp.2010.09.027" target="_blank" rel="noopener noreferrer">Paper ↗</a>
 - **Brambles, O. J.**, Lotko, W., Damiano, P. A., **Zhang, B.**, Wiltberger, M., & Lyon, J. (2010). Effects of causally driven cusp O+ outflow on the storm time magnetosphere-ionosphere system using a multifluid global simulation. *Journal of Geophysical Research: Space Physics*, 115(A9), A00J04. <a class="publication-link" href="https://doi.org/10.1029/2010ja015469" target="_blank" rel="noopener noreferrer">Paper ↗</a>
 
 </section>
