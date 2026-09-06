@@ -19,13 +19,14 @@ Selected peer-reviewed papers are grouped below by their primary scientific cont
 <section class="publication-card publication-card--methods" aria-labelledby="publications-methods" markdown="1">
   <div class="publication-card__header">
     <p class="publication-card__eyebrow">Methods &amp; models</p>
-    <span class="publication-card__count">8 papers</span>
+    <span class="publication-card__count">9 papers</span>
   </div>
   <h3 id="publications-methods">Numerical Methods</h3>
 
 - **Luo, H.**, **Zhang, B.**, Tian, J., Cai, J., Chen, J., Feng, E., Zheng, Z., Xi, S., & Lyon, J. G. (2026). GAMERA-OP: A three-dimensional finite-volume magnetohydrodynamic solver for orthogonal curvilinear geometries. *The Astrophysical Journal Supplement Series*, 285(1), 15. <a class="publication-link" href="https://doi.org/10.3847/1538-4365/ae7344" target="_blank" rel="noopener noreferrer">Paper ↗</a>
 - **Luo, H.**, **Zhang, B.**, Lyon, J. G., & Tian, J. (2025). Enhanced partial donor cell method for hyperbolic equations in orthogonal curvilinear coordinates. *Computer Physics Communications*, 109808. <a class="publication-link" href="https://doi.org/10.1016/j.cpc.2025.109808" target="_blank" rel="noopener noreferrer">Paper ↗</a>
 - **Luo, H.**, Lyon, J. G., & **Zhang, B.** (2023). Gas kinetic schemes for solving the magnetohydrodynamic equations with pressure anisotropy. *Journal of Computational Physics*, 490, 112311. <a class="publication-link" href="https://doi.org/10.1016/j.jcp.2023.112311" target="_blank" rel="noopener noreferrer">Paper ↗</a>
+- **Dang, T.**, **Zhang, B.**, Yan, M., Lyon, J., Yao, Z., Xiao, S., Zhang, T., & Lei, J. (2023). A new tool for understanding the solar wind–Venus interaction: three-dimensional multifluid MHD model. *The Astrophysical Journal*, 945(2), 91. <a class="publication-link" href="https://doi.org/10.3847/1538-4357/acba88" target="_blank" rel="noopener noreferrer">Paper ↗</a>
 - **Li, Z.**, Lei, J., & **Zhang, B.** (2021). Numerical considerations in the simulation of equatorial spread F. *Journal of Geophysical Research: Space Physics*, 126(10), e2021JA029622. <a class="publication-link" href="https://doi.org/10.1029/2021ja029622" target="_blank" rel="noopener noreferrer">Paper ↗</a>
 - **Dang, T.**, **Zhang, B.**, Lei, J., Wang, W., Burns, A., Liu, H.-L., Pham, K., & Sorathia, K. A. (2021). Azimuthal averaging–reconstruction filtering techniques for finite-difference general circulation models in spherical geometry. *Geoscientific Model Development*, 14(2), 859-873. <a class="publication-link" href="https://doi.org/10.5194/gmd-14-859-2021" target="_blank" rel="noopener noreferrer">Paper ↗</a>
 - **Zhang, B.**, Sorathia, K. A., Lyon, J. G., Merkin, V. G., & Wiltberger, M. (2019). GAMERA: A three-dimensional finite-volume MHD solver for non-orthogonal curvilinear geometries. *The Astrophysical Journal Supplement Series*, 244(1), 20. <a class="publication-link" href="https://doi.org/10.3847/1538-4365/ab3a4c" target="_blank" rel="noopener noreferrer">Paper ↗</a>
@@ -136,7 +137,7 @@ Selected peer-reviewed papers are grouped below by their primary scientific cont
 <section class="publication-card publication-card--venus" aria-labelledby="publications-venus" markdown="1">
   <div class="publication-card__header">
     <p class="publication-card__eyebrow">Unmagnetized planets</p>
-    <span class="publication-card__count">10 papers</span>
+    <span class="publication-card__count">9 papers</span>
   </div>
   <h3 id="publications-venus">Venus / Mars</h3>
 
@@ -147,7 +148,6 @@ Selected peer-reviewed papers are grouped below by their primary scientific cont
 - **Dang, T.**, Lei, J., **Zhang, B.**, Xiao, S., Zhang, T., He, J., Chen, J., Yan, M., & Yao, Z. (2025). Unveiling the global characteristics of turbulence in the Venusian space environment. *Geophysical Research Letters*, 52(14), e2025GL116892. <a class="publication-link" href="https://doi.org/10.1029/2025gl116892" target="_blank" rel="noopener noreferrer">Paper ↗</a>
 - **Jiang, K.**, Lei, J., Yan, M., & **Zhang, B.** (2025). Numerical simulation of Martian ionospheric irregularities. *Journal of Geophysical Research: Planets*, 130(3), e2024JE008898. <a class="publication-link" href="https://doi.org/10.1029/2024je008898" target="_blank" rel="noopener noreferrer">Paper ↗</a>
 - **Liu, Z.**, Lei, J., Yan, M., Cao, Y.-T., Dang, T., Cui, J., & **Zhang, B.** (2024). Parameterization of secondary ionization rates and photoelectron heating rates of Venus and Mars. *Journal of Geophysical Research: Space Physics*, 129(5), e2024JA032411. <a class="publication-link" href="https://doi.org/10.1029/2024ja032411" target="_blank" rel="noopener noreferrer">Paper ↗</a>
-- **Dang, T.**, **Zhang, B.**, Yan, M., Lyon, J., Yao, Z., Xiao, S., Zhang, T., & Lei, J. (2023). A new tool for understanding the solar wind–Venus interaction: three-dimensional multifluid MHD model. *The Astrophysical Journal*, 945(2), 91. <a class="publication-link" href="https://doi.org/10.3847/1538-4357/acba88" target="_blank" rel="noopener noreferrer">Paper ↗</a>
 - **Yan, M.**, Dang, T., Cao, Y.-T., Cui, J., **Zhang, B.**, Liu, Z., & Lei, J. (2022). A comparative study of ionospheric response to solar flares at Earth, Venus, and Mars. *The Astrophysical Journal*, 939(1), 23. <a class="publication-link" href="https://doi.org/10.3847/1538-4357/ac92ff" target="_blank" rel="noopener noreferrer">Paper ↗</a>
 - **Dang, T.**, Lei, J., **Zhang, B.**, Zhang, T., Yao, Z., Lyon, J., Ma, X., Xiao, S., Yan, M., Brambles, O., & others. (2022). Oxygen ion escape at Venus associated with three-dimensional kelvin-helmholtz instability. *Geophysical Research Letters*, 49(6), e2021GL096961. <a class="publication-link" href="https://doi.org/10.1029/2021gl096961" target="_blank" rel="noopener noreferrer">Paper ↗</a>
 
