@@ -10,9 +10,9 @@ redirect_from:
 
 {% include base_path %}
 
-Peer-reviewed papers and conference presentations are listed below. For citation metrics and the most current publication record, visit [Google Scholar](https://scholar.google.com/citations?hl=en&user=AC8jpboAAAAJ).
+Selected peer-reviewed papers and conference presentations are listed below. For citation metrics and the complete, most current publication record, visit [Google Scholar](https://scholar.google.com/citations?hl=en&user=AC8jpboAAAAJ).
 
-## Journal Publications
+## Selected Publications
 
 1. **Yin, Q.**, Feng, E., **Zhang, B.**, Lotko, W., Pham, K. H., Zheng, Z., Yang, Z., Dang, T., Fu, H., & Brambles, O. (2026). Alfvénic Poynting flux characterized by a substorm-SMC cycle and ionospheric influence. *Space Weather*, 24(8), e2026SW005078.
 
@@ -26,15 +26,11 @@ Peer-reviewed papers and conference presentations are listed below. For citation
 
 6. **Xu, Y.**, Yao, Z. H., Arridge, C. S., **Zhang, B.**, Chen, J. J., Badman, S. V., Ray, L. C., Coates, A. J., Ye, S.-Y., Qin, T. S., Zheng, Z. Q., Dunn, W. R., & Wei, Y. (2026). Dawn-dusk asymmetrical distribution of Saturn's cusp. *Nature Communications*, 17(1), 1861.
 
-7. **Yan, T.**, Yu, Y., Ma, L., An, D., Wei, Z., **Zhang, B.**, Chen, J., & Wu, X. (2026). Proton trapping in Ganymede's magnetosphere: A quantitative test particle study. *The Astrophysical Journal*, 999(2), 208.
-
 8. **Gu, W.**, Wei, Y., Yao, Z., Yan, L., Xu, Y., & **Zhang, B.** (2026). An investigation on the apparent north-south asymmetry identified in multiple current sheet crossing events in Jovian dawn outer magnetosphere. *Journal of Geophysical Research: Space Physics*, 131(3), e2025JA034597.
 
 9. **Yan, M.**, Lei, J., Yang, Z., **Zhang, B.**, & Dang, T. (2026). A simulation study of an HFA-like event at Mars. *The Astrophysical Journal*, 999(1), 7.
 
 10. **Cai, J.**, Dang, T., Lei, J., **Zhang, B.**, Yao, Z., Chen, J., Xu, X., Xiao, S., & Zhang, T. (2026). Response of Venusian plasma environment to the interplanetary coronal mass ejections on 5 November 2011: A magnetohydrodynamics simulation study. *Astronomy & Astrophysics*, 706, A118.
-
-11. **Yan, T.**, Yu, Y., An, D., Ma, L., **Zhang, B.**, Chen, J., Gong, F., Bai, K., & Wu, X. (2026). Off-equatorial electron trajectories in Ganymede's magnetosphere: Implications for a bifurcated ring current under different Jovian wind conditions. *The Astrophysical Journal*, 997(2), 305.
 
 12. **Sun, J. W.**, Xie, L., Yao, Z. H., Fu, S. Y., **Zhang, B.**, Xu, Y., Leppard, F., Chen, Y. N., Grodent, D., Ray, L. C., Bonfond, B., & Dunn, W. R. (2025). Determining the state of Jupiter's magnetosphere using in situ and remote sensing observations. *The Astrophysical Journal*, 995(1), 7.
 
@@ -60,8 +56,6 @@ Peer-reviewed papers and conference presentations are listed below. For citation
 
 23. **Yang, Z.**, **Zhang, B.**, Lei, J., & Lotko, W. (2024). Why Doesn't the Observed Field-Aligned Current Saturate With Increasing Interplanetary Electric Field? *Geophysical Research Letters*, 51(21), e2024GL110037.
 
-24. **Yan, T.**, **Zhang, B.**, Chen, J., Yang, Z., Ye, S., & Cui, J. (2024). Unveiling the Connection between the Alfvénic Oval and the Open–Closed Field Line Boundary at Ganymede. *The Astrophysical Journal*, 975(1), 107.
-
 25. **Fu, S.**, **Zhang, B.**, Lei, J., Lotko, W., Yang, Z., Dang, T., & Luan, X. (2024). What Controls the Dawn-Dusk Asymmetry of Dayside Alfvénic Power: Interplanetary Magnetic Field or Ionospheric Conductance? *Geophysical Research Letters*, 51(20), e2024GL112011.
 
 26. **Zhang, B.**, Yao, Z., Brambles, O. J., Delamere, P. A., Lotko, W., Grodent, D., Bonfond, B., Chen, J., Sorathia, K. A., Merkin, V. G., & others. (2024). A unified framework for global auroral morphologies of different planets. *Nature Astronomy*, 8(8), 964-972.
@@ -75,8 +69,6 @@ Peer-reviewed papers and conference presentations are listed below. For citation
 30. **Tan, Y.**, Lei, J., Dang, T., Wang, W., **Zhang, B.**, Luan, X., & Dou, X. (2024). A numerical study of the high latitudinal ion-neutral coupling time scale under disturbed conditions. *Journal of Geophysical Research: Space Physics*, 129(7), e2024JA032497.
 
 31. **Liu, Z.**, Lei, J., Yan, M., Cao, Y.-T., Dang, T., Cui, J., & **Zhang, B.** (2024). Parameterization of secondary ionization rates and photoelectron heating rates of Venus and Mars. *Journal of Geophysical Research: Space Physics*, 129(5), e2024JA032411.
-
-32. **Yan, T.**, **Zhang, B.**, Chen, J., Zheng, Z., Yang, Z., Ye, S., & Cui, J. (2024). Three-dimensional Magnetohydrodynamic Simulations of Periodic Variations of Ganymede's Footprint. *The Astrophysical Journal*, 965(1), 82.
 
 33. **Delamere, P. A.**, Wilson, R. J., Wing, S., Smith, A. R., Mino, B., Spitler, C., Damiano, P., Sorathia, K., Sciola, A., Caggiano, J., & **Zhang, B.** (2024). Signatures of open magnetic flux in Jupiter's dawnside magnetotail. *AGU Advances*, 5(2), e2023AV001111.
 
