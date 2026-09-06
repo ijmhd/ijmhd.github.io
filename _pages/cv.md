@@ -65,7 +65,7 @@ Selected peer-reviewed papers are grouped below by their primary scientific cont
 <section class="publication-card publication-card--weather" aria-labelledby="publications-weather" markdown="1">
   <div class="publication-card__header">
     <p class="publication-card__eyebrow">Solar–terrestrial</p>
-    <span class="publication-card__count">9 papers</span>
+    <span class="publication-card__count">8 papers</span>
   </div>
   <h3 id="publications-weather">Space Weather</h3>
 
@@ -75,7 +75,6 @@ Selected peer-reviewed papers are grouped below by their primary scientific cont
 - **Pham, K. H.**, **Zhang, B.**, Sorathia, K., Dang, T., Wang, W., Merkin, V., Liu, H., Lin, D., Wiltberger, M., Lei, J., & others. (2022). Thermospheric density perturbations produced by traveling atmospheric disturbances during August 2005 storm. *Journal of Geophysical Research: Space Physics*, 127(2), e2021JA030071. <a class="publication-link" href="https://doi.org/10.1029/2021ja030071" target="_blank" rel="noopener noreferrer">Paper ↗</a>
 - **McGranaghan, R. M.**, Ziegler, J., Bloch, T., Hatch, S., Camporeale, E., Lynch, K., Owens, M., Gjerloev, J., **Zhang, B.**, & Skone, S. (2021). Toward a next generation particle precipitation model: Mesoscale prediction through machine learning (a case study and framework for progress). *Space Weather*, 19(6), e2020SW002684. <a class="publication-link" href="https://doi.org/10.1029/2020sw002684" target="_blank" rel="noopener noreferrer">Paper ↗</a>
 - **Dang, T.**, Lei, J., Wang, W., Wang, B., **Zhang, B.**, Liu, J., Burns, A., & Nishimura, Y. (2019). Formation of double tongues of ionization during the 17 March 2013 geomagnetic storm. *Journal of Geophysical Research: Space Physics*, 124(12), 10619-10630. <a class="publication-link" href="https://doi.org/10.1029/2019ja027268" target="_blank" rel="noopener noreferrer">Paper ↗</a>
-- **Liu, J.**, Wang, W., **Zhang, B.**, Huang, C., & Lin, D. (2018). Temporal variation of solar wind in controlling solar wind-magnetosphere-ionosphere energy budget. *Journal of Geophysical Research: Space Physics*, 123(7), 5862-5869. <a class="publication-link" href="https://doi.org/10.1029/2017ja025154" target="_blank" rel="noopener noreferrer">Paper ↗</a>
 - **Brambles, O. J.**, Lotko, W., **Zhang, B.**, Ouellette, J., Lyon, J., & Wiltberger, M. (2013). The effects of ionospheric outflow on ICME and SIR driven sawtooth events. *Journal of Geophysical Research: Space Physics*, 118(10), 6026-6041. <a class="publication-link" href="https://doi.org/10.1002/jgra.50522" target="_blank" rel="noopener noreferrer">Paper ↗</a>
 - **Brambles, O. J.**, Lotko, W., Damiano, P. A., **Zhang, B.**, Wiltberger, M., & Lyon, J. (2010). Effects of causally driven cusp O+ outflow on the storm time magnetosphere-ionosphere system using a multifluid global simulation. *Journal of Geophysical Research: Space Physics*, 115(A9), A00J04. <a class="publication-link" href="https://doi.org/10.1029/2010ja015469" target="_blank" rel="noopener noreferrer">Paper ↗</a>
 
